@@ -12,13 +12,58 @@
   ],
   "rows": [
     [
+      "abschließen",
+      "schloss ab",
+      "abgeschlossen",
+      "haben",
+      "to complete / finish (e.g. training)",
+      "B1",
+      "stark"
+    ],
+    [
+      "anbieten",
+      "bot an",
+      "angeboten",
+      "haben",
+      "to offer",
+      "B1",
+      "stark"
+    ],
+    [
       "anlegen",
       "legte an",
-      "hat angelegt",
+      "angelegt",
       "haben",
       "to invest (money); to lay out (Grünflächen anlegen)",
       "B1",
       "schwach"
+    ],
+    [
+      "anlügen",
+      "log an",
+      "angelogen",
+      "haben",
+      "to lie to someone",
+      "B1",
+      "stark"
+    ],
+    [
+      "anprobieren",
+      "probierte an",
+      "anprobiert",
+      "haben",
+      "to try on",
+      "B1",
+      "schwach"
+    ],
+    [
+      "anstoßen",
+      "stieß an",
+      "angestoßen",
+      "haben",
+      "to clink glasses / toast",
+      "B1",
+      "stark"
     ],
     [
       "antworten",
@@ -30,6 +75,15 @@
       "schwach"
     ],
     [
+      "anwenden",
+      "wendete an",
+      "angewendet",
+      "haben",
+      "benutzen",
+      "B1",
+      "trennbar, regelmäßig"
+    ],
+    [
       "arbeiten",
       "arbeitete",
       "gearbeitet",
@@ -39,22 +93,121 @@
       "schwach"
     ],
     [
+      "aufbewahren",
+      "bewahrte auf",
+      "aufbewahrt",
+      "haben",
+      "to store / keep",
+      "B1",
+      "schwach"
+    ],
+    [
+      "auffordern",
+      "forderte auf",
+      "aufgefordert",
+      "haben",
+      "jmdm. sagen, was sie/er tun soll",
+      "B1",
+      "trennbar, regelmäßig"
+    ],
+    [
+      "aufgeben",
+      "gab auf",
+      "aufgegeben",
+      "haben",
+      "(für immer) aufhören",
+      "B1",
+      "trennbar, unregelmäßig"
+    ],
+    [
+      "aufheben",
+      "hob auf",
+      "aufgehoben",
+      "haben",
+      "behalten",
+      "B1",
+      "trennbar, unregelmäßig"
+    ],
+    [
       "aufnehmen",
       "nahm auf",
-      "hat aufgenommen",
+      "aufgenommen",
       "haben",
       "to take out (einen Kredit aufnehmen); to record/take in",
       "B1",
       "stark"
     ],
     [
+      "ausdrucken",
+      "druckte aus",
+      "ausgedruckt",
+      "haben",
+      "to print out",
+      "B1",
+      "schwach"
+    ],
+    [
+      "ausfüllen",
+      "füllte aus",
+      "ausgefüllt",
+      "haben",
+      "to fill out (a form)",
+      "B1",
+      "schwach"
+    ],
+    [
       "ausgeben",
       "gab aus",
-      "hat ausgegeben",
+      "ausgegeben",
       "haben",
       "to spend (money)",
       "B1",
       "stark"
+    ],
+    [
+      "ausreichen",
+      "reichte aus",
+      "ausgereicht",
+      "haben",
+      "es ist genug",
+      "B1",
+      "trennbar, regelmäßig"
+    ],
+    [
+      "ausschließen",
+      "schloss aus",
+      "ausgeschlossen",
+      "haben",
+      "to exclude / rule out",
+      "B1",
+      "stark"
+    ],
+    [
+      "auswandern",
+      "wanderte aus",
+      "ausgewandert",
+      "sein",
+      "to emigrate",
+      "B1",
+      "schwach"
+    ],
+    [
+      "basteln",
+      "bastelte",
+      "gebastelt",
+      "haben",
+      "etw. reparieren oder bauen",
+      "B1",
+      "regelmäßig"
+    ],
+    [
+      "beeinflussen",
+      "beeinflusste",
+      "beeinflusst",
+      "haben",
+      "to influence",
+      "B1",
+      "schwach"
     ],
     [
       "begegnen",
@@ -75,6 +228,15 @@
       "stark"
     ],
     [
+      "begleiten",
+      "begleitete",
+      "begleitet",
+      "haben",
+      "mit jmdm. mitgehen oder -fahren",
+      "B1",
+      "regelmäßig"
+    ],
+    [
       "beißen",
       "biss",
       "gebissen",
@@ -84,9 +246,54 @@
       "stark"
     ],
     [
+      "beleben",
+      "belebte",
+      "belebt",
+      "haben",
+      "to revive / stimulate",
+      "B1",
+      "schwach"
+    ],
+    [
+      "beobachten",
+      "beobachtete",
+      "beobachtet",
+      "haben",
+      "to observe",
+      "B1",
+      "schwach"
+    ],
+    [
+      "beruhigen",
+      "beruhigte",
+      "beruhigt",
+      "haben",
+      "to calm down",
+      "B1",
+      "schwach"
+    ],
+    [
+      "beschließen",
+      "beschloss",
+      "beschlossen",
+      "haben",
+      "to decide = sich entschließen",
+      "B1",
+      "stark"
+    ],
+    [
+      "besitzen",
+      "besaß",
+      "besessen",
+      "haben",
+      "to own = haben",
+      "B1",
+      "gemischt"
+    ],
+    [
       "betrügen",
       "betrog",
-      "hat betrogen",
+      "betrogen",
       "haben",
       "to deceive, to defraud (someone)",
       "B1",
@@ -95,9 +302,18 @@
     [
       "bevorzugen",
       "bevorzugte",
-      "hat bevorzugt",
+      "bevorzugt",
       "haben",
       "to prefer",
+      "B1",
+      "schwach"
+    ],
+    [
+      "bewerten",
+      "bewertete",
+      "bewertet",
+      "haben",
+      "to evaluate / rate",
       "B1",
       "schwach"
     ],
@@ -131,7 +347,7 @@
     [
       "einbrechen",
       "brach ein",
-      "ist eingebrochen",
+      "eingebrochen",
       "sein",
       "to break in (in ein Haus einbrechen)",
       "B1",
@@ -140,10 +356,28 @@
     [
       "einkaufen",
       "kaufte ein",
-      "hat eingekauft",
+      "eingekauft",
       "haben",
       "to shop, to buy groceries",
       "A2",
+      "schwach"
+    ],
+    [
+      "einladen",
+      "lud ein",
+      "eingeladen",
+      "haben",
+      "to invite",
+      "B1",
+      "stark"
+    ],
+    [
+      "einwandern",
+      "wanderte ein",
+      "eingewandert",
+      "sein",
+      "to immigrate",
+      "B1",
       "schwach"
     ],
     [
@@ -156,6 +390,15 @@
       "stark"
     ],
     [
+      "entlassen",
+      "entließ",
+      "entlassen",
+      "haben",
+      "jmdm. kündigen",
+      "B1",
+      "unregelmäßig"
+    ],
+    [
       "entstehen",
       "entstand",
       "entstanden",
@@ -163,6 +406,24 @@
       "to arise / come into being",
       "B1",
       "stark"
+    ],
+    [
+      "erfinden",
+      "erfand",
+      "erfunden",
+      "haben",
+      "to invent",
+      "B1",
+      "stark"
+    ],
+    [
+      "erfüllen",
+      "erfüllte",
+      "erfüllt",
+      "haben",
+      "tun, was jmd. erwartet",
+      "B1",
+      "regelmäßig"
     ],
     [
       "erklären",
@@ -174,9 +435,27 @@
       "schwach"
     ],
     [
+      "erleben",
+      "erlebte",
+      "erlebt",
+      "haben",
+      "to experience",
+      "B1",
+      "schwach"
+    ],
+    [
+      "erwachsen werden",
+      "wurde erwachsen",
+      "erwachsen geworden",
+      "sein",
+      "to grow up",
+      "B1",
+      "stark"
+    ],
+    [
       "fallen",
       "fiel",
-      "ist gefallen",
+      "gefallen",
       "sein",
       "to fall (die Mauer fiel)",
       "B1",
@@ -221,18 +500,36 @@
     [
       "fordern",
       "forderte",
-      "hat gefordert",
+      "gefordert",
       "haben",
       "to demand (= verlangen)",
       "B1",
       "schwach"
     ],
     [
+      "forschen",
+      "forschte",
+      "geforscht",
+      "haben",
+      "to do research",
+      "B1",
+      "schwach"
+    ],
+    [
       "fördern",
       "förderte",
-      "hat gefördert",
+      "gefördert",
       "haben",
       "to support, promote, fund (often state-funded)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "füttern",
+      "fütterte",
+      "gefüttert",
+      "haben",
+      "to feed (an animal)",
       "B1",
       "schwach"
     ],
@@ -251,15 +548,6 @@
       "gefallen",
       "haben",
       "to please (jdm. gefallen)",
-      "A2",
-      "stark"
-    ],
-    [
-      "gefallen",
-      "gefiel",
-      "gefallen",
-      "haben",
-      "to please / be liked by (+ Dat)",
       "A2",
       "stark"
     ],
@@ -327,6 +615,15 @@
       "schwach"
     ],
     [
+      "heiraten",
+      "heiratete",
+      "geheiratet",
+      "haben",
+      "to marry",
+      "B1",
+      "schwach"
+    ],
+    [
       "helfen",
       "half",
       "geholfen",
@@ -341,6 +638,51 @@
       "hergestellt",
       "haben",
       "to produce (trennbar)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "hinaufheben",
+      "hob hinauf",
+      "hinaufgehoben",
+      "haben",
+      "nach oben bewegen",
+      "B1",
+      "trennbar, unregelmäßig"
+    ],
+    [
+      "hindern",
+      "hinderte",
+      "gehindert",
+      "haben",
+      "jmdn. etw. nicht tun lassen",
+      "B1",
+      "regelmäßig"
+    ],
+    [
+      "hungern",
+      "hungerte",
+      "gehungert",
+      "haben",
+      "to starve / go hungry",
+      "B1",
+      "schwach"
+    ],
+    [
+      "hängen",
+      "hing",
+      "gehangen",
+      "haben",
+      "to hang (be hanging)",
+      "B1",
+      "stark"
+    ],
+    [
+      "impfen",
+      "impfte",
+      "geimpft",
+      "haben",
+      "to vaccinate",
       "B1",
       "schwach"
     ],
@@ -363,9 +705,18 @@
       "stark"
     ],
     [
+      "konsumieren",
+      "konsumierte",
+      "konsumiert",
+      "haben",
+      "to consume",
+      "B1",
+      "schwach"
+    ],
+    [
       "kämpfen",
       "kämpfte",
-      "hat gekämpft",
+      "gekämpft",
       "haben",
       "to fight (gegen/für + Akk)",
       "B1",
@@ -379,6 +730,15 @@
       "to run / walk",
       "A2",
       "stark"
+    ],
+    [
+      "legen",
+      "legte",
+      "gelegt",
+      "haben",
+      "to lay / put down",
+      "B1",
+      "schwach"
     ],
     [
       "leiden",
@@ -444,6 +804,15 @@
       "schwach"
     ],
     [
+      "produzieren",
+      "produzierte",
+      "produziert",
+      "haben",
+      "to produce = herstellen",
+      "B1",
+      "schwach"
+    ],
+    [
       "raten",
       "riet",
       "geraten",
@@ -451,6 +820,15 @@
       "to advise (+ Dat)",
       "B1",
       "stark"
+    ],
+    [
+      "reagieren",
+      "reagierte",
+      "reagiert",
+      "haben",
+      "to react",
+      "B1",
+      "schwach"
     ],
     [
       "rennen",
@@ -471,6 +849,24 @@
       "schwach"
     ],
     [
+      "retten",
+      "rettete",
+      "gerettet",
+      "haben",
+      "to rescue / save",
+      "B1",
+      "schwach"
+    ],
+    [
+      "rollen",
+      "rollte",
+      "gerollt",
+      "sein",
+      "etw., das rund ist, bewegt sich",
+      "B1",
+      "regelmäßig"
+    ],
+    [
       "scheinen",
       "schien",
       "geschienen",
@@ -487,6 +883,15 @@
       "to give as a gift (sb [Dat] sth [Akk])",
       "A2",
       "schwach"
+    ],
+    [
+      "schieben",
+      "schob",
+      "geschoben",
+      "haben",
+      "to push",
+      "B1",
+      "stark"
     ],
     [
       "schließen",
@@ -516,6 +921,141 @@
       "stark"
     ],
     [
+      "sich anpassen an",
+      "passte sich an",
+      "sich angepasst",
+      "haben",
+      "to adapt to",
+      "B1",
+      "schwach"
+    ],
+    [
+      "sich anstrengen",
+      "strengte sich an",
+      "sich angestrengt",
+      "haben",
+      "to make an effort",
+      "B1",
+      "schwach"
+    ],
+    [
+      "sich auskennen",
+      "kannte sich aus",
+      "sich ausgekannt",
+      "haben",
+      "to know one's way around",
+      "B1",
+      "gemischt"
+    ],
+    [
+      "sich beschäftigen",
+      "beschäftigte sich",
+      "sich beschäftigt",
+      "haben",
+      "etw. machen, seine Zeit verbringen",
+      "B1",
+      "reflexiv, regelmäßig"
+    ],
+    [
+      "sich beschäftigen mit",
+      "beschäftigte sich",
+      "sich beschäftigt",
+      "haben",
+      "to occupy oneself with",
+      "B1",
+      "schwach"
+    ],
+    [
+      "sich beteiligen",
+      "beteiligte sich",
+      "sich beteiligt",
+      "haben",
+      "mitmachen",
+      "B1",
+      "reflexiv, regelmäßig"
+    ],
+    [
+      "sich bewerben bei",
+      "bewarb sich",
+      "sich beworben",
+      "haben",
+      "to apply (for a job)",
+      "B1",
+      "stark"
+    ],
+    [
+      "sich einigen",
+      "einigte sich",
+      "sich geeinigt",
+      "haben",
+      "eine Lösung finden",
+      "B1",
+      "reflexiv, regelmäßig"
+    ],
+    [
+      "sich entschließen",
+      "entschloss sich",
+      "sich entschlossen",
+      "haben",
+      "to decide",
+      "B1",
+      "stark"
+    ],
+    [
+      "sich fürchten",
+      "fürchtete sich",
+      "sich gefürchtet",
+      "haben",
+      "Angst haben",
+      "B1",
+      "reflexiv, regelmäßig"
+    ],
+    [
+      "sich gewöhnen an",
+      "gewöhnte sich",
+      "sich gewöhnt",
+      "haben",
+      "to get used to",
+      "B1",
+      "schwach"
+    ],
+    [
+      "sich lohnen",
+      "lohnte sich",
+      "sich gelohnt",
+      "haben",
+      "etw. ist sehr gut für die Person",
+      "B1",
+      "reflexiv, regelmäßig"
+    ],
+    [
+      "sich scheiden lassen",
+      "ließ sich scheiden",
+      "sich scheiden lassen",
+      "haben",
+      "to get divorced",
+      "B1",
+      "stark"
+    ],
+    [
+      "sich verlieben",
+      "verliebte sich",
+      "sich verliebt",
+      "haben",
+      "to fall in love",
+      "B1",
+      "schwach"
+    ],
+    [
+      "sich verloben",
+      "verlobte sich",
+      "sich verlobt",
+      "haben",
+      "to get engaged",
+      "B1",
+      "schwach"
+    ],
+    [
       "sinken",
       "sank",
       "gesunken",
@@ -527,10 +1067,28 @@
     [
       "sparen",
       "sparte",
-      "hat gespart",
+      "gespart",
       "haben",
       "to save (money)",
       "A2",
+      "schwach"
+    ],
+    [
+      "spenden",
+      "spendete",
+      "gespendet",
+      "haben",
+      "to donate",
+      "B1",
+      "schwach"
+    ],
+    [
+      "starren",
+      "starrte",
+      "gestarrt",
+      "haben",
+      "to stare",
+      "B1",
       "schwach"
     ],
     [
@@ -541,6 +1099,15 @@
       "(etw.) stecken = (etw.) hineinstecken; (in etw.) stecken = sich befinden / feststecken",
       "A2",
       "schwach"
+    ],
+    [
+      "stehlen",
+      "stahl",
+      "gestohlen",
+      "haben",
+      "etw. nehmen, was mir nicht gehört",
+      "B1",
+      "unregelmäßig"
     ],
     [
       "steigen",
@@ -561,11 +1128,29 @@
       "stark"
     ],
     [
+      "stoßen",
+      "stieß",
+      "gestoßen",
+      "haben",
+      "to push/bump",
+      "B1",
+      "stark"
+    ],
+    [
       "streiten",
       "stritt",
       "gestritten",
       "haben",
       "to argue / quarrel",
+      "B1",
+      "stark"
+    ],
+    [
+      "teilnehmen an",
+      "nahm teil",
+      "teilgenommen",
+      "haben",
+      "to participate in",
       "B1",
       "stark"
     ],
@@ -579,6 +1164,33 @@
       "stark"
     ],
     [
+      "täuschen",
+      "täuschte",
+      "getäuscht",
+      "haben",
+      "to deceive",
+      "B1",
+      "schwach"
+    ],
+    [
+      "umarmen",
+      "umarmte",
+      "umarmt",
+      "haben",
+      "to hug",
+      "B1",
+      "schwach"
+    ],
+    [
+      "unterscheiden",
+      "unterschied",
+      "unterschieden",
+      "haben",
+      "einen Unterschied sehen",
+      "B1",
+      "unregelmäßig"
+    ],
+    [
       "vergessen",
       "vergaß",
       "vergessen",
@@ -588,9 +1200,18 @@
       "stark"
     ],
     [
+      "verhindern",
+      "verhinderte",
+      "verhindert",
+      "haben",
+      "etw. tun, damit etw. nicht passiert",
+      "B1",
+      "regelmäßig"
+    ],
+    [
       "verlangen",
       "verlangte",
-      "hat verlangt",
+      "verlangt",
       "haben",
       "to demand, to require (= fordern)",
       "B1",
@@ -617,9 +1238,27 @@
     [
       "verwalten",
       "verwaltete",
-      "hat verwaltet",
+      "verwaltet",
       "haben",
       "to administer, to manage",
+      "B1",
+      "schwach"
+    ],
+    [
+      "verwechseln",
+      "verwechselte",
+      "verwechselt",
+      "haben",
+      "etw. nicht unterscheiden können",
+      "B1",
+      "regelmäßig"
+    ],
+    [
+      "verwenden",
+      "verwendete",
+      "verwendet",
+      "haben",
+      "to use = benutzen",
       "B1",
       "schwach"
     ],
@@ -629,6 +1268,15 @@
       "verziehen",
       "haben",
       "to forgive (+ Dat)",
+      "B1",
+      "stark"
+    ],
+    [
+      "vorliegen",
+      "lag vor",
+      "vorgelegen",
+      "haben",
+      "to be available / on hand",
       "B1",
       "stark"
     ],
@@ -671,9 +1319,27 @@
     [
       "wiedervereinigen",
       "vereinigte wieder",
-      "hat wiedervereinigt",
+      "wiedervereinigt",
       "haben",
       "to reunify",
+      "B1",
+      "schwach"
+    ],
+    [
+      "wirken",
+      "wirkte",
+      "gewirkt",
+      "haben",
+      "beeinflussen",
+      "B1",
+      "regelmäßig"
+    ],
+    [
+      "zeichnen",
+      "zeichnete",
+      "gezeichnet",
+      "haben",
+      "to draw",
       "B1",
       "schwach"
     ],
@@ -684,6 +1350,15 @@
       "haben",
       "to show (sb [Dat] sth [Akk])",
       "A2",
+      "schwach"
+    ],
+    [
+      "zerstören",
+      "zerstörte",
+      "zerstört",
+      "haben",
+      "to destroy",
+      "B1",
       "schwach"
     ],
     [
@@ -698,7 +1373,7 @@
     [
       "zocken",
       "zockte",
-      "hat gezockt",
+      "gezockt",
       "haben",
       "to gamble (colloquial)",
       "B1",
@@ -707,7 +1382,7 @@
     [
       "zufächern",
       "fächerte zu",
-      "hat zugefächert",
+      "zugefächert",
       "haben",
       "to fan (sich Luft zufächern = to fan oneself)",
       "B1",
@@ -728,6 +1403,33 @@
       "zugestimmt",
       "haben",
       "to agree with (trennbar) (+ Dat)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "üben",
+      "übte",
+      "geübt",
+      "haben",
+      "to practice",
+      "B1",
+      "schwach"
+    ],
+    [
+      "überqueren",
+      "überquerte",
+      "überquert",
+      "haben",
+      "to cross (a street)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "überzeugen",
+      "überzeugte",
+      "überzeugt",
+      "haben",
+      "to convince",
       "B1",
       "schwach"
     ]

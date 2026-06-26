@@ -11,6 +11,46 @@
   ],
   "rows": [
     [
+      "abhängig",
+      "abhängiger",
+      "am abhängigsten",
+      "dependent",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "arbeitslos",
+      "",
+      "",
+      "unemployed",
+      "Beruf",
+      "B1"
+    ],
+    [
+      "attraktiv",
+      "attraktiver",
+      "am attraktivsten",
+      "attractive",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "aufregend",
+      "aufregender",
+      "am aufregendsten",
+      "interessant, spannend",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "ausnahmslos",
+      "",
+      "",
+      "ohne Ausnahme, alle",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
       "bekannt",
       "bekannter",
       "am bekanntesten",
@@ -27,11 +67,75 @@
       "B1"
     ],
     [
+      "berechtigt",
+      "berechtigter",
+      "am berechtigtsten",
+      "es gibt einen guten Grund dafür",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
       "berühmt",
       "berühmter",
       "am berühmtesten",
       "famous",
       "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "dauernd",
+      "",
+      "",
+      "immer, ständig",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "eindeutig",
+      "eindeutiger",
+      "am eindeutigsten",
+      "ganz klar",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "endgültig",
+      "",
+      "",
+      "man kann etw. nicht mehr verändern",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "erfolglos",
+      "erfolgloser",
+      "am erfolglosesten",
+      "unsuccessful",
+      "Beruf",
+      "B1"
+    ],
+    [
+      "erfolgreich",
+      "erfolgreicher",
+      "am erfolgreichsten",
+      "successful",
+      "Beruf",
+      "B1"
+    ],
+    [
+      "erwachsen",
+      "",
+      "",
+      "grown-up / adult",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "fließend",
+      "fließender",
+      "am fließendsten",
+      "schnell, ohne Pausen und Fehler",
+      "Kunst, Geld & Bildung",
       "B1"
     ],
     [
@@ -43,11 +147,315 @@
       "B1"
     ],
     [
+      "gehbehindert",
+      "",
+      "",
+      "unable to walk well / mobility-impaired",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
+      "gerecht",
+      "gerechter",
+      "am gerechtesten",
+      "richtig, fair",
+      "Kunst, Geld & Bildung",
+      "B1"
+    ],
+    [
+      "geschieden",
+      "",
+      "",
+      "divorced",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "gewalttätig",
+      "gewalttätiger",
+      "am gewalttätigsten",
+      "violent",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "gewohnt",
+      "gewohnter",
+      "am gewohntesten",
+      "wie es immer ist, man hat sich daran gewöhnt",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "gutaussehend",
+      "gutaussehender",
+      "am gutaussehendsten",
+      "good-looking",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "herrlich",
+      "herrlicher",
+      "am herrlichsten",
+      "wunderschön",
+      "Kunst, Geld & Bildung",
+      "B1"
+    ],
+    [
+      "häufig",
+      "häufiger",
+      "am häufigsten",
+      "oft",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "höflich",
+      "höflicher",
+      "am höflichsten",
+      "polite",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
+      "hübsch",
+      "hübscher",
+      "am hübschesten",
+      "pretty",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "klug",
+      "klüger",
+      "am klügsten",
+      "intelligent",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "knapp",
+      "knapper",
+      "am knappsten",
+      "kurz, gerade noch ausreichend",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "kostenlos",
+      "",
+      "",
+      "free of charge",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "kräftig",
+      "kräftiger",
+      "am kräftigsten",
+      "stark",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "originell",
+      "origineller",
+      "am originellsten",
+      "original / creative",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "populär",
+      "populärer",
+      "am populärsten",
+      "popular = beliebt",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "riesig",
+      "riesiger",
+      "am riesigsten",
+      "sehr groß",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "roh",
+      "roher",
+      "am rohesten",
+      "raw / uncooked",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "ruhig",
+      "ruhiger",
+      "am ruhigsten",
+      "calm / quiet",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "schwanger",
+      "",
+      "",
+      "pregnant",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
+      "sensibel",
+      "sensibler",
+      "am sensibelsten",
+      "sensitive",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "sinnvoll",
+      "sinnvoller",
+      "am sinnvollsten",
+      "etw. hat eine Bedeutung/Sinn",
+      "Kunst, Geld & Bildung",
+      "B1"
+    ],
+    [
+      "stolz",
+      "stolzer",
+      "am stolzesten",
+      "sehr zufrieden, etw. gern zeigen",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "tatsächlich",
+      "",
+      "",
+      "actual / in fact",
+      "Konsum",
+      "B1"
+    ],
+    [
       "tierlieb",
       "tierlieber",
       "am tierliebsten",
       "fond of animals, animal-loving",
       "Allgemein",
+      "B1"
+    ],
+    [
+      "umgangssprachlich",
+      "umgangssprachlicher",
+      "am umgangssprachlichsten",
+      "colloquial",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
+      "unabhängig",
+      "unabhängiger",
+      "am unabhängigsten",
+      "independent",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "unerträglich",
+      "unerträglicher",
+      "am unerträglichsten",
+      "schrecklich, furchtbar",
+      "Kunst, Geld & Bildung",
+      "B1"
+    ],
+    [
+      "ungefähr",
+      "",
+      "",
+      "nicht genau",
+      "Kunst, Geld & Bildung",
+      "B1"
+    ],
+    [
+      "unglaublich",
+      "unglaublicher",
+      "am unglaublichsten",
+      "man kann es nicht glauben",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "unhöflich",
+      "unhöflicher",
+      "am unhöflichsten",
+      "impolite",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
+      "verantwortlich",
+      "verantwortlicher",
+      "am verantwortlichsten",
+      "responsible",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "vergeblich",
+      "",
+      "",
+      "ohne Erfolg",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "verheiratet",
+      "",
+      "",
+      "married",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "verliebt",
+      "verliebter",
+      "am verliebtesten",
+      "in love",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "vitaminreich",
+      "vitaminreicher",
+      "am vitaminreichsten",
+      "rich in vitamins",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "völlig",
+      "",
+      "",
+      "complete(ly) / total",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "weltweit",
+      "",
+      "",
+      "worldwide",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "zufällig",
+      "zufälliger",
+      "am zufälligsten",
+      "random / by chance",
+      "Beziehungen",
       "B1"
     ],
     [

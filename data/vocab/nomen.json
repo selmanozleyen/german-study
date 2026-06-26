@@ -11,6 +11,14 @@
   ],
   "rows": [
     [
+      "das",
+      "Abendbrot",
+      "die Abendbrote",
+      "supper = das Abendessen",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
       "die",
       "Abhängigkeit",
       "die Abhängigkeiten",
@@ -19,11 +27,59 @@
       "B1"
     ],
     [
+      "der",
+      "Abschluss",
+      "die Abschlüsse",
+      "degree / completion",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
+      "Adresse",
+      "die Adressen",
+      "address = die Anschrift",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Affäre",
+      "die Affären",
+      "affair",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
+      "Ahnung",
+      "die Ahnungen",
+      "idea / clue",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
       "die",
       "Aktie",
       "die Aktien",
       "share, stock (= Wertpapier)",
       "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "die",
+      "Aktiengesellschaft",
+      "die Aktiengesellschaften",
+      "joint-stock company",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Aktion",
+      "die Aktionen",
+      "action",
+      "Computer & Technik",
       "B1"
     ],
     [
@@ -36,10 +92,26 @@
     ],
     [
       "das",
+      "Amt",
+      "die Ämter",
+      "government office = die Behörde",
+      "Migration",
+      "B1"
+    ],
+    [
+      "das",
       "Angebot",
       "die Angebote",
       "offer, (special) deal",
       "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Anmeldung",
+      "die Anmeldungen",
+      "registration",
+      "Migration",
       "B1"
     ],
     [
@@ -60,9 +132,33 @@
     ],
     [
       "die",
+      "Ausbildung",
+      "die Ausbildungen",
+      "vocational training",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
       "Ausländerbehörde",
       "die Ausländerbehörden",
       "immigration office",
+      "Migration",
+      "B1"
+    ],
+    [
+      "der",
+      "Auswanderer",
+      "die Auswanderer",
+      "emigrant",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Auswanderung",
+      "die Auswanderungen",
+      "emigration",
       "Migration",
       "B1"
     ],
@@ -75,6 +171,38 @@
       "A2"
     ],
     [
+      "das",
+      "Bankkonto",
+      "die Bankkonten",
+      "bank account",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Bedienung",
+      "Bedienungen",
+      "Kellner oder Kellnerin",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "die",
+      "Behörde",
+      "die Behörden",
+      "authority / public office",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Berufsschule",
+      "die Berufsschulen",
+      "vocational school",
+      "Bildung",
+      "B1"
+    ],
+    [
       "die",
       "Besatzung",
       "die Besatzungen",
@@ -83,11 +211,27 @@
       "B1"
     ],
     [
+      "die",
+      "Beschäftigung",
+      "die Beschäftigungen",
+      "occupation / activity",
+      "Konsum",
+      "B1"
+    ],
+    [
       "der",
       "Betrug",
       "",
       "fraud, deception (-> betrügen)",
       "Kriminalität",
+      "B1"
+    ],
+    [
+      "die",
+      "Bevölkerung",
+      "Bevölkerungen",
+      "Menschen, die in einer Stadt oder einem Land leben",
+      "Kunst, Geld & Bildung",
       "B1"
     ],
     [
@@ -107,11 +251,43 @@
       "B1"
     ],
     [
+      "das",
+      "Bildungssystem",
+      "die Bildungssysteme",
+      "education system",
+      "Bildung",
+      "B1"
+    ],
+    [
+      "der",
+      "Bildungsweg",
+      "die Bildungswege",
+      "educational path",
+      "Bildung",
+      "B1"
+    ],
+    [
+      "die",
+      "Brotzeit",
+      "die Brotzeiten",
+      "snack/cold meal (Bavarian)",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
       "der",
       "Bundeskanzler",
       "die Bundeskanzler",
       "federal chancellor (f: die Bundeskanzlerin)",
       "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "das",
+      "Bürgerbüro",
+      "die Bürgerbüros",
+      "citizens' office",
+      "Migration",
       "B1"
     ],
     [
@@ -132,6 +308,38 @@
     ],
     [
       "der",
+      "Campingtrip",
+      "die Campingtrips",
+      "camping trip",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "der",
+      "Campingurlaub",
+      "die Campingurlaube",
+      "camping holiday",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "die",
+      "Comedy",
+      "die Comedys",
+      "comedy (stand-up)",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "der",
+      "Darsteller",
+      "Darsteller",
+      "Schauspieler",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "der",
       "Dom",
       "die Dome",
       "cathedral",
@@ -148,6 +356,46 @@
     ],
     [
       "das",
+      "Einkommen",
+      "Einkommen",
+      "das, was man verdient",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "der",
+      "Einwanderer",
+      "die Einwanderer",
+      "immigrant",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Einwanderung",
+      "die Einwanderungen",
+      "immigration",
+      "Migration",
+      "B1"
+    ],
+    [
+      "das",
+      "Ereignis",
+      "Ereignisse",
+      "das, was passiert ist",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "das",
+      "Ergebnis",
+      "Ergebnisse",
+      "Folge, Resultat",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "das",
       "Fahrgeschäft",
       "die Fahrgeschäfte",
       "fairground ride (e.g. at Oktoberfest)",
@@ -156,10 +404,66 @@
     ],
     [
       "die",
+      "Fertigpizza",
+      "die Fertigpizzen",
+      "ready-made pizza",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "das",
+      "Fertigprodukt",
+      "die Fertigprodukte",
+      "ready-made product",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Fiktionsbescheinigung",
+      "die Fiktionsbescheinigungen",
+      "provisional residence certificate",
+      "Migration",
+      "B1"
+    ],
+    [
+      "das",
+      "Finanzamt",
+      "die Finanzämter",
+      "tax office",
+      "Migration",
+      "B1"
+    ],
+    [
+      "das",
+      "Fleischersatzprodukt",
+      "die Fleischersatzprodukte",
+      "meat substitute product",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Flexibilität",
+      "Flexibilitäten",
+      "Fähigkeit, sich zu verändern",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "die",
       "Flitterwochen",
       "(nur Pl.)",
       "honeymoon",
       "Reisen",
+      "B1"
+    ],
+    [
+      "das",
+      "Formular",
+      "die Formulare",
+      "form",
+      "Migration",
       "B1"
     ],
     [
@@ -180,10 +484,34 @@
     ],
     [
       "der",
+      "Friedensmarsch",
+      "Friedensmärsche",
+      "Demonstration für den Frieden",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "die",
+      "Fußball-Weltmeisterschaft",
+      "die Fußball-Weltmeisterschaften",
+      "football World Cup",
+      "Sport",
+      "B1"
+    ],
+    [
+      "der",
       "Fächer",
       "die Fächer",
       "(hand-held) fan (sich Luft zufächern)",
       "Allgemein",
+      "B1"
+    ],
+    [
+      "die",
+      "Förderung",
+      "Förderungen",
+      "(meistens finanzielle) Hilfe, Unterstützung",
+      "Kunst, Geld & Bildung",
       "B1"
     ],
     [
@@ -193,6 +521,30 @@
       "driver's license",
       "Migration",
       "A2"
+    ],
+    [
+      "die",
+      "Geburt",
+      "die Geburten",
+      "birth",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "der",
+      "Gegenstand",
+      "die Gegenstände",
+      "object = das Objekt",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "die",
+      "Gemeinschaft",
+      "die Gemeinschaften",
+      "community",
+      "Konsum",
+      "B1"
     ],
     [
       "das",
@@ -220,10 +572,58 @@
     ],
     [
       "die",
+      "Gesundheitskarte",
+      "die Gesundheitskarten",
+      "health insurance card",
+      "Migration",
+      "B1"
+    ],
+    [
+      "der",
+      "Griff",
+      "die Griffe",
+      "handle / grip",
+      "Computer & Technik",
+      "B1"
+    ],
+    [
+      "die",
       "Grünfläche",
       "die Grünflächen",
       "green space (Grünflächen anlegen)",
       "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "die",
+      "Handlung",
+      "die Handlungen",
+      "plot (of a film/book)",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "die",
+      "Heirat",
+      "(nur Sg.)",
+      "marriage",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
+      "Hochzeit",
+      "die Hochzeiten",
+      "wedding",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
+      "Hochzeitsreise",
+      "die Hochzeitsreisen",
+      "honeymoon = die Flitterwochen",
+      "Reisen",
       "B1"
     ],
     [
@@ -232,6 +632,30 @@
       "die Hundertstel",
       "a hundredth (1/100)",
       "Allgemein",
+      "B1"
+    ],
+    [
+      "der",
+      "Hunger",
+      "(nur Sg.)",
+      "hunger",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Höflichkeit",
+      "(nur Sg.)",
+      "politeness",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
+      "die",
+      "Immatrikulationsbescheinigung",
+      "die Immatrikulationsbescheinigungen",
+      "enrolment certificate",
+      "Migration",
       "B1"
     ],
     [
@@ -259,6 +683,22 @@
       "B1"
     ],
     [
+      "das",
+      "Jahrzehnt",
+      "die Jahrzehnte",
+      "decade",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "der",
+      "Jugendliche",
+      "die Jugendlichen",
+      "teenager",
+      "Höflichkeit",
+      "B1"
+    ],
+    [
       "die",
       "Kathedrale",
       "die Kathedralen",
@@ -280,6 +720,14 @@
       "die Klöster",
       "monastery",
       "Stadt & Kirche",
+      "B1"
+    ],
+    [
+      "die",
+      "Komödie",
+      "die Komödien",
+      "comedy (funny film)",
+      "Kunst & Kultur",
       "B1"
     ],
     [
@@ -312,6 +760,14 @@
       "die Kredite",
       "loan, credit (einen Kredit aufnehmen)",
       "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "das",
+      "Kreisverwaltungsreferat",
+      "die Kreisverwaltungsreferate",
+      "district administration office",
+      "Migration",
       "B1"
     ],
     [
@@ -348,11 +804,51 @@
     ],
     [
       "die",
+      "Künstlerexistenz",
+      "die Künstlerexistenzen",
+      "artist's existence = das Künstlerdasein",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "der",
+      "Laster",
+      "die Laster",
+      "truck = der LKW",
+      "Geschichte & Bauwerke",
+      "B1"
+    ],
+    [
+      "der",
+      "Lebensabschnitt",
+      "die Lebensabschnitte",
+      "stage/phase of life",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
       "Liebe",
       "(meist Sg.)",
       "love",
       "Beziehungen",
       "A2"
+    ],
+    [
+      "der",
+      "Lieblingsschauspieler",
+      "die Lieblingsschauspieler",
+      "favourite actor",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "der",
+      "Lärm",
+      "(nur Sg.)",
+      "noise (unpleasant)",
+      "Kunst & Kultur",
+      "B1"
     ],
     [
       "die",
@@ -387,12 +883,44 @@
       "B1"
     ],
     [
+      "die",
+      "Nonne",
+      "die Nonnen",
+      "nun",
+      "Geschichte & Bauwerke",
+      "B1"
+    ],
+    [
+      "das",
+      "Original",
+      "die Originale",
+      "original",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
       "der",
       "Pass",
       "die Pässe",
       "passport",
       "Migration",
       "A2"
+    ],
+    [
+      "die",
+      "Pilgerreise",
+      "die Pilgerreisen",
+      "pilgrimage",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "der",
+      "Prozess",
+      "die Prozesse",
+      "process",
+      "Beziehungen",
+      "B1"
     ],
     [
       "die",
@@ -411,11 +939,67 @@
       "B1"
     ],
     [
+      "das",
+      "Rathaus",
+      "die Rathäuser",
+      "town hall",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Reaktion",
+      "die Reaktionen",
+      "reaction",
+      "Computer & Technik",
+      "B1"
+    ],
+    [
+      "die",
+      "Rechnung",
+      "die Rechnungen",
+      "invoice / bill",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Rechnungsadresse",
+      "die Rechnungsadressen",
+      "billing address",
+      "Konsum",
+      "B1"
+    ],
+    [
       "die",
       "Regierung",
       "die Regierungen",
       "government",
       "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "die",
+      "Reinigungskraft",
+      "die Reinigungskräfte",
+      "cleaner = die Putzkraft",
+      "Beruf",
+      "B1"
+    ],
+    [
+      "die",
+      "Scheidung",
+      "die Scheidungen",
+      "divorce",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "der",
+      "Schreck",
+      "Schrecken",
+      "plötzliche Angst",
+      "Straftaten & Verbrechen",
       "B1"
     ],
     [
@@ -435,6 +1019,22 @@
       "B1"
     ],
     [
+      "der",
+      "Sender",
+      "die Sender",
+      "TV/radio channel; transmitter",
+      "Computer & Technik",
+      "B1"
+    ],
+    [
+      "der",
+      "Sendersuchlauf",
+      "die Sendersuchläufe",
+      "channel search/scan",
+      "Computer & Technik",
+      "B1"
+    ],
+    [
       "die",
       "Sicherheit",
       "die Sicherheiten",
@@ -444,10 +1044,26 @@
     ],
     [
       "die",
+      "Sicherheitsmaßnahme",
+      "Sicherheitsmaßnahmen",
+      "was für die Sicherheit getan wird",
+      "Straftaten & Verbrechen",
+      "B1"
+    ],
+    [
+      "die",
       "Sicht",
       "",
       "view, sight, visibility",
       "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "der",
+      "Skiurlaub",
+      "die Skiurlaube",
+      "ski holiday = der Winterurlaub",
+      "Reisen",
       "B1"
     ],
     [
@@ -467,11 +1083,27 @@
       "B1"
     ],
     [
+      "das",
+      "Sperrkonto",
+      "die Sperrkonten",
+      "blocked account",
+      "Migration",
+      "B1"
+    ],
+    [
       "die",
       "Spesen",
       "nur Plural",
       "expenses (business/travel)",
       "Allgemein",
+      "B1"
+    ],
+    [
+      "die",
+      "Sprachreise",
+      "die Sprachreisen",
+      "language trip",
+      "Reisen",
       "B1"
     ],
     [
@@ -484,10 +1116,42 @@
     ],
     [
       "die",
+      "Strafe",
+      "Strafen",
+      "etw. Schlimmes als Folge einer Tat",
+      "Vorbilder & Biografie",
+      "B1"
+    ],
+    [
+      "die",
       "Straftat",
       "die Straftaten",
       "criminal offence (= Verbrechen)",
       "Kriminalität",
+      "B1"
+    ],
+    [
+      "der",
+      "Strandurlaub",
+      "die Strandurlaube",
+      "beach holiday",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "die",
+      "Städtereise",
+      "die Städtereisen",
+      "city trip",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "der",
+      "Surfurlaub",
+      "die Surfurlaube",
+      "surfing holiday",
+      "Reisen",
       "B1"
     ],
     [
@@ -499,11 +1163,35 @@
       "B1"
     ],
     [
+      "der",
+      "Tod",
+      "die Tode",
+      "death",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "der",
+      "Ton",
+      "die Töne",
+      "tone / sound",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
       "die",
       "Täuschung",
       "die Täuschungen",
       "deception / illusion",
       "Ernährung",
+      "B1"
+    ],
+    [
+      "die",
+      "Unabhängigkeit",
+      "(nur Sg.)",
+      "independence",
+      "Beziehungen",
       "B1"
     ],
     [
@@ -540,6 +1228,14 @@
     ],
     [
       "die",
+      "Verpflichtungserklärung",
+      "die Verpflichtungserklärungen",
+      "declaration of commitment / sponsorship",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
       "Versicherung",
       "die Versicherungen",
       "insurance",
@@ -556,10 +1252,58 @@
     ],
     [
       "das",
+      "Visum",
+      "die Visa",
+      "visa",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Vorschrift",
+      "die Vorschriften",
+      "regulation / rule",
+      "Geschichte & Bauwerke",
+      "B1"
+    ],
+    [
+      "der",
+      "Wanderurlaub",
+      "die Wanderurlaube",
+      "hiking holiday",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "die",
+      "Wartezeit",
+      "die Wartezeiten",
+      "waiting time",
+      "Migration",
+      "B1"
+    ],
+    [
+      "der",
+      "Weltmeister",
+      "die Weltmeister",
+      "world champion",
+      "Sport",
+      "B1"
+    ],
+    [
+      "das",
       "Werk",
       "die Werke",
       "work (creation, oeuvre)",
       "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "der",
+      "Wert",
+      "Werte",
+      "wie viel etw. kostet",
+      "Kunst, Geld & Bildung",
       "B1"
     ],
     [
@@ -572,10 +1316,34 @@
     ],
     [
       "die",
+      "Wiederholung",
+      "die Wiederholungen",
+      "repetition / review",
+      "Lernen",
+      "B1"
+    ],
+    [
+      "die",
       "Wiedervereinigung",
       "",
       "reunification (of Germany, 1990)",
       "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "die",
+      "Wirtschaft",
+      "die Wirtschaften",
+      "economy",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "das",
+      "Wissen",
+      "(nur Sg.)",
+      "knowledge",
+      "Bildung",
       "B1"
     ],
     [
@@ -599,6 +1367,22 @@
       "Zufall",
       "die Zufälle",
       "coincidence",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "der",
+      "Zuschauer",
+      "die Zuschauer",
+      "viewer / spectator",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "der",
+      "Zustand",
+      "die Zustände",
+      "state / condition",
       "Beziehungen",
       "B1"
     ],
