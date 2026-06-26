@@ -247,3 +247,23 @@ a, .btn, .tile, .gap, .match-sel, .theme-switch select, .site-nav a, .transform-
 .word-bank { display:flex; flex-wrap:wrap; align-items:center; gap:8px; background:var(--surface-2); border:1px solid var(--border-soft); border-radius:var(--radius); padding:10px 14px; margin:0 0 14px; }
 .word-bank-label { font-size:11px; letter-spacing:.06em; color:var(--accent-text); margin-right:2px; }
 .wb-word { font-size:14px; background:var(--surface); border:1px solid var(--border); border-radius:999px; padding:3px 12px; color:var(--text); }
+
+/* nicer long-form reading passages */
+.book-prose.reading { font-size:16.5px; }
+.book-prose.reading p { line-height:1.85; margin:0 0 1.05em; }
+.book-prose.reading h3 { font-family:var(--font-head); font-size:18px; color:var(--text); letter-spacing:-0.01em; margin:0 0 .6em; }
+/* hover/tap footnotes (replaces manual Glossar lists) */
+sup.fn { color:var(--accent-text); font-weight:500; cursor:help; position:relative; padding:0 1px; }
+sup.fn::after {
+  content:attr(data-tip); position:absolute; left:50%; bottom:150%; transform:translateX(-50%);
+  background:var(--text); color:var(--bg); font-size:13px; font-weight:400; line-height:1.45;
+  padding:7px 11px; border-radius:8px; width:max-content; max-width:240px; white-space:normal;
+  text-align:left; box-shadow:0 3px 12px rgba(0,0,0,.25); opacity:0; pointer-events:none;
+  transition:opacity .12s ease; z-index:30;
+}
+sup.fn::before {
+  content:""; position:absolute; left:50%; bottom:150%; transform:translate(-50%,95%);
+  border:5px solid transparent; border-top-color:var(--text); opacity:0; transition:opacity .12s ease; z-index:30;
+}
+sup.fn:hover::after, sup.fn:focus::after, sup.fn:hover::before, sup.fn:focus::before { opacity:1; }
+sup.fn:focus { outline:none; }

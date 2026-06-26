@@ -112,7 +112,7 @@ function renderBookBlocks(book) {
     '<div class="book-page">';
   (book.blocks || []).forEach(function (b) {
     if (b.t === "h") html += '<h2 class="book-h">' + esc(b.text) + '</h2>';
-    else if (b.t === "text") html += '<div class="prose book-prose">' + marked.parse(b.md || "") + '</div>';
+    else if (b.t === "text") { var ft = processFootnotes(b.md || ""); html += '<div class="prose book-prose' + (ft.reading ? " reading" : "") + '">' + marked.parse(ft.html) + '</div>'; }
     else if (b.t === "note") html += '<div class="callout"><div class="callout-label">' + esc(b.label || "Info") + '</div><div class="prose">' + marked.parse(b.md || "") + '</div></div>';
     else if (b.t === "task") html += '<div class="task"><div class="task-label">' + esc(b.label || "Aufgabe") + '</div>' + (b.instruction ? '<p class="task-instr">' + esc(b.instruction) + '</p>' : "") + (b.md ? '<div class="prose">' + marked.parse(b.md) + '</div>' : "") + '</div>';
     else if (b.t === "ex" || b.t === "match" || b.t === "transform") html += renderExerciseBlocks([b]);
@@ -208,7 +208,9 @@ function viewChrono() {
       if (refs) s += '<div class="chip-row">' + refs + '</div>';
       if (l.contentMd) s += '<div class="prose">' + marked.parse(l.contentMd) + '</div>';
       if (l.exercises && l.exercises.length) {
-        s += '<h3 class="lecture-ueb">Übungen aus dem Material</h3>' + renderExerciseBlocks(l.exercises);
+        s += '<h3 class="lecture-ueb">Übungen aus dem Material</h3>' +
+          '<div class="ex-toolbar"><button class="btn primary" data-act-all="check">Alle prüfen</button><button class="btn" data-act-all="reveal">Alle Lösungen</button><button class="btn" data-act-all="clear">Zurücksetzen</button></div>' +
+          renderExerciseBlocks(l.exercises);
       }
       s += '</section>';
       return s;
@@ -328,6 +330,30 @@ function renderVocab(v, q) {
 }
 
 // worked-example box (Beispiel), markdown-rendered
+// Turn a reading text's superscript footnote markers (¹²³…) + its "Glossar:" list
+// into hover/tap tooltips, and drop the manual gloss list. Returns {html, reading}.
+var SUPMAP = { "¹": "1", "²": "2", "³": "3", "⁴": "4", "⁵": "5", "⁶": "6", "⁷": "7", "⁸": "8", "⁹": "9", "⁰": "0" };
+function supToNum(s) { return s.split("").map(function (c) { return SUPMAP[c] || c; }).join(""); }
+function escAttr(s) { return String(s).replace(/[&<>"]/g, function (c) { return ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]; }); }
+function processFootnotes(md) {
+  var gi = md.search(/\n+\s*\*?Glossar:?\*?/i);
+  var body = md, gloss = "";
+  if (gi >= 0) { body = md.slice(0, gi); gloss = md.slice(gi); }
+  var map = {};
+  gloss.split("\n").forEach(function (line) {
+    var m = line.match(/^[\s\-*]*([¹²³⁴⁵⁶⁷⁸⁹⁰]+)\s*(.+?)\*?\s*$/);
+    if (m) map[supToNum(m[1])] = m[2].replace(/\*/g, "").trim();
+  });
+  var hasFn = false;
+  var html = body.replace(/([¹²³⁴⁵⁶⁷⁸⁹⁰]+)/g, function (mm) {
+    var key = supToNum(mm), tip = map[key];
+    if (!tip) return mm;
+    hasFn = true;
+    return '<sup class="fn" tabindex="0" data-tip="' + escAttr(tip) + '">' + key + '</sup>';
+  });
+  return { html: html, reading: hasFn || body.length > 320, fn: hasFn };
+}
+
 function exampleBox(md) {
   return '<div class="ex-example"><span class="ex-example-label">Beispiel</span><div class="prose">' + marked.parse(String(md)) + '</div></div>';
 }
