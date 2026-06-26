@@ -1,0 +1,27 @@
+{
+  "id": "s17",
+  "nr": 17,
+  "date": "25.6.",
+  "title": "Indirekte Fragen, „wenn\" & Konditionalsätze",
+  "kbLessons": [
+    "L27"
+  ],
+  "contentMd": "## Mitschrift 25.6.\n\n**Sprechaufgabe:** Was möchtest du machen, statt zu arbeiten / zu studieren?\n- Ich würde gern …, statt zu arbeiten / zu studieren.\n\n### Reflexive Verben – Dativ vs. Akkusativ\n- sich (Dat.) Luft zufächern — der Fächer\n- sich die Hände waschen: Ich wasche **mir** (Dat.) **die Hände** (Akk.). = Ich wasche meine Hände.\n- sich waschen: Ich wasche **mich** (Akk.).\n\n> Regel: Gibt es ein zweites Objekt (Akkusativ, z. B. *die Hände*), steht das Reflexivpronomen im **Dativ** (*mir*). Ohne weiteres Objekt steht es im **Akkusativ** (*mich*).\n\n### Wortschatz: Geld sparen / Geld ausgeben\n\n*Geld sparen:*\n- selbst kochen\n- Fahrrad fahren, statt Auto zu fahren\n- gebrauchte Kleidung = Second-Hand-Kleidung\n- Angebote kaufen\n- mit anderen Leuten wohnen\n- arbeiten\n- Geld anlegen (ein Sparkonto eröffnen, Aktien = Wertpapiere …)\n\n*Geld ausgeben:*\n- Urlaub machen\n- immer draußen essen\n- teure Kleidung kaufen\n- Kosmetik kaufen\n- Lebensmittel online einkaufen\n- fliegen\n- weniger arbeiten\n- ein Auto kaufen\n- im Casino zocken\n- einen Kredit aufnehmen\n\n*Kredit:*\n- der Zins, Pl.: die Zinsen\n- eine Rate\n\n### Grammatik: indirekte Fragen + „wenn\"\n\n*„ob\" (indirekte Ja/Nein-Frage):*\n- Ja-Nein-Frage: Hast du schon gegessen?\n- Indirekt: Ich möchte gern wissen, **ob** du schon gegessen hast.\n\n*„wenn\" – temporal vs. konditional:*\n- Temporal: **Wenn** ich morgens zur Schule gegangen bin, habe ich immer meine Freunde getroffen. / **Wenn** wir uns morgen sehen, zeige ich dir meine Urlaubsfotos.\n- Konditional: **Wenn** das Wetter morgen schön ist, gehen wir zum See. / **Wenn** ich viel Geld hätte, würde ich eine Weltreise machen.\n\n*Indirekte Frage mit „wann\":*\n- Direkt: Wann fährt der Zug morgen ab?\n- Indirekt: Ich will wissen, **wann** der Zug morgen abfährt.\n\n### Wortschatz: Politik und Geschichte\n- der Frieden ↔ der Krieg\n- die Regierung\n- der Bundeskanzler / die Bundeskanzlerin\n- der Bürgermeister / die Bürgermeisterin\n- gegen Korruption kämpfen\n- Grünflächen anlegen\n- die Inflation\n- die Geschichte\n- wiedervereinigen → die Wiedervereinigung\n- die Besatzung\n- fallen – fiel – ist gefallen → der Fall der Mauer („Die Mauer fiel.\")\n- die Verwaltung / verwalten\n- Film: „Das Leben der anderen\"\n\n### Hausaufgaben (Arbeitsbuch)\n- S. 214/2\n- S. 215/7+8\n- S. 219/Einstiegsseite + A1\n- S. 220/1\n\n## Konditionalsätze\n\n*(Quelle: deutschkurse bei der Universität München, Modul 3: B1, Lektion 27)*\n\nDrei Formen, gleiche Bedeutung (Bedingung → Folge):\n- **Wenn** du die Ausstellung besuchen möchtest, (dann) kannst du das Ticket online buchen.\n- **Falls** du die Ausstellung besuchen möchtest, (dann) kannst du das Ticket online buchen.\n- **Möchtest** du die Ausstellung besuchen, (dann) kannst du das Ticket online buchen. *(uneingeleitet – Verb zuerst)*\n\n| Einleitung | Struktur |\n|---|---|\n| wenn + NS | Verb am Ende, (dann) + Verb + Subjekt |\n| falls + NS | Verb am Ende, (dann) + Verb + Subjekt |\n| uneingeleitet | Verb + Subjekt …, (dann) + Verb + Subjekt |",
+  "exercises": [
+    {
+      "t": "transform",
+      "instruction": "Bilde aus den zwei Sätzen Konditionalsätze in allen drei Formen: mit „wenn“, mit „falls“ und uneingeleitet (Verb zuerst).",
+      "example": "**Interessierst du dich für Kunst? Wir können zusammen ins Museum gehen.**\n\n- **Wenn** du dich für Kunst interessierst, (dann) können wir zusammen ins Museum gehen.\n- **Falls** du dich für Kunst interessierst, (dann) können wir zusammen ins Museum gehen.\n- **Interessierst** du dich für Kunst, dann können wir zusammen ins Museum gehen.",
+      "items": [
+        {
+          "prompt": "Hörst du gerne klassische Musik? Du solltest dir dieses Konzert anhören.",
+          "solution": "Wenn du gerne klassische Musik hörst, dann solltest du dir dieses Konzert anhören. / Falls du gerne klassische Musik hörst, dann solltest du dir dieses Konzert anhören. / Hörst du gerne klassische Musik, dann solltest du dir dieses Konzert anhören."
+        },
+        {
+          "prompt": "Siehst du oft Serien? Ich empfehle dir diesen Streaming-Dienst.",
+          "solution": "Wenn du oft Serien siehst, empfehle ich dir diesen Streaming-Dienst. / Falls du oft Serien siehst, empfehle ich dir diesen Streaming-Dienst. / Siehst du oft Serien, dann empfehle ich dir diesen Streaming-Dienst."
+        }
+      ]
+    }
+  ]
+}

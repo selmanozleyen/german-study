@@ -1,0 +1,449 @@
+{
+  "id": "L26",
+  "title": "Wer war der Täter?",
+  "kursbuch": "Kursbuch S. 205–212",
+  "theme": "Über Straftaten sprechen, berichten und beschreiben",
+  "blocks": [
+    {
+      "t": "h",
+      "text": "Kapitelauftakt — Wer war der Täter?"
+    },
+    {
+      "t": "text",
+      "md": "**Krimis und reale Kriminalfälle**\n\nMögen Sie Krimis? Interessieren Sie sich für Kriminalfälle in den Nachrichten? Warum? Warum nicht?"
+    },
+    {
+      "t": "note",
+      "label": "Tipp",
+      "md": "**Notizen sammeln**\n\n*Krimis:* Was? Lieblingsserie · Wo? im Fernsehen · Wann? Dienstag 21:00 Uhr · Wie? auf dem Sofa vor dem Fernseher · Warum (nicht)? spannend\n\n*Reale Kriminalfälle:* Wo? in den Lokalnachrichten · Wann? am Morgen beim Zeitunglesen · Wie? … · Warum (nicht)? …"
+    },
+    {
+      "t": "text",
+      "md": "**Welche Krimis mag Irene? Interessiert sie sich für reale Kriminalfälle?**\n\n*Irene:* Im Fernsehen sehe ich nur sehr selten Krimis. Moderne Krimiserien, in denen viele Actionszenen vorkommen, mag ich nicht so gern. Aber mir gefallen alte Kriminalfilme, weil früher noch interessantere Geschichten erzählt wurden. Im Urlaub lese ich sehr gern Krimis. Da kann ich oft nicht aufhören, bis ich das Buch fertig gelesen habe. Für reale Kriminalfälle interessiere ich mich nicht besonders. Aber wenn in den Nachrichten intensiv über einen Kriminalfall berichtet wird, weiß man natürlich, was passiert ist."
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Schreiben Sie einen Text mit Ihren Ideen aus a und sprechen Sie mit Ihrer Partnerin / Ihrem Partner.",
+      "md": "Im Fernsehen / Im Kino / Im Internet … · Ich mag / Mir gefallen …, in denen / die … · Seit ich …, lese ich … · Ich interessiere mich für … · Wenn … berichtet wird, … · Als … berichtet wurde, … · Interessierst du dich auch für …? · Meine Lieblingskrimiserie ist …"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**In dieser Lektion**\n\n- zweiteilige Konjunktionen (2): *zwar …, aber*; *nicht nur …, sondern auch*\n- Perfekt mit Modalverb\n- Präposition *wegen*\n- Wortbildung *-heit, -keit*\n- Konjunktionaladverbien *deswegen, daher, darum, nämlich*\n- Konjunktion *da*\n- Wiederholung: *denn*; *deshalb*\n\n**Wortschatz:** Kriminalität · Gesetz · Medien"
+    },
+    {
+      "t": "h",
+      "text": "A1 — Vor Gericht"
+    },
+    {
+      "t": "ex",
+      "instruction": "Wer ist wer? Ordnen Sie zu. (A Angeklagte · B Rechtsanwältin · C Staatsanwalt · D Richterin · E Zeugin · F Kriminalbeamter)",
+      "items": [
+        {
+          "q": "___: Sie vertritt die Interessen des Angeklagten.",
+          "a": "Rechtsanwältin"
+        },
+        {
+          "q": "___: Sie muss Recht sprechen. Sie muss den Angeklagten verurteilen, ihn bestrafen oder ihn frei sprechen.",
+          "a": "Richterin"
+        },
+        {
+          "q": "___: Sie hat eventuell ein Gesetz verletzt, wurde festgenommen und vom Staatsanwalt angeklagt.",
+          "a": "Angeklagte"
+        },
+        {
+          "q": "___: Er vertritt die Interessen des Staates und klagt Personen an.",
+          "a": "Staatsanwalt"
+        },
+        {
+          "q": "___: Sie liefert wichtige Informationen zum Kriminalfall. Manchmal zeigt sie den Angeklagten bei der Polizei an. Sie muss vor Gericht die Wahrheit sagen.",
+          "a": "Zeugin"
+        }
+      ],
+      "example": "**Kriminalbeamter**: Er sammelt Beweise, verhaftet Verdächtige und bereitet die Anklage vor."
+    },
+    {
+      "t": "text",
+      "md": "**Gerichtsshows im Fernsehen: Alles nur gespielt?**\n\n„Ich war es nicht, ich habe sie wirklich nicht getötet.\" Sabine G. kann es nicht glauben. Soeben hat der Staatsanwalt die Tat aus seiner Sicht beschrieben. „Die Angeklagte hat 600 Euro aus der Geschäftskasse gestohlen. Als ihre Chefin den Diebstahl bemerkt hat, hat sie ihre Mitarbeiterin entlassen. Die Angeklagte war darüber so wütend, dass sie noch am selben Abend in das Haus ihrer Chefin einbrach und sie tötete.\" Für die Rechtsanwältin ist allerdings noch lange nicht bewiesen, dass Sabine G. auch wirklich die Täterin war. „Es ist zwar richtig, dass Frau G. zum Haus ihrer Chefin ging, aber es ist falsch, dass sie ihre Chefin getötet hat. Sie wollte sie nur bitten, sie nicht zu entlassen. Sie hat den Mord nicht begangen.\" Nicht nur die Zuschauer im Gerichtssaal folgen interessiert der Verhandlung, sondern auch hunderttausende Zuschauer vor dem Fernseher. Die Gerichtsverhandlung findet nämlich in einem Fernsehstudio statt, und nicht in einem wirklichen Gerichtssaal. Die Richterin, die Rechtsanwältin und der Staatsanwalt haben zwar Rechtswissenschaft studiert, im Fernsehstudio sind sie aber genauso Schauspieler wie die Angeklagten und Zeugen in dem Gerichtsprozess. Die Rechtsfälle, die gezeigt werden, sind meist erfunden. Manchmal werden aber auch echte Kriminalfälle nachgespielt.\n\nGerichtsshows im Fernsehen sind beliebt, sogar Experten loben die Sendungen. Sie sind nicht nur gute Fernsehunterhaltung, meinen sie, sondern zeigen auch, wie unser Rechtssystem funktioniert. Aber es gibt auch kritische Stimmen. In einem echten Gerichtssaal würde sich wohl niemand so verhalten wie die Schauspieler in den Shows. Es wird ständig geweint, manchmal auch geschrien, und die Richterin muss immer wieder für Ordnung sorgen. In der Realität würden wichtige Beweise oder Zeugenaussagen auch nicht in letzter Minute präsentiert werden, so wie im Fall Sabine G. Denn die Zeugenaussage einer Nachbarin sorgt in der Verhandlung für eine Überraschung. Die Nachbarin hatte nicht nur den tödlichen Schuss aus dem Nachbarhaus gehört, sondern auch den Ehemann von Sabine G.s Chefin gesehen, der das Haus kurz danach verlassen hatte. Seine Frau hatte von ihm die Scheidung verlangt, da er sie betrogen und viel Geld beim Glücksspiel verloren hatte. Der Mann wollte seine Frau an der Scheidung hindern, der Verdacht sollte auf eine Unschuldige fallen. In der Fernsehshow wurde er noch im Gerichtssaal verhaftet und in einem weiteren Prozess zu einer lebenslangen Gefängnisstrafe verurteilt.\n\n*Glossar:*\n- *stehlen* — etw. nehmen, was mir nicht gehört\n- *entlassen* — jmdm. kündigen\n- *einbrechen* — als Dieb in ein fremdes Haus gehen\n- *betrügen* — hier: eine andere Liebesbeziehung haben\n- *hindern* — jmdn. etw. nicht tun lassen"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie den Text noch einmal und machen Sie Notizen zu den Fragen.",
+      "md": "1. Wie erzählt der Staatsanwalt den Kriminalfall? (600 Euro gestohlen, …)\n2. Was ist wirklich passiert?\n3. Warum können Fernsehzuschauer bei der Gerichtsverhandlung zusehen?\n4. Was denken Experten über die Gerichtsshows?\n5. Was wird an den Gerichtsshows kritisiert?"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Vergleichen Sie Ihre Antworten. Sprechen Sie.",
+      "md": "Der Staatsanwalt sagt, dass …"
+    },
+    {
+      "t": "h",
+      "text": "A2 — Mit dem Gesetz in Konflikt kommen"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Zweiteilige Konjunktionen (2) — Bedeutung**\n\n| Konjunktion | Bedeutung |\n|---|---|\n| *zwar …, aber* | das eine, aber auch das andere |\n| *nicht nur …, sondern auch* | das eine und auch das andere |"
+    },
+    {
+      "t": "ex",
+      "instruction": "Lesen Sie die Ausschnitte aus Zeitungsmeldungen und ergänzen Sie die Konjunktionen. (entweder … oder · zwar …, aber · weder … noch · nicht nur …, sondern auch)",
+      "items": [
+        {
+          "q": "… Erst im Hotel bemerkten sie es: Sie hatten ___ ihre Dokumente noch, ___ ihre Geldbörsen waren weg …",
+          "a": [
+            "zwar",
+            "aber"
+          ],
+          "hint": "Diebstahl"
+        },
+        {
+          "q": "… Sie hatte ihn ___ angesprochen ___ beleidigt, trotzdem schlug er zu …",
+          "a": [
+            "weder",
+            "noch"
+          ],
+          "hint": "Körperverletzung"
+        },
+        {
+          "q": "… Sie hatten ___ die U-Bahn-Station, ___ die Wohnhäuser neben der U-Bahn mit ihren Graffitis bemalt …",
+          "a": [
+            "nicht nur",
+            "sondern auch"
+          ],
+          "hint": "Sachbeschädigung"
+        },
+        {
+          "q": "… Er studierte ___ Medizin, machte ___ nie sein Abschlussexamen. Trotzdem eröffnete er eine Arztpraxis …",
+          "a": [
+            "zwar",
+            "aber"
+          ],
+          "hint": "Betrug"
+        },
+        {
+          "q": "… Sie nahmen ___ alle Bilder, ___ den gesamten Schmuck mit, nachdem sie durch die Terrassentür ins Haus eingestiegen waren …",
+          "a": [
+            "nicht nur",
+            "sondern auch"
+          ],
+          "hint": "Einbruch"
+        }
+      ],
+      "example": "… Das Opfer hat den Täter **entweder** in der Disco **oder** auf dem Weg nach Hause getroffen …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Ordnen Sie den sechs Zeitungsmeldungen in c Wörter zu. Manche Wörter passen zweimal.",
+      "md": "in ein Haus einbrechen · Betrüger · Einbrecher · fremdes Eigentum beschädigen · stehlen · gewalttätig sein · jmdn. verletzen · Mörder · Dieb · einen finanziellen Schaden verursachen · Einbruch · betrügen · eine leichte Straftat begehen · jmdn. ermorden · etwas beschädigen"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Wählen Sie eine Zeitungsmeldung (1–6) aus c und erzählen Sie, was vielleicht passiert ist. Ihre Partnerin / Ihr Partner errät die Situation.",
+      "md": "Zwei Einbrecher sind in ein Haus eingebrochen. Sie …"
+    },
+    {
+      "t": "h",
+      "text": "A3 — Nach der Straftat"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Finden Sie die Aussagen richtig (r), teilweise richtig (t) oder falsch (f)? Ordnen Sie zu und formulieren Sie Ihre Meinung.",
+      "md": "1. Jugendliche müssen anders als Erwachsene bestraft werden.\n2. Geldstrafen wirken besser als Gefängnisstrafen.\n3. Häufige Straftaten müssen strenger bestraft werden.\n4. Es gibt Verhalten, das nicht bestraft wird, aber bestraft werden sollte.\n5. Straftaten gegen fremdes Eigentum sollten milder als Körperverletzungen bestraft werden."
+    },
+    {
+      "t": "note",
+      "label": "REDEMITTEL",
+      "md": "**Die eigene Meinung äußern**\n\n- Ich finde, dass nicht nur …, sondern auch … / zwar …, aber …\n- Bei uns werden weder … noch … bestraft, das finde ich …\n- Es ist zwar gut, wenn …, aber ich finde es weniger gut, wenn …\n- Entweder sollte man … oder …\n- Wenn jemand zum Beispiel …, dann …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Diskutieren Sie. Begründen Sie Ihre Meinung mit Beispielen."
+    },
+    {
+      "t": "h",
+      "text": "B1 — Aus dem Gerichtssaal"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Lesen Sie die Schlagzeilen zu verschiedenen Gerichtsfällen. Was glauben Sie? Um welche Straftaten geht es in den Zeitungsartikeln?",
+      "md": "1. Militärhubschrauber gestohlen\n2. Jogger neben Militärflughafen tot aufgefunden\n3. Reiterin will Militär auf Schadensersatz verklagen\n4. Pferdediebin verhaftet\n5. Joggerin von Hund gebissen\n\n*Im ersten Artikel könnte es um einen Diebstahl oder um einen Einbruch gehen. Ein Hubschrauber wurde gestohlen.*"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie das Ende des Gesprächs (Perfekt mit Modalverb). Achtung: Nicht alle Verben passen. (suchen können · fahren müssen · rufen müssen · aufstehen wollen · sehen können · mitfahren dürfen · sitzen können)",
+      "items": [
+        {
+          "q": "Die Frau hat zwar sofort ___, aber sie hat nicht einmal ___.",
+          "a": [
+            "aufstehen wollen",
+            "sitzen können"
+          ]
+        },
+        {
+          "q": "Wir haben es gar nicht ___, wir haben ja in die Notaufnahme des Krankenhauses ___.",
+          "a": [
+            "suchen können",
+            "fahren müssen"
+          ]
+        }
+      ],
+      "example": "Wir haben einen Krankenwagen **rufen müssen**."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Perfekt mit Modalverb**\n\nIch habe an dem Hund vorbeilaufen **müssen**. = Ich musste an dem Hund vorbeilaufen.\n\nForm: *haben* + 2 × Infinitiv (Vollverb-Infinitiv + Modalverb-Infinitiv)."
+    },
+    {
+      "t": "transform",
+      "instruction": "Frau Elbrich, die Reiterin, will auf Schadensersatz klagen. Hanna sagt als Zeugin vor Gericht aus. Formulieren Sie aus den indirekten Fragen die direkten Fragen, die der Richter stellt.",
+      "items": [
+        {
+          "prompt": "Der Richter will wissen, wo sich Herr Gerhold mit seinem Hund befand.",
+          "solution": "Wo befand sich Herr Gerhold mit seinem Hund?"
+        },
+        {
+          "prompt": "Der Richter will wissen, ob Hanna Fluggeräte gesehen hat.",
+          "solution": "Haben Sie Fluggeräte gesehen?"
+        },
+        {
+          "prompt": "Der Richter will wissen, wie weit die Hubschrauber entfernt waren.",
+          "solution": "Wie weit waren die Hubschrauber entfernt?"
+        },
+        {
+          "prompt": "Der Richter will wissen, ob der Hubschrauber das Pferd nervös gemacht hat.",
+          "solution": "Hat der Hubschrauber das Pferd nervös gemacht?"
+        }
+      ],
+      "example": "Der Richter will wissen, wie weit Hanna von Frau Elbrich entfernt war, als der Unfall passierte.\n\n→ Wie weit waren Sie von Frau Elbrich entfernt, als der Unfall passierte?"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Was meinen Sie? Hat Frau Elbrich eine Chance, vom Militär Schadensersatz zu bekommen? Warum? Warum nicht? Sprechen Sie.",
+      "md": "Sie bekommt sicher Schadensersatz, weil … · Ich glaube nicht, dass …"
+    },
+    {
+      "t": "h",
+      "text": "B2 — Gerichtssaaljournalismus"
+    },
+    {
+      "t": "ex",
+      "instruction": "Lesen Sie die Schlagzeilen zu zwei Zeitungsartikeln. Schreiben Sie die Fragen (Perfekt mit Modalverb) und ordnen Sie jeweils die richtige Schlagzeile zu. (A Sportlehrer als Lebensretter in der U-Bahn · B Sprung vom Balkon endete beinahe tödlich)",
+      "items": [
+        {
+          "q": "___ — Warum (springen wollen) ___ der Jugendliche vom Balkon ___?",
+          "a": [
+            "B",
+            "ist",
+            "springen wollen"
+          ]
+        },
+        {
+          "q": "___ — Wie (retten können) ___ der Sportlehrer die Frau ___?",
+          "a": [
+            "A",
+            "hat",
+            "retten können"
+          ]
+        },
+        {
+          "q": "___ — Warum (warnen können) ___ der Hotelmanager die Jugendlichen nicht ___?",
+          "a": [
+            "B",
+            "hat",
+            "warnen können"
+          ]
+        },
+        {
+          "q": "___ — Warum (stoppen können) ___ man den Zug nicht ___?",
+          "a": [
+            "A",
+            "hat",
+            "stoppen können"
+          ]
+        }
+      ],
+      "example": "A — Wie lange (warten müssen) **hat** die Frau auf die U-Bahn **warten müssen**?"
+    },
+    {
+      "t": "text",
+      "md": "**A — Sportlehrer als Lebensretter in der U-Bahn**\n\n„Es war unglaublich. Die beiden sind beinahe überfahren worden. Der Zug ist ja schon in die Station gerollt.\" Dutzende Fahrgäste haben am Montagabend miterlebt, wie der 38-jährige Anton J. einer Frau das Leben rettete. Von ihrem Schreck haben sie sich noch nicht ganz erholt. Es war abends, kurz nach 19:00 Uhr. Maria G. wollte wie jeden Tag mit der U-Bahn nach Hause fahren. Sie war erschöpft und hatte sich schon den ganzen Tag nicht wohlgefühlt. Wie immer war die U-Bahn-Station um diese Zeit voller Menschen. Maria G. hatte den letzten Zug knapp verpasst. Der nächste sollte in wenigen Augenblicken kommen. Sie stand ganz vorne, nahe am Gleis. „Ich hörte noch die Ansage ‚Zug fährt ein', doch dann wurde mir plötzlich schwarz vor den Augen\", sagte die Frau. „Als ich wieder aufwachte, wurde ich von zwei Rettungskräften versorgt.\" Maria G. war auf die Gleise gefallen, unglücklicherweise kurz bevor der Zug in die Station einfuhr. Der Sportlehrer Anton J. stand einige Meter neben ihr. „Ich habe bemerkt, dass es ihr nicht gut ging und habe augenblicklich reagiert\", erklärte der 38-jährige Sportlehrer. Er ist körperlich gut in Form und kräftig. So konnte er zum Gleis hinunterspringen und die Frau hinaufheben. Vor Gericht muss geklärt werden, ob die Sicherheitsmaßnahmen der U-Bahn-Gesellschaft ausreichend waren.\n\n**B — Sprung vom Balkon endete beinahe tödlich**\n\n„Was soll ich machen? Ich kann meine Gäste doch nicht daran hindern, sich in der Anlage frei zu bewegen\", klagt der Hotelmanager. In seiner Ferienanlage ist es vor einigen Wochen zu einem schweren Unfall gekommen. Jugendliche sind von einem Balkon in den Swimmingpool gesprungen. Ein Jugendlicher hat sich dabei lebensgefährlich verletzt. „Es war offensichtlich ihr letzter Urlaubstag\", erzählt ein Feriengast. „Sie haben schon den ganzen Tag Party gefeiert. Um 23:00 Uhr sind dann einige Jungen vom Treppenhaus über die Balkone in Richtung Pool geklettert. Ein Junge hat die Entfernung zwischen zwei Balkonen falsch eingeschätzt und ist abgestürzt. Es war furchtbar.\" Einige Feriengäste, die von der Bar aus die Aktion beobachtet hatten, handelten sofort und riefen den Rettungsdienst. Der Sprung vom Balkon in den Swimmingpool ist in vielen Urlaubszentren zum Sport geworden. In vielen Regionen gibt es aber inzwischen Gesetze, die solche lebensgefährlichen Aktionen verhindern sollen. „Ich muss mich doch auch um meine anderen Gäste kümmern. Ich habe unserer Bedienung im Restaurant geholfen. Ich hatte den Jugendlichen extra Zimmer im Erdgeschoss gegeben\", versucht der Manager seine Situation zu erklären, allerdings vergeblich. Er und die Jugendlichen bekamen hohe Geldstrafen.\n\n*Glossar:*\n- *unglaublich* — man kann es nicht glauben\n- *rollen* — etw., das rund ist, bewegt sich\n- *der Schreck* — plötzliche Angst\n- *knapp* — kurz\n- *kräftig* — stark\n- *hinaufheben* — nach oben bewegen\n- *die Sicherheitsmaßnahmen* — was für die Sicherheit getan wird\n- *falsch einschätzen* — hier: nicht genau messen\n- *verhindern* — etw. tun, damit etw. nicht passiert\n- *die Bedienung* — Kellner oder Kellnerin\n- *vergeblich* — ohne Erfolg"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Berichten Sie, was Sie in der U-Bahn (Text A) oder in der Ferienanlage (Text B) gesehen haben. Ihre Partnerin / Ihr Partner stellt Fragen.",
+      "md": "Warum …? · Wie …? · Wo …? · Wann …? · Woher …? · Welch- …? · Was …? · Seit wann …? · Wie lange …?"
+    },
+    {
+      "t": "h",
+      "text": "C1 — Medien in den deutschsprachigen Ländern"
+    },
+    {
+      "t": "h",
+      "text": "C2 — Gemeinsame Fernsehproduktionen"
+    },
+    {
+      "t": "text",
+      "md": "**Tatort — Ein Krimi und mehr als 100 Kommissare …**\n\nKeine Sendung ist so beliebt wie der Fernsehkrimi. 19 Stunden pro Tag könnten Fans im deutschsprachigen Fernsehen Krimis sehen. Damit ist der Krimi das beliebteste Genre im Fernsehen überhaupt. Die Zuschauer wissen, was sie erwartet: Ein Kommissar oder eine Kommissarin bringt für sie die Welt wieder in Ordnung, und das in höchstens 90 Minuten. Das kann über die eigenen Probleme hinwegtrösten und Sicherheit geben. Wie gut dieses gewohnte Modell funktioniert, beweist jeden Sonntagabend die erfolgreichste Krimiserie im deutschsprachigen Fernsehen, der Tatort.\n\nAls die Serie vor mehr als 30 Jahren von der ARD erfunden wurde, waren die Kritiker gar nicht begeistert. In jeder Folge arbeitet ein anderer Kommissar, jede Folge spielt in einer anderen Region, das geht normalerweise nicht gut, war damals ihre Meinung. Doch genau diese Tatsache hat der Sendung den jahrzehntelangen Erfolg gesichert. Über 30 Tatortfolgen werden jedes Jahr gezeigt, und sie spielen alle in anderen Regionen. Das deutsche, österreichische und schweizerische Fernsehen beteiligen sich an der Produktion. Darum gibt es auch Folgen, die in Österreich und in der Schweiz produziert werden. Die Menschen in der Region, ihre Sprache und örtliche Besonderheiten sind oft wichtiger als der Kriminalfall selbst. Manchmal wird da der bayrische oder österreichische Dialekt in Norddeutschland nur schwer verstanden und umgekehrt. Dann können die Zuschauer die Krimis wie andere Fernsehsendungen auch mit Untertiteln sehen. Beim Schweizer Tatort haben sich die Sender darauf geeinigt, dass die Folgen sowohl auf Schwyzerdütsch als auch auf Hochdeutsch produziert werden.\n\nImmer wieder geht es um soziale Probleme und aktuelle gesellschaftspolitische Themen. Da kann es schon einmal geschehen, dass es wegen eines bestimmten Themas zu mehr oder weniger berechtigten Protesten kommt. So wurden zum Beispiel die Arbeitsbedingungen in Discountmärkten (Kassensturz, 2009), Asyl- und Migrationsthemen (Wem Ehre gebührt, 2007) oder Homosexualität (Mord in der ersten Liga, 2011) öffentlich diskutiert.\n\nÜber 100 verschiedene Darsteller haben inzwischen als Kommissare ihren Dienst angetreten. In den ersten Jahren sah man ausnahmslos männliche Polizeibeamte bei der Arbeit. Die Kommissare wurden damals oft wegen ihrer ruhigen und klugen Arbeitsweise geschätzt. In den Achtzigerjahren wurde mit Kommissar Schimanski ein ganz anderer Typ von Polizeibeamten geboren. Er zeigte offen seine Gefühle, wandte in seiner Arbeit immer wieder auch Gewalt an und sagte von sich selbst: „Ich war zu feige, Verbrecher zu werden, jetzt bin ich Polizist.\" Seit den Neunzigerjahren arbeiten die Kommissare meist in Teams, die heute oft von Frauen geleitet werden. Wegen ihrer Flexibilität ist die Sendung zur erfolgreichsten Krimisendung geworden. Die derzeitigen Einschaltquoten zeigen, dass sie das sicher noch länger bleibt.\n\n*Glossar:*\n- *hinwegtrösten* — helfen, wenn jmd. traurig ist\n- *gewohnt* — wie es immer ist, man hat sich daran gewöhnt\n- *sich einigen* — eine Lösung finden\n- *Schwyzerdütsch* — Schweizer Deutsch\n- *berechtigt* — es gibt einen guten Grund dafür\n- *Darsteller* — Schauspieler\n- *ausnahmslos* — nur\n- *klug* — intelligent\n- *anwenden* — benutzen\n- *Flexibilität* — Fähigkeit, sich zu verändern"
+    },
+    {
+      "t": "ex",
+      "instruction": "Lesen Sie den Text noch einmal. Ergänzen Sie die Fragen mit warum zu den Antworten.",
+      "items": [
+        {
+          "q": "___? — Wegen der Beteiligung des ORF und des SRF an der Produktion.",
+          "a": "Warum wird die Serie auch in Österreich und der Schweiz produziert"
+        },
+        {
+          "q": "___? — Wegen der unterschiedlichen Dialekte, die man in manchen Regionen nicht immer versteht.",
+          "a": "Warum sehen manche Zuschauer den Tatort mit Untertiteln"
+        },
+        {
+          "q": "___? — Wegen der aktuellen gesellschaftspolitischen Themen.",
+          "a": "Warum gibt es Proteste und öffentliche Diskussionen"
+        },
+        {
+          "q": "___? — Wegen ihrer Flexibilität.",
+          "a": "Warum ist die Serie die erfolgreichste Krimisendung"
+        }
+      ],
+      "example": "**Warum sind die Tatortkrimis so erfolgreich**? — Wegen der vielen Hauptdarsteller und Spielorte."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**wegen + Genitiv**\n\n*wegen ihrer klugen Arbeitsweise* ≈ weil sie klug arbeiten\n\n| Singular | |\n|---|---|\n| maskulin | wegen des Hauptdarstellers |\n| neutral | wegen des Themas |\n| feminin | wegen ihrer Arbeitsweise |\n| **Plural** | wegen der Spielorte |\n\n⚠ In der gesprochenen Sprache oft auch *wegen* + Dativ (*wegen dir*)."
+    },
+    {
+      "t": "h",
+      "text": "C3 — Kommissarinnen und Kommissare im Tatort"
+    },
+    {
+      "t": "text",
+      "md": "**A — Kommissar Moritz Eisner**\n\nDer österreichische Kommissar ist ein Einzelkämpfer und „einsamer Wolf\". Wegen seiner Freundlichkeit vertrauen ihm einerseits die Menschen, andererseits macht er sich durch seine Ironie und seinen scharfen Witz Feinde.\n\n**B — Kommissar Reto Flückiger**\n\nDer Schweizer Kommissar liebt ein freies und ungebundenes Leben, sein Segelboot und die Natur. Er hasst Unehrlichkeit. Es gibt öfter Konflikte mit seinen Chefs.\n\n**C — Kommissarin Charlotte Lindholm**\n\nDie norddeutsche Kommissarin hat einen eher schwierigen Charakter. Daher wurde sie schon als Kind die „wilde Lotte\" genannt. Ihre Chefs finden, ihre Teamfähigkeit ist gleich null. Sie hasst Papierkram, deswegen hinterlässt sie auf ihrem Schreibtisch meist ein Chaos."
+    },
+    {
+      "t": "ex",
+      "instruction": "Wie steht das im Text? Ordnen Sie zu (A Moritz Eisner · B Reto Flückiger · C Charlotte Lindholm).",
+      "items": [
+        {
+          "q": "___ mag keine Lügner.",
+          "a": "B"
+        },
+        {
+          "q": "___ hat Probleme mit den Chefs.",
+          "a": "B"
+        },
+        {
+          "q": "___ ist nicht sehr ordentlich.",
+          "a": "C"
+        },
+        {
+          "q": "Manche Menschen mögen ___s Humor nicht.",
+          "a": "A"
+        },
+        {
+          "q": "___ ist kein einfacher Mensch.",
+          "a": "C"
+        }
+      ],
+      "example": "**A** arbeitet alleine."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Nomen mit -heit, -keit**\n\ndas Kind → die Kind**heit** · freundlich → die Freundlich**keit**\n\nNomen auf *-heit* / *-keit* sind immer feminin."
+    },
+    {
+      "t": "ex",
+      "instruction": "Wortbildung: Bilden Sie das Nomen auf -heit / -keit.",
+      "items": [
+        {
+          "q": "freundlich → die ___",
+          "a": "Freundlichkeit"
+        },
+        {
+          "q": "frei → die ___",
+          "a": "Freiheit"
+        },
+        {
+          "q": "sicher → die ___",
+          "a": "Sicherheit"
+        }
+      ],
+      "example": "das Kind → die **Kindheit**"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Eine/Einer hat das Buch und fragt, die/der andere antwortet.",
+      "md": "Wer ist ein einsamer Wolf? — Moritz Eisner."
+    },
+    {
+      "t": "h",
+      "text": "C4 — Wer war der Täter?"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie die Antworten (deswegen/daher/darum, da, nämlich, denn). Achten Sie auf die Wortstellung.",
+      "items": [
+        {
+          "q": "Er konnte nicht um 23:00 Uhr am Tatort sein. Da war er ___ mit seiner Freundin in der Disco.",
+          "a": "nämlich",
+          "hint": "steht nie am Satzanfang"
+        },
+        {
+          "q": "Der wirkliche Täter hat sie dorthin gelegt, ___ er wollte, dass die Polizei Tims Halbbruder verhaftet.",
+          "a": "denn",
+          "hint": "Hauptsatz-Konjunktion, steht am Satzanfang"
+        }
+      ],
+      "example": "Er brauchte Geld, **daher** glaube ich, dass er es war."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Wiederholung — Kausalverbindungen (Lektionen 5 + 6)**\n\n- *deswegen / daher / darum* ≈ *deshalb* (Konjunktionaladverb, Position 1 oder im Satz)\n- *da* ≈ *weil* (Nebensatz, Verb am Ende)\n- *wegen* (+ Genitiv, Präposition)\n- *nämlich* — steht nie am Satzanfang\n- *denn* — Hauptsatzkonjunktion, leitet den zweiten Satz ein"
+    },
+    {
+      "t": "h",
+      "text": "GRAMMATIK — Überblick"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Verb — Perfekt mit Modalverb**\n\n| | haben | 2 × Infinitiv |\n|---|---|---|\n| ich | habe | |\n| du | hast | |\n| er/es/sie | hat | … vorbeilaufen müssen / … |\n| wir | haben | |\n| ihr | habt | |\n| sie/Sie | haben | |\n\n*Beispiel:* Ich habe dir leider nicht aufmachen können, der Krimi war gerade so spannend."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Präposition — kausal (warum?): wegen + Genitiv**\n\n| Singular | |\n|---|---|\n| maskulin | wegen des Hauptdarstellers |\n| neutral | wegen des Themas |\n| feminin | wegen ihrer Arbeitsweise |\n| **Plural** | wegen der Spielorte |\n\n\\* oft auch *wegen* + Dativ (*wegen dir*)\n\n**Nomen — Wortbildung -heit, -keit**\n\ndas Kind → die Kindheit · freundlich → die Freundlichkeit\n\nNomen auf *-heit* / *-keit* sind immer feminin."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Satz — zweiteilige Konjunktion (2)**\n\n| | | | | |\n|---|---|---|---|---|\n| Sie hatten | **zwar** | ihre Dokumente noch, | **aber** | ihre Geldbörsen waren weg. |\n| Sie hatten | **nicht nur** | die U-Bahn-Station, | **sondern auch** | die Wohnhäuser … mit Graffitis bemalt. |\n\n**Nebensatz — Konjunktion da**\n\n| | Konjunktion | | Satzende |\n|---|---|---|---|\n| Tims Halbbruder hat Geld gestohlen, | **da** | er Geld | brauchte. |"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Konjunktionaladverbien — deshalb, deswegen, daher, darum, nämlich**\n\n| | | Position 2 | |\n|---|---|---|---|\n| Er brauchte Geld, | deshalb/deswegen/daher/darum | hat | Tims Halbbruder das Geld gestohlen. |\n| Tims Halbbruder brauchte Geld, | er | hat | deshalb/deswegen/daher/darum\\* das Geld gestohlen. |\n| Tims Halbbruder hat das Geld gestohlen, | er | brauchte | nämlich\\*\\* Geld. |\n\n\\* *deshalb/deswegen/daher/darum* können am Satzanfang oder auch im Satz stehen.\n\n\\*\\* *nämlich* kann nie am Satzanfang stehen."
+    },
+    {
+      "t": "note",
+      "label": "REDEMITTEL",
+      "md": "**Die eigene Meinung äußern**\n\n- Ich finde, dass nicht nur …, sondern auch … / zwar …, aber …\n- Bei uns werden weder … noch … bestraft, das finde ich …\n- Es ist zwar gut, wenn …, aber ich finde es weniger gut, wenn …\n- Entweder sollte man … oder …\n- Wenn jemand zum Beispiel …, dann …\n- Ich glaube nicht, dass …\n\n**Über ein Verbrechen berichten**\n\n- Ich war Zeugin/Zeuge eines Verbrechens.\n- Ich habe die Straftat bei der Polizei angezeigt.\n- Die Polizei hat den Fall untersucht / Beweise gesammelt.\n- Sie haben mich / … als Zeugin/Zeugen befragt.\n- Ich habe / … hat eine Aussage gemacht.\n- Die/Der Verdächtige wurde festgenommen und angeklagt.\n- … hat eine Gefängnisstrafe / Geldstrafe bekommen.\n- Der Staatsanwalt und der Rechtsanwalt haben Beweise vorgelegt.\n- Die/Der Verdächtige ist freigesprochen worden."
+    }
+  ]
+}

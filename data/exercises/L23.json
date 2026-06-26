@@ -1,0 +1,56 @@
+{
+  "id": "L23",
+  "title": "Wohin geht die Reise?",
+  "kursbuch": "Kursbuch S. 181–188",
+  "intro": "Komparativ mit Adjektivdeklination, Nebensätze mit während / bevor / nachdem, Präpositionen mit Genitiv und Konjunktiv II.",
+  "sections": [
+    {
+      "heading": "Komparativ mit Adjektivdeklination",
+      "items": [
+        { "prompt": "Es ist die Aussicht auf ein ___ Leben, die sie in die Fremde führt.", "answer": "besseres", "hint": "gut → Komparativ, neutral nach \"ein\"" },
+        { "prompt": "Es soll genug Land geben und auch viermal ___ Löhne.", "answer": "höhere", "hint": "hoch → Komparativ, Plural" },
+        { "prompt": "Die Gründe waren die ___ Arbeitsbedingungen.", "answer": "schlechteren", "hint": "schlecht → Komparativ, Plural mit Artikel" },
+        { "prompt": "Manche Auswanderer suchen einen ___ Job.", "answer": "interessanteren", "hint": "interessant → Komparativ, maskulin Akkusativ" },
+        { "prompt": "Clemens Tausch sucht eine ___ Arbeit.", "answer": "befriedigendere", "hint": "befriedigend → Komparativ, feminin" }
+      ]
+    },
+    {
+      "heading": "Vergleichen: früher und heute",
+      "items": [
+        { "prompt": "Die Reise von Dietrich Wagner dauerte ___ als die von Clemens Tausch.", "answer": "länger", "hint": "lang → Komparativ" },
+        { "prompt": "Früher gab es ___ Fahrräder als heute.", "answer": "langsamere", "hint": "langsam → Komparativ, Plural" },
+        { "prompt": "Auswanderer suchen oft ein ___ Familienleben.", "answer": "glücklicheres", "hint": "glücklich → Komparativ, neutral" },
+        { "prompt": "Heute gibt es ___ Verkehrsmittel als früher.", "answer": "schnellere", "hint": "schnell → Komparativ, Plural" }
+      ]
+    },
+    {
+      "heading": "Nebensätze mit während / bevor / nachdem",
+      "items": [
+        { "prompt": "___ wir etwas essen, könnten wir im Internet unseren nächsten Gastgeber suchen.", "answer": "Während", "hint": "gleichzeitig" },
+        { "prompt": "___ wir die nächste Couch suchen, sollten wir unser nächstes Ziel kennen.", "answer": "Bevor", "hint": "zuerst das Ziel, danach die Couch" },
+        { "prompt": "Wir suchen eine Couch, ___ wir das nächste Ziel festgelegt haben.", "answer": "nachdem", "hint": "danach" },
+        { "prompt": "Wir müssen etwas finden, ___ es dunkel wird.", "answer": "bevor", "hint": "vorher" },
+        { "prompt": "___ du geschlafen hast, habe ich schon gefrühstückt.", "answer": "Während", "hint": "gleichzeitig" }
+      ]
+    },
+    {
+      "heading": "Präpositionen mit Genitiv",
+      "items": [
+        { "prompt": "Er hofft, dass der Gastgeber irgendwo ___ der Stadt wohnt.", "answer": "innerhalb", "hint": "↔ außerhalb, + Genitiv" },
+        { "prompt": "Ich war als Kind nie ___ der Insel.", "answer": "außerhalb", "hint": "↔ innerhalb, + Genitiv" },
+        { "prompt": "___ des Flusses geht die Hauptstraße entlang.", "answer": "Oberhalb|Unterhalb", "hint": "lokal, + Genitiv" },
+        { "prompt": "Meine Wohnung ist außerhalb ___ Stadt.", "answer": "der", "hint": "Genitiv, feminin" },
+        { "prompt": "Drei Viertel kehren innerhalb ___ Jahre zurück.", "answer": "von zwei|zweier", "hint": "temporal: innerhalb von ..." }
+      ]
+    },
+    {
+      "heading": "Konjunktiv II",
+      "items": [
+        { "prompt": "Wenn ich die Geografie meiner Heimatinsel verändern ___, läge sie neben Indien.", "answer": "könnte", "hint": "können → Konjunktiv II" },
+        { "prompt": "Indien ___ dann allerdings viel kleiner.", "answer": "wäre", "hint": "sein → Konjunktiv II" },
+        { "prompt": "Ich ___ auf einem Elefanten durch den Dschungel reiten.", "answer": "könnte", "hint": "können → Konjunktiv II" },
+        { "prompt": "Auf Rügen ___ dann Reis wachsen.", "answer": "würde", "hint": "würde + Infinitiv" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "L24",
+  "title": "Ist er wirklich schon so alt?",
+  "kursbuch": "Kursbuch S. 189–196",
+  "intro": "Relativsätze im Akkusativ, Dativ und mit Präpositionen sowie zweiteilige Konjunktionen.",
+  "sections": [
+    {
+      "heading": "Relativsätze im Akkusativ",
+      "items": [
+        { "prompt": "Da ist Dirk, ___ Tante Olga und Onkel Ralf unterstützen.", "answer": "den", "hint": "maskulin, Akkusativ" },
+        { "prompt": "Da ist Sonja, ___ Dirk seit zwei Monaten kennt und liebt.", "answer": "die", "hint": "feminin, Akkusativ" },
+        { "prompt": "Da sind Sonjas Eltern, ___ Dirk im Moment unmöglich findet.", "answer": "die", "hint": "Plural, Akkusativ" },
+        { "prompt": "Das ist das Leben, ___ er führen wollte.", "answer": "das", "hint": "neutral, Akkusativ" },
+        { "prompt": "Die Unabhängigkeit, ___ sie in ihrer Beziehung haben, gefällt ihr.", "answer": "die", "hint": "feminin, Akkusativ" }
+      ]
+    },
+    {
+      "heading": "Relativsätze im Dativ",
+      "items": [
+        { "prompt": "Ein Freund, ___ er auf dem Heimweg begegnet war, hatte ihm die Einladung gegeben.", "answer": "dem", "hint": "jmdm. begegnen + Dativ" },
+        { "prompt": "Da ist Onkel Ralf, ___ Sonja sicher gefällt.", "answer": "dem", "hint": "jmdm. gefallen + Dativ, maskulin" },
+        { "prompt": "Da sind Dirks Eltern, ___ ein Gasthof gehört.", "answer": "denen", "hint": "jmdm. gehört etwas, Plural" },
+        { "prompt": "Da ist die Tante, ___ Dirk seine Freundin vorstellen möchte.", "answer": "der", "hint": "feminin, Dativ" }
+      ]
+    },
+    {
+      "heading": "Relativsätze mit Präposition",
+      "items": [
+        { "prompt": "Ein Tisch, an ___ jeden Tag gegessen wurde.", "answer": "dem", "hint": "essen an + Dativ" },
+        { "prompt": "Alte Gegenstände, für ___ Konsumenten viel Geld ausgeben.", "answer": "die", "hint": "ausgeben für + Akkusativ, Plural" },
+        { "prompt": "Ein Telefon, auf ___ man keine Nummern speichern kann.", "answer": "dem", "hint": "neutral, Dativ" },
+        { "prompt": "Eine Kamera, für ___ man spezielle Filme kaufen muss.", "answer": "die", "hint": "feminin, Akkusativ" },
+        { "prompt": "Ich denke an ein Möbelstück, auf ___ man bequem sitzen kann.", "answer": "dem", "hint": "neutral, Dativ" }
+      ]
+    },
+    {
+      "heading": "Zweiteilige Konjunktionen",
+      "items": [
+        { "prompt": "Ich stehe ___ für ältere ___ für schwangere Personen auf.", "answer": ["sowohl", "als auch"], "hint": "das eine und (auch) das andere" },
+        { "prompt": "Sie sind ___ für ältere ___ für Gehbehinderte aufgestanden.", "answer": ["weder", "noch"], "hint": "das eine nicht und das andere auch nicht" },
+        { "prompt": "___ man fragt mich höflich ___ man muss mit einem Stehplatz zufrieden sein.", "answer": ["Entweder", "oder"], "hint": "das eine oder das andere" },
+        { "prompt": "Er gibt ___ dem Chef ___ seiner Frau die Hand.", "answer": ["sowohl", "als auch"], "hint": "beide bekommen die Hand" },
+        { "prompt": "Ein Jugendlicher hat ___ Geld ___ eine Fahrkarte.", "answer": ["weder", "noch"], "hint": "nichts von beidem" }
+      ]
+    },
+    {
+      "heading": "Wortbildung un- (Gegenteile)",
+      "items": [
+        { "prompt": "nicht ehrlich = ___", "answer": "unehrlich" },
+        { "prompt": "nicht treu = ___", "answer": "untreu" },
+        { "prompt": "nicht geduldig = ___", "answer": "ungeduldig" },
+        { "prompt": "nicht sensibel = ___", "answer": "unsensibel" }
+      ]
+    }
+  ]
+}

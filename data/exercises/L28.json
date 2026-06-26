@@ -1,0 +1,64 @@
+{
+  "id": "L28",
+  "title": "Hättest du anders gehandelt?",
+  "kursbuch": "Kursbuch S. 221–228",
+  "intro": "Konjunktiv II der Vergangenheit, als ob, Adjektivdeklination im Genitiv und Partizipien als Attribut und Nomen.",
+  "sections": [
+    {
+      "heading": "Konjunktiv II der Vergangenheit – irreale Bedingung",
+      "items": [
+        { "prompt": "Wenn sie eine Wohnung gefunden ___, wären die Behörden machtlos gewesen.", "answer": "hätten", "hint": "haben im Konjunktiv II" },
+        { "prompt": "Wenn es die Mauer nicht gegeben hätte, ___ Annette und Elias Kinder gehabt.", "answer": "hätten" },
+        { "prompt": "Hätten sie rechtzeitig eine Wohnung gefunden, ___ die Behörden machtlos gewesen.", "answer": "wären", "hint": "sein im Konjunktiv II" },
+        { "prompt": "Wie hätte er reagiert, wenn sie sich für die Scheidung entschieden ___?", "answer": "hätte" },
+        { "prompt": "Eine Flucht in den Westen ___ für Annette viel schwieriger gewesen.", "answer": "wäre" }
+      ]
+    },
+    {
+      "heading": "Konjunktiv II der Vergangenheit – Wunsch und Spekulation",
+      "items": [
+        { "prompt": "___ wir doch eine gemeinsame Wohnung gefunden!", "answer": "Hätten", "hint": "irrealer Wunsch" },
+        { "prompt": "Was ___ geschehen, wenn Annette sich hätte scheiden lassen?", "answer": "wäre" },
+        { "prompt": "Er ___ eine Einreisegenehmigung in die DDR beantragen können.", "answer": "hätte", "hint": "Modalverb können" },
+        { "prompt": "Sie ___ Kinder haben können, aber so ...", "answer": "hätten" }
+      ]
+    },
+    {
+      "heading": "Irrealer Vergleich mit als ob",
+      "items": [
+        { "prompt": "Es sieht so aus, als ob man die Firma verkaufen ___.", "answer": "würde", "hint": "Vermutung über die Gegenwart" },
+        { "prompt": "Zuerst hat es so ausgesehen, als ob man unsere Firma schon verkauft ___.", "answer": "hätte", "hint": "Vermutung über die Vergangenheit" },
+        { "prompt": "Das klingt so, als ob du dem Betriebsrat die Schuld ___ würdest.", "answer": "geben" },
+        { "prompt": "Es sieht so aus, als ob du da einen Plastikbecher in den Papierkorb geworfen ___.", "answer": "hättest" }
+      ]
+    },
+    {
+      "heading": "Adjektivdeklination im Genitiv",
+      "items": [
+        { "prompt": "Der Geruch frisch___ Brotes erinnert mich an die Bäckerei.", "answer": "en", "hint": "Nullartikel, maskulin/neutral: -en" },
+        { "prompt": "Der Geschmack frisch___ Milch erinnert mich an Ungarn.", "answer": "er", "hint": "Nullartikel, feminin Singular (SR4)" },
+        { "prompt": "Der Anblick wild___ Pusztapferde war beeindruckend.", "answer": "er", "hint": "Nullartikel, Plural (PL2)" },
+        { "prompt": "Der Klang ihr___ tief___ Stimmen gefiel mir.", "answer": ["er", "en"], "hint": "Possessivartikel, Plural" },
+        { "prompt": "Der Geschmack des süß___ Kakaos erinnert mich an die Kindheit.", "answer": "en", "hint": "bestimmter Artikel" }
+      ]
+    },
+    {
+      "heading": "Partizipien als Attribut",
+      "items": [
+        { "prompt": "die Habsburger, die ewig lang regiert haben = die ewig lang ___ Habsburger", "answer": "regierenden", "hint": "Partizip I, regieren" },
+        { "prompt": "die Volksabstimmungen, die regelmäßig stattfinden = die regelmäßig ___ Volksabstimmungen", "answer": "stattfindenden", "hint": "Partizip I, stattfinden" },
+        { "prompt": "die Volksvertreter, die gewählt wurden = die ___ Volksvertreter", "answer": "gewählten", "hint": "Partizip II, wählen" },
+        { "prompt": "ein Test, der gelungen ist = ein ___ Test", "answer": "gelungener", "hint": "Partizip II, gelingen" },
+        { "prompt": "die Grundrechte, die in der Verfassung beschrieben werden = die in der Verfassung ___ Grundrechte", "answer": "beschriebenen", "hint": "Partizip II, beschreiben" }
+      ]
+    },
+    {
+      "heading": "Partizipien als Nomen",
+      "items": [
+        { "prompt": "Personen, die regieren = die ___", "answer": "Regierenden|Regierende", "hint": "Partizip I als Nomen" },
+        { "prompt": "Personen, die regiert werden = die ___", "answer": "Regierten|Regierte", "hint": "Partizip II als Nomen" },
+        { "prompt": "Die in der Regierung nicht ___ Parteien bilden die Opposition.", "answer": "vertretenen", "hint": "Partizip II, vertreten" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,476 @@
+{
+  "id": "L30",
+  "title": "Wie hast du das geschafft?",
+  "kursbuch": "Kursbuch S. 237–244",
+  "theme": "Über Fehler sprechen, Erfolg und Misserfolg, Bewerbungsgespräche",
+  "blocks": [
+    {
+      "t": "h",
+      "text": "Positiv denken …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Denken Sie an Ihre eigene Lebenssituation oder an die von anderen. Beschreiben Sie, wie Sie die Zukunft sehen. Denken Sie dabei an möglichst positive Entwicklungen.",
+      "md": "| Person | Situation jetzt | positive Entwicklung |\n| --- | --- | --- |\n| Anton | im Krankenhaus, Fahrradunfall, Knieverletzung | kann schon wieder ein paar Schritte gehen, wird bald aus dem Krankenhaus entlassen |"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie. Welche positive Entwicklung in der Zukunft beschreibt Katrin?"
+    },
+    {
+      "t": "text",
+      "md": "**Katrin:** Ich bin Studentin und wohne seit drei Jahren in einer Wohngemeinschaft. Ich mag meine Mitbewohnerinnen. Aber mein Zimmer hier ist so klein, dass ich nicht einmal einen Kleiderschrank aufstellen kann. Je länger ich hier wohne, desto öfter träume ich von meiner eigenen Wohnung. Ich habe schon nach einer kleinen Wohnung gesucht, aber die Wohnungen sind teurer, als ich gedacht hatte. Ich werde in den Ferien einen Job suchen und Geld verdienen, und dann werde ich eine Wohnung mieten. Dann werde ich endlich meine eigene Küche und mein eigenes Badezimmer haben."
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Schreiben Sie einen kurzen Text mit Ihren Ideen aus a und sprechen Sie mit Ihrer Partnerin / Ihrem Partner.",
+      "md": "Ich / Mein Freund / … — Je schneller / länger / öfter / …, desto glücklicher / schwieriger / …\n\n… ist so …, dass …\n\n… ist besser / kleiner / schneller / …, als …\n\n… ist so gut / groß / klein / praktisch …, wie …\n\nIch werde … / Mein Freund / … wird (sicher) …\n\nWirst du auch …?"
+    },
+    {
+      "t": "note",
+      "label": "Tipp",
+      "md": "**Sie lernen**\n- über Fehler sprechen\n- Bewerbungsgespräche\n\n**Grammatik:** Relativsatz im Gen.; Nomen mit Präposition; Nomen/Verben mit *darüber/…* + Nebensatz; *trotz*; Wiederholung: Verben mit Präpositionen, Präpositionalpronomen, *trotzdem*, Nebensatz mit *obwohl*\n\n**Wortschatz:** Arbeitssuche; Bewerbung; Ausbildung und Beruf"
+    },
+    {
+      "t": "h",
+      "text": "A1 — Erfolg und Misserfolg"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie die Reaktionen auf Fehler (1–8). Wer findet seinen Fehler eher nicht so schlimm ☺, wer findet ihn eher schlimm ☹?",
+      "md": "1. Den Fehler hätte ich vermeiden müssen.\n2. Das war einfach Pech.\n3. Ich habe wegen des Fehlers ein schlechtes Gewissen.\n4. Man kann nicht immer korrekt und ordentlich arbeiten.\n5. Mein Anspruch ist zu hoch. Ich sollte ein bisschen toleranter sein.\n6. Manchmal klappt es nicht. Das ist eben so.\n7. Das wird ein schrecklicher Skandal.\n8. Das nächste Mal darf ich keine Fehler zulassen."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Vergleichen Sie Ihre Ergebnisse. Welche Sätze aus a sind Ihnen sympathisch?"
+    },
+    {
+      "t": "task",
+      "label": "Lesen",
+      "instruction": "Lesen Sie den Text. Warum ist Helmut Wolf ins Ausland geflüchtet?"
+    },
+    {
+      "t": "text",
+      "md": "**Fehler müssen sein …**\n\nAm Ende ging es sehr schnell. Die Behörden überprüften noch einmal alle Einnahmen und Ausgaben, dann war klar: Die Firma, deren Eigentümer Helmut Wolf schon monatelang mit der schwierigen wirtschaftlichen Situation gekämpft hatte, wurde geschlossen. Das Personal¹ wurde entlassen. Skandal gab es keinen. Auch die Mitarbeiter wussten: Ihr Chef, dessen Organisationstalent sie immer geschätzt hatten, hatte einfach Pech gehabt. Ein paar Managementfehler, deren Konsequenzen für den Betrieb ungünstig waren, hätte man sicher vermeiden können. Aber Helmut Wolf hatte seine Firma ordentlich und korrekt geführt. Auch viele andere Betriebe hatten in der Krise Probleme.\n\nEinige Angehörige² wollten den Firmenchef in der schwierigen Situation unterstützen, doch Helmut Wolf war verschwunden³. Er hatte seine E-Mail-Adresse gelöscht und war mit unbekanntem Ziel ins Ausland gereist. Der Misserfolg war zu viel für ihn. Der Unternehmer, dessen Depression schließlich länger als ein Jahr dauerte, gründete keine neue Firma mehr.\n\nDas war schade, denn er hätte seine Erfahrungen sehr gut in ein neues Projekt einbringen können. Fehler sind immer eine Chance, es besser zu machen. Doch das gelingt nur in einer Kultur, in der man tolerant mit Fehlern umgeht, in der nicht immer alles klappen muss. Der Wirtschaftspsychologe Michael Frese hat die Fehlertoleranz in 61 Ländern untersucht. Deutschland steht in seiner Liste an vorletzter Stelle. In Deutschland ist der Anspruch, fehlerfrei zu arbeiten, besonders hoch.\n\nEinerseits ist es gut, wenn man sich bemüht, perfekt zu arbeiten und keine Fehler zuzulassen. Andererseits gibt es auch Nachteile, wenn Unternehmer und Mitarbeiter bei jeder Tätigkeit Angst vor Fehlern haben. Wenn wirklich ein schwerer Fehler passiert, wird er dann oft mit schlechtem Gewissen verschwiegen⁴. Mitarbeiter werden vorsichtig und passiv, sie arbeiten möglichst ohne Risiko, oft aber auch ohne Fantasie und Freude.\n\nManchmal stehen Fehler sogar am Beginn einer Entdeckung. Christoph Kolumbus, dessen Reise eigentlich nach Indien führen sollte, ist schließlich in Amerika gelandet. Johann Böttger, dessen Auftrag es war, Gold herzustellen, hat um 1700 das Meißner Porzellan erfunden. Und der Mediziner Alexander Fleming hatte ganz einfach vergessen, seine Arbeitsgeräte wegzuräumen. Das führte im Jahr 1928 zur Entdeckung des Penizillins⁵.\n\nDer Erfolg braucht auch den Fehler. Nur Versuch und Irrtum helfen uns, zu lernen.\n\n*¹ das Personal = die Mitarbeiter*\n*² Angehörige = Verwandte*\n*³ verschwunden = weg sein*\n*⁴ verschwiegen = nichts sagen; (schweigen)*\n*⁵ Penizillin = ein Medikament*"
+    },
+    {
+      "t": "match",
+      "instruction": "Lesen Sie den Text noch einmal. Sind die Sätze richtig oder falsch?",
+      "options": [
+        "richtig",
+        "falsch"
+      ],
+      "rows": [
+        {
+          "text": "Helmut Wolf hat ein paar Managementfehler gemacht.",
+          "answer": "richtig"
+        },
+        {
+          "text": "Helmut Wolf war so enttäuscht, dass er das Land verlassen hat.",
+          "answer": "richtig"
+        },
+        {
+          "text": "In vielen Ländern ist man großzügiger gegenüber Fehlern als in Deutschland.",
+          "answer": "richtig"
+        },
+        {
+          "text": "Betriebe, die keine Fehler zulassen, haben ausschließlich Vorteile.",
+          "answer": "falsch"
+        },
+        {
+          "text": "Kolumbus, Böttger und Fleming haben vor ihren Entdeckungen ebenso Fehler gemacht.",
+          "answer": "richtig"
+        }
+      ],
+      "example": "Die Mitarbeiter haben Helmut Wolf für das Ende seiner Firma verantwortlich gemacht. → **falsch**"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie den Anfang (Zeile 1–22) und das Ende des Textes (Zeile 42–52) in c noch einmal. Unterstreichen Sie die sechs Relativsätze mit dessen oder deren wie im Beispiel."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Relativsätze (Genitiv)**\n\nDer Entdecker Christoph Kolumbus, **dessen** Reise\\* nach Indien führen sollte, ist in Amerika gelandet.\n\n- Das Kind, **dessen** Reise …\n- Die Entdeckerin, **deren** Reise …\n- Meine Freunde, **deren** Reise …\n\n\\* dessen Reise = die Reise des Entdeckers (= seine Reise)"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie das Relativpronomen im Genitiv (dessen / deren).",
+      "items": [
+        {
+          "q": "Johann Böttger, ___ Auftrag es war, Gold herzustellen, hat das Meißner Porzellan erfunden.",
+          "a": "dessen"
+        },
+        {
+          "q": "Ihr Chef, ___ Organisationstalent sie immer geschätzt hatten, hatte einfach Pech gehabt.",
+          "a": "dessen"
+        },
+        {
+          "q": "Ein paar Managementfehler, ___ Konsequenzen ungünstig waren, hätte man vermeiden können.",
+          "a": "deren",
+          "hint": "Plural"
+        },
+        {
+          "q": "Die Firma, ___ Eigentümer Helmut Wolf war, wurde geschlossen.",
+          "a": "deren",
+          "hint": "die Firma (feminin)"
+        }
+      ],
+      "example": "Christoph Kolumbus, **dessen** Reise nach Indien führen sollte, ist in Amerika gelandet."
+    },
+    {
+      "t": "h",
+      "text": "A2 — Mit den eigenen Fehlern richtig umgehen …"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie die Tipps (1–3). Welchen Tipp würden Sie gern ausprobieren?",
+      "md": "**Keine Angst vor Fehlern!**\nDiese Techniken können helfen, entspannter mit Fehlern umzugehen.\n\n1. Erzählen Sie möglichst vielen Personen von einem kleinen Fehler, den Sie vor Kurzem gemacht haben. Erzählen Sie Ihre Fehlergeschichte mit Humor. Das wird Ihren Blick auf Ihre Fehler verändern.\n2. Machen Sie absichtlich einen kleinen Fehler und beobachten Sie die Reaktion der anderen. Sie werden sehen, dass die meisten Personen verständnisvoll reagieren.\n3. Haben Sie sich selbst nach einem Fehler schon einmal einen Idioten genannt? Stellen Sie sich immer wieder vor, wie Sie gern behandelt werden möchten, wenn Sie Fehler machen. Sie werden beim nächsten Fehler weniger streng mit sich selbst sein."
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie die Präposition (Verben mit Präposition).",
+      "items": [
+        {
+          "q": "Ich habe beobachtet, wie die anderen ___ meinen Fehler reagiert haben.",
+          "a": "auf",
+          "hint": "reagieren auf + Akk."
+        },
+        {
+          "q": "Wenn ich Tennis spiele, ärgere ich mich am meisten ___ meine eigenen Fehler.",
+          "a": "über",
+          "hint": "sich ärgern über + Akk."
+        },
+        {
+          "q": "Ich werde so zornig, dass ich mich nicht ___ mein weiteres Spiel konzentrieren kann.",
+          "a": "auf",
+          "hint": "sich konzentrieren auf + Akk."
+        }
+      ],
+      "example": "Ich habe Angst, dass die anderen Kunden sich **über** die längere Wartezeit beschweren."
+    },
+    {
+      "t": "ex",
+      "instruction": "Sagen Sie die Sätze aus c anders. Ergänzen Sie das Präpositionalpronomen (darüber, …).",
+      "items": [
+        {
+          "q": "Ich ärgere mich am meisten ___, dass ich selbst Fehler mache.",
+          "a": "darüber"
+        },
+        {
+          "q": "Ich kann mich nicht ___ konzentrieren, dass ich weiterspielen muss.",
+          "a": "darauf"
+        }
+      ],
+      "example": "Die anderen Kunden beschweren sich **darüber**, dass sie länger warten müssen."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Verben und Nomen mit Präposition**\n\nder Ärger über einen Fehler\n\nIch ärgere mich **über** den Fehler.\n\nIch ärgere mich **darüber**, dass / … ich einen Fehler gemacht habe."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Notieren Sie drei Überschriften und „Fehlergeschichten\". Erzählen Sie sie dann.",
+      "md": "Ärger (über) · Entschuldigung (für) · Warnung (vor) · Enttäuschung (über) · Unzufriedenheit (mit) · Frage (nach) · Glaube (an) · Diskussion (über) · Lust (auf) · Gewöhnung (an) · Bemühung (um) · Interesse (an) · Gedanken (an) · Traum (von) · Beschwerde (über) · Bewerbung (um)\n\n*Beispiel: Furcht vor Diktaten: Cousin fürchtet sich vor Diktaten in der Schule, macht relativ viele Fehler, …*"
+    },
+    {
+      "t": "h",
+      "text": "B1 — Fehler bei der Bewerbung"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie die Annoncen und stellen Sie sich vor, Sie arbeiten als Personalchefin / Personalchef in diesen Firmen. Wie sollte die Kandidatin / der Kandidat für die Stelle sein? Machen Sie Notizen.",
+      "md": "**A** Unser Hotel sucht einen **Nachtportier (m/w)**. Schichtarbeit, auch Teilzeit möglich.\n\n**B** Wir suchen einen/eine **Verkäufer/in für unsere Möbelboutique**. Wir verkaufen ausschließlich Designerware aus Italien und Frankreich. Sie interessieren sich für Mode und Design.\n\n**C** **Kinderbetreuer/-in gesucht.** Sie lieben Kinder und haben Erfahrung mit größeren Kindergruppen. Wir bieten einen Teilzeit- oder Vollzeitjob und ein leistungsorientiertes Gehalt.\n\n**D** Landeskrankenhaus Innsbruck: **Krankenpfleger/-in gesucht.** Qualifikation: abgeschlossene Ausbildung, Berufspraxis, Fremdsprachenkenntnisse.\n\n**E** Wir sind eine große Supermarktkette und suchen **Metzger/-innen** für unsere Fleischabteilungen. Sie sind zuverlässig, kräftig und suchen einen sicheren Arbeitsplatz mit guten Karrierechancen? Dann bewerben Sie sich unter www.supermarktbauer.de\n\n**F** **IT-Experte/-in** für die Betreuung unseres Computernetzwerkes gesucht. Wir bieten ein gutes Gehalt und regelmäßige Fortbildungsseminare.\n\n*Beispiel A: freundlich, höflich, nicht ängstlich, …*"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Was ist für die Berufe in a wichtig, was ist unwichtig? Nennen Sie für jeden Beruf eine wichtige und eine unwichtige Eigenschaft.",
+      "md": "Fremdsprachenkenntnisse · musikalisches Talent · Deutschkenntnisse · abgeschlossene Berufsausbildung · gepflegtes Aussehen · fehlerloser Lebenslauf · kräftige Muskeln · Pünktlichkeit beim Bewerbungsgespräch\n\nEs ist wichtig, dass die Bewerberin / der Bewerber … hat / besitzt.\n\nEs ist nicht wichtig, dass …"
+    },
+    {
+      "t": "h",
+      "text": "B2 — Trotzdem stellen wir Sie ein …"
+    },
+    {
+      "t": "match",
+      "instruction": "Welcher Beruf passt nicht zu den Personen? Ordnen Sie zu.",
+      "options": [
+        "a Soldat",
+        "b Journalistin",
+        "c Briefträgerin",
+        "d Mathematiklehrer",
+        "e Schauspieler",
+        "f Pilot"
+      ],
+      "rows": [
+        {
+          "text": "Wegen seiner Rechenschwäche hat Marco Probleme in Mathematik.",
+          "answer": "d Mathematiklehrer"
+        },
+        {
+          "text": "Robert liebt seine langen Haare.",
+          "answer": "a Soldat"
+        },
+        {
+          "text": "Martin hat einen Sprachfehler.",
+          "answer": "e Schauspieler"
+        },
+        {
+          "text": "Alexander hat Höhenangst.",
+          "answer": "f Pilot"
+        },
+        {
+          "text": "Eva hat eine Rechtschreibschwäche.",
+          "answer": "b Journalistin"
+        }
+      ],
+      "example": "Angelika hat Angst vor Hunden. → **c Briefträgerin**"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Machen Sie Dialoge wie im Beispiel und finden Sie weitere originelle Lösungen. Sprechen Sie.",
+      "md": "Rechtschreibprogramm am Computer · mehr Verständnis für Kinder mit Rechenproblemen · Therapie bei einem Psychologen machen · zu einem Sprachcoach gehen · zu einem privaten Sicherheitsdienst gehen · …\n\n● Trotz ihrer Angst vor Hunden will Angelika Briefträgerin werden.\n\n■ Sie kann die Briefe doch einfach in den Briefkasten werfen."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**trotz + Genitiv**\n\nTrotz ihrer Angst vor Hunden will Angelika Briefträgerin werden."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Üben Sie die Dialoge aus b auch mit obwohl und trotzdem.",
+      "md": "● Angelika will Briefträgerin werden, obwohl …\n\n■ …"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie trotz + Genitiv (Präposition und Genitivform).",
+      "items": [
+        {
+          "q": "Trotz ___ Sprachfehlers will Martin Schauspieler werden.",
+          "a": "seines",
+          "hint": "maskulin Genitiv"
+        },
+        {
+          "q": "Trotz ___ guten Angebots hat er die Stelle nicht angenommen.",
+          "a": "des",
+          "hint": "neutral Genitiv"
+        },
+        {
+          "q": "Trotz ___ langen Haare bekommt Robert den Job.",
+          "a": "seiner",
+          "hint": "Plural Genitiv"
+        }
+      ],
+      "example": "**Trotz** ihrer Angst vor Hunden will Angelika Briefträgerin werden."
+    },
+    {
+      "t": "h",
+      "text": "B3 — Das Bewerbungsgespräch"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Wählen Sie eine Annonce aus 1a und spielen Sie ein Bewerbungsgespräch. A ist der Arbeitgeber, B ist der Arbeitnehmer. Tauschen Sie dann die Rollen. Beachten Sie im Gespräch die Punkte 1–4.",
+      "md": "1. Gründe für die Bewerbung (warum – bewerben?)\n2. momentaner Arbeitgeber (wo – jetzt arbeiten?)\n3. Qualifikationen (welche Qualifikationen – haben?)\n4. Gehaltsvorstellungen (welches Gehalt – sich vorstellen?)\n\nIch habe die Anzeige in … gelesen. · … interessiere mich für … · … arbeite seit … bei … · … bin arbeitslos. · … habe bei … gearbeitet. · … bin in … zur Schule gegangen. · … habe das Gymnasium / die Realschule / … abgeschlossen. · … habe Kurse … gemacht. · … habe bisher … verdient. · … hätte gern … · Wie viel können Sie anbieten?"
+    },
+    {
+      "t": "h",
+      "text": "C1 — Das macht mich glücklich …"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "In welchen Situationen fühlen Sie sich gut ☺? In welchen Situationen fühlen Sie sich schlecht ☹? Welche Situationen sind Ihnen egal 😐? Ergänzen Sie und schreiben Sie mindestens fünf Sätze.",
+      "md": "1. Gedanken an meine Heimatstadt\n2. die Aussicht auf eine Gehaltserhöhung\n3. die Erinnerung an meinen ersten Schultag\n4. ein Treffen mit guten Freunden\n5. eine Diskussion über Politik\n6. der Beginn meines Urlaubs\n7. eine Warnung vor Betrügern\n8. die Verabredung mit einem alten Schulfreund\n9. meine Lieblingsspeise auf der Speisekarte\n10. die Nähe eines Gewitters\n11. ein Unfall eines Verwandten\n12. …\n\n☺ Ich fühle mich gut, wenn ich mit jemandem über Politik diskutieren kann.\n\n☹ Ich fühle mich schlecht, wenn …   😐 Es ist mir egal, wenn …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Gruppenarbeit. Lesen Sie Ihre Sätze vor und sprechen Sie über die Situationen."
+    },
+    {
+      "t": "h",
+      "text": "C2 — Hans im Glück"
+    },
+    {
+      "t": "match",
+      "instruction": "Lesen Sie das Märchen. Welche Tauschgeschäfte macht Hans? Ordnen Sie die Dinge in die richtige Reihenfolge (1 = zuerst).",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "rows": [
+        {
+          "text": "Pferd",
+          "answer": "2"
+        },
+        {
+          "text": "Kuh",
+          "answer": "3"
+        },
+        {
+          "text": "Schwein",
+          "answer": "4"
+        },
+        {
+          "text": "Gans",
+          "answer": "5"
+        },
+        {
+          "text": "Stein",
+          "answer": "6"
+        }
+      ],
+      "example": "Gold → **1**"
+    },
+    {
+      "t": "text",
+      "md": "**Hans im Glück** — Märchen der Brüder Grimm\n\nNachdem Hans sieben Jahre lang fleißig gearbeitet hatte, bekam er von seinem Meister einen Sack voll Gold. Hans bedankte sich für seinen Lohn, verabschiedete sich und machte sich auf den Weg nach Hause. Nach einiger Zeit kam ihm ein Reiter entgegen. „Es muss doch wunderbar sein, auf so einem feinen Pferd zu reiten\", sagte Hans zu ihm. „Man sitzt gemütlich, fast wie auf einem Kissen, und ist doch schnell unterwegs.\" Da schlug ihm der Reiter vor, das Pferd gegen den Sack mit Gold zu tauschen. Hans war einverstanden. Doch weil er ein schlechter Reiter war, wurde er auf dem Pferd bald arg durchgeschüttelt¹. Da begegnete ihm ein Bauer, der mit einer mageren² Kuh auf dem Weg ins nächste Dorf war.\n\nHans schimpfte über sein Pferd und meinte: „Ach, hätte ich nur eine Kuh. Ich könnte zwar nicht auf ihr reiten, aber ich hätte jeden Tag Milch.\" Da schlug ihm der Bauer vor, die Kuh gegen das Pferd zu tauschen. Fröhlich zog Hans mit der Kuh weiter. Gegen Mittag wollte er ein Glas Milch trinken. Doch es gelang ihm nicht, die Kuh zu melken. Da sah er einen Metzger, der ein lebendiges Schwein mit sich führte. „Ach, so ein Schwein wäre fein\", sagte Hans zu dem Metzger. „Meine Kuh gibt keine Milch, und Speck³ schmeckt mir sowieso besser.\" „Wahrscheinlich ist deine Kuh schon alt\", meinte der Metzger und bot sein Schwein zum Tausch an, was Hans gern annahm.\n\nWenig später begegnete er einem jungen Mann, der eine Gans auf dem Arm hielt. „Woher hast du das schöne Schwein?\" wollte der Mann wissen. Hans erzählte ihm, wie er das Schwein gegen die Kuh getauscht hatte. Da fasste⁴ der Mann seinen Arm und sagte: „Ich habe gehört, dass ein Schwein gestohlen wurde, vielleicht ist es deines.\" „Ach, könnte ich deine Gans kriegen⁵ und dir mein Schwein dafür geben, dann wäre mir wohler\", meinte Hans ängstlich, und wenig später zog er mit der Gans im Arm weiter. Nach einiger Zeit sah er einen Scherenschleifer, der mit einem großen Stein Scheren⁶ und Messer schärfte. Als Hans ihm von seinen Tauschgeschäften erzählte, schlug der Scherenschleifer vor: „Die Gans macht nur einmal satt⁷, mit dem Stein kannst du aber dein ganzes Leben lang gutes Geld verdienen. Tausch doch mit mir.\" Und so lud Hans sich den schweren Stein auf den Rücken. Nach einiger Zeit kam er zu einem Brunnen und wollte Wasser trinken. Er konnte den glatten Stein jedoch nicht festhalten und dieser fiel vom Rand⁸ des Brunnens ins Wasser. Als Hans das sah, sprang er senkrecht⁹ in die Luft und rief: „Ich könnte die ganze Welt umarmen. So glücklich wie ich ist wohl kein Mensch unter der Sonne.\"\n\n*¹ durchschütteln = etw. schnell hin und her bewegen*\n*² mager = dünn, nicht fett*\n*³ Speck = fettes Fleisch vom Schwein*\n*⁴ fassen = festhalten, greifen*\n*⁵ kriegen = bekommen*\n*⁶ Scheren = (Schere)*\n*⁷ satt = keinen Hunger haben*\n*⁸ der Rand = der äußere Teil von etw.*\n*⁹ senkrecht = gerade nach oben; ↔ waagerecht*"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie noch einmal und machen Sie Notizen. Warum tauscht Hans?",
+      "md": "*Beispiel: Er tauscht das Gold gegen das Pferd, weil …*"
+    },
+    {
+      "t": "h",
+      "text": "C3 — Hans im Glück – Alltagsgeschichten"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Gruppenarbeit. Wählen Sie einen Zeitungsbericht (A–C) aus und beantworten Sie dann die Fragen (1–4)."
+    },
+    {
+      "t": "text",
+      "md": "**A — Nach Lokaltour vor Gericht**\n\nFriederike P. aus Buxtehude wartete gespannt¹ auf das Urteil im Prozess gegen Max M. Sie hatte den Vater ihres Kindes auf die Bezahlung von Unterhalt verklagt. Seine Zahlungen waren seit mehreren Monaten ausgefallen. Alle Mahnungen² waren vergeblich gewesen.\n\nFünf Jahre lang hatte Max M. auf einer Ölbohrinsel in der Nordsee gearbeitet und gut verdient. Doch dann gelang es ihm, an einem einzigen Abend sein Geld komplett auszugeben. Die feuchte³ Lokaltour begann im Hamburger Hafenviertel, wo Max M. seine Freunde in seine Lieblingskneipen einlud. Nachdem sie ihren Durst gelöscht hatten, besuchten sie das Spielcasino in der Innenstadt. Dort verbrauchten sie Max M.s hart verdientes Geld bis auf den letzten Rest. Doch offensichtlich tat ihm der Abend nicht leid: „Ich weiß, dass ich rechtlich verpflichtet bin, für mein Kind zu sorgen. Das will ich auch tun\", erklärte er dem Richter. „Aber das war der glücklichste Abend meines Lebens.\"\n\n**B — Geld an Betrüger verloren**\n\nPech hatte Carola N. aus Wuppertal. Sie hatte sechs Jahre lang als Kellnerin in Saisonbetrieben gearbeitet und fleißig ihr Geld gespart. Ein Bekannter gab ihr den Rat, die Früchte⁴ ihrer Arbeit seinem Neffen⁵, dem Anlageberater Tobias K. zu überlassen, der dafür angeblich „sichere\" Wertpapiere kaufte. Innerhalb von sechs Monaten ging es mit Carola N.s Wertpapieren steil abwärts⁶. Nach einem Rekordverlust im ersten Jahr war von dem gesparten Geld nichts mehr übrig, und von Tobias K. fehlte jede Spur. Für die meisten Kunden von Tobias K. war der schändliche⁷ Betrug ein Schlag ins Gesicht. Niemand reagierte so ruhig wie die Kellnerin aus Wuppertal. „Vielleicht ist es besser, dass das Geld weg ist\", meinte sie. „Jetzt kann ich mir neue Ziele setzen.\"\n\n**C — Altersheim für Not leidende Künstler eröffnet**\n\nDer Abend gehörte ganz Marianne Schön. Die verwitwete⁸ Schauspielerin hatte jahrzehntelang in Film und Fernsehen Erfolge gefeiert. Statt ihr Geld für private Zwecke auszugeben, gründete sie ein Altersheim für Not leidende Künstler. Für jene Künstler, die bei der Eröffnungsfeier anwesend⁹ sein konnten, war der Abend ein gelungenes Fest. Die Schauspielerin war sichtlich bewegt. „Ich selbst brauche nicht viel\", erklärte sie in ihrer Eröffnungsrede. „Meine kleine Innenstadtwohnung reicht¹⁰ völlig. Ich will mein Geld mit der Gemeinschaft¹¹ der Künstler teilen. Ich habe viel bekommen, jetzt bin ich an der Reihe, etwas zu geben. Ich bin der glücklichste Mensch der Welt, wenn ich mit euch feiern kann.\"\n\n*¹ gespannt = sehr aufmerksam*\n*² Mahnungen = strenge Aufforderung*\n*³ feucht = ein bisschen nass; hier: sie haben viel Alkohol getrunken*\n*⁴ Früchte = Obst; hier: der Lohn*\n*⁵ Neffe = Sohn des Bruders / der Schwester; (♀ Nichte)*\n*⁶ abwärts = ↔ aufwärts*\n*⁷ schändlich = ohne Gewissen*\n*⁸ verwitwet = der Ehemann / die Ehefrau ist gestorben*\n*⁹ anwesend = ↔ abwesend*\n*¹⁰ reichen = genug sein*\n*¹¹ Gemeinschaft = Gruppe, die etw. gemeinsam hat*"
+    },
+    {
+      "t": "note",
+      "label": "Tipp",
+      "md": "**Texte leichter verstehen – Attribute erkennen**\n\nStreichen Sie in schwierigen Sätzen die Attribute weg (= in den Texten hell markiert). Sie können sich dann besser auf die Hauptinformation konzentrieren.\n\nWas für eine Geschichte?\n\n| Beispiel | Attributtyp |\n| --- | --- |\n| die interessante Geschichte | Adjektiv |\n| die … Geschichte im Deutschbuch | Präposition und Nomen |\n| die … Geschichte im Buch meines Freundes | Genitiv |\n| die in einer Tageszeitung erschienene … Geschichte | Partizipialattribut |\n| die … Geschichte …, die ich dir erzählen will | Relativsatz |"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Beantworten Sie die Fragen zu den Zeitungsberichten.",
+      "md": "1. Wie haben die Personen in den Texten (Max M., Carola N., Marianne Schön) ihr Geld verdient?\n2. Wie haben sie ihr Geld „verloren\"?\n3. Wie reagieren sie auf ihren „Verlust\"?\n4. Was haben die Geschichten aus der Zeitung mit dem Märchen *Hans im Glück* gemeinsam?"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Erzählen Sie den Inhalt Ihres Textes und sprechen Sie über die Fragen."
+    },
+    {
+      "t": "h",
+      "text": "GRAMMATIK"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Nomen — Relativpronomen im Genitiv**\n\n| | Genitiv |\n| --- | --- |\n| **Singular** | |\n| • maskulin | dessen |\n| • neutral | dessen |\n| • feminin | deren |\n| **Plural** | deren |\n\n**Nomen mit Präpositionen**\n\n| Nomen mit Präposition | | Präpositionalpronomen |\n| --- | --- | --- |\n| der Ärger über … | (+ Akk.) | der Ärger darüber |\n| die Freude auf … | (+ Akk.) | die Freude darauf |\n| die Freude über … | (+ Akk.) | die Freude darüber |\n| die Angst vor … | (+ Dat.) | die Angst davor |\n| die Reaktion auf … | (+ Akk.) | die Reaktion darauf |\n| die Konzentration auf … | (+ Akk.) | die Konzentration darauf |\n| die Beschwerde über … | (+ Akk.) | die Beschwerde darüber |"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Präposition — trotz + Genitiv**\n\n| Singular | |\n| --- | --- |\n| • maskulin | trotz seines Sprachfehlers\\* |\n| • neutral | trotz des guten Angebots |\n| • feminin | trotz ihrer Angst vor Hunden |\n| **Plural** | trotz seiner langen Haare |\n\n\\* trotz seines Sprachfehlers = obwohl er einen Sprachfehler hatte, …"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Satz — Relativsatz mit Relativpronomen dessen/deren/… (Genitiv)**\n\n| | Relativpronomen | … | Satzende |\n| --- | --- | --- | --- |\n| **Singular** | | | |\n| • maskulin | Der Entdecker, dessen\\* | Reise nach Indien führen | sollte, … |\n| • neutral | Das Kind, dessen | Spielzeug da | liegt, … |\n| • feminin | Die Entdeckerin, deren | Reise nach Indien führen | sollte, … |\n| **Plural** | Die Kinder, deren | Spielzeug da | liegt, … |\n\n\\* dessen Reise = die Reise des Entdeckers\n\n**Nomen und Verben mit darüber/… + Nebensatz**\n\n| Hauptteil | Nebensatz |\n| --- | --- |\n| Mein Ärger darüber, | dass ich Fehler gemacht habe, …\\* |\n| Ich ärgere mich darüber, | dass ich Fehler gemacht habe. |\n| Die Freude darauf, | dass meine Schwester morgen kommt, … |\n| Ich freue mich darauf, | dass meine Schwester morgen kommt. |\n| Die Freude darüber, | dass heute Sonntag ist, … |\n| Ich freue mich darüber, | dass heute Sonntag ist. |\n| Die Angst davor, | dass ich die Prüfung nicht schaffe, … |\n| Ich habe Angst davor, | dass ich die Prüfung nicht schaffe. |\n| Die Reaktion darauf, | dass ich Fehler gemacht habe, … |\n| Die Leute reagierten darauf, | dass ich Fehler gemacht habe. |\n| Die Konzentration darauf, | dass ich weiterspielen muss, … |\n| Ich konzentriere mich darauf, | dass ich weiterspielen muss. |\n\n\\* Manchmal sind auch andere Konjunktionen/Fragewörter möglich: Die Frage danach, ob das möglich ist, … · Mein Ärger darüber, wie ich den Zug verpasst habe, … · Die Konzentration darauf, wann ich weiterspielen muss, …"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie das Präpositionalpronomen (darüber, darauf, davor).",
+      "items": [
+        {
+          "q": "Ich freue mich ___, dass meine Schwester morgen kommt.",
+          "a": "darauf",
+          "hint": "etwas Zukünftiges"
+        },
+        {
+          "q": "Ich habe Angst ___, dass ich die Prüfung nicht schaffe.",
+          "a": "davor"
+        },
+        {
+          "q": "Die anderen Kunden beschweren sich ___, dass sie länger warten müssen.",
+          "a": "darüber"
+        }
+      ],
+      "example": "Ich ärgere mich **darüber**, dass ich Fehler gemacht habe."
+    },
+    {
+      "t": "ex",
+      "instruction": "Relativpronomen im Genitiv: Ergänzen Sie die Formen.",
+      "items": [
+        {
+          "q": "Die Entdeckerin, ___ Reise nach Indien führen sollte, …",
+          "a": "deren",
+          "hint": "feminin"
+        },
+        {
+          "q": "Die Kinder, ___ Spielzeug da liegt, spielen draußen.",
+          "a": "deren",
+          "hint": "Plural"
+        },
+        {
+          "q": "Der Cartoon, ___ Hauptdarsteller Sie waren, ist zu Ende.",
+          "a": "dessen",
+          "hint": "maskulin"
+        }
+      ],
+      "example": "Das Kind, **dessen** Spielzeug da liegt, weint."
+    },
+    {
+      "t": "ex",
+      "instruction": "Nomen mit Präposition: Ergänzen Sie die richtige Präposition.",
+      "items": [
+        {
+          "q": "die Angst ___ Hunden",
+          "a": "vor",
+          "hint": "+ Dat."
+        },
+        {
+          "q": "die Freude ___ den Urlaub",
+          "a": "auf",
+          "hint": "+ Akk., etwas Zukünftiges"
+        },
+        {
+          "q": "die Beschwerde ___ die Wartezeit",
+          "a": "über",
+          "hint": "+ Akk."
+        },
+        {
+          "q": "die Bewerbung ___ eine Stelle",
+          "a": "um",
+          "hint": "+ Akk."
+        }
+      ],
+      "example": "der Ärger **über** einen Fehler"
+    },
+    {
+      "t": "note",
+      "label": "REDEMITTEL",
+      "md": "**sich bewerben**\n\n- Hiermit möchte ich mich bei Ihnen auf die Stelle als … bewerben.\n- Ich habe Ihre Anzeige in … gelesen.\n- Ich interessiere mich für die Stelle, weil … / Für die Stelle interessiere ich mich, weil …\n- Momentan / Seit … arbeite ich bei der Firma … als … / bin ich arbeitslos.\n- Ich habe … studiert / eine Ausbildung als … gemacht / bei … gearbeitet.\n- Ich bin in … zur Schule gegangen.\n- Ich habe das Gymnasium / … abgeschlossen.\n- Dort habe ich auch Deutsch gelernt.\n- Ich habe am Goethe-Institut / in … Deutsch gelernt.\n- Als … verdiene ich jetzt / momentan … / Bei … verdiene ich … Euro … netto / brutto.\n- Ich habe bisher … verdient. Ich hätte gern … Wie viel können Sie anbieten?"
+    }
+  ]
+}

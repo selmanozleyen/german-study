@@ -1,0 +1,64 @@
+{
+  "id": "L29",
+  "title": "Wie wird die Zukunft werden?",
+  "kursbuch": "Kursbuch S. 229–236",
+  "intro": "Futur I, Relativsätze mit was und wo, Vergleichssätze, so … dass und je … desto.",
+  "sections": [
+    {
+      "heading": "Futur I (werden + Infinitiv)",
+      "items": [
+        { "prompt": "In Zukunft ___ alle neuen Autos Elektrofahrzeuge ___.", "answer": ["werden", "sein"], "hint": "Plural + Infinitiv sein" },
+        { "prompt": "Es ___ für alle Krankheiten Behandlungsmöglichkeiten ___.", "answer": ["wird", "geben"], "hint": "es-Form + Infinitiv geben" },
+        { "prompt": "In diesem Jahrhundert ___ wir die Lebenszeit um 30 bis 40 Jahre ___.", "answer": ["werden", "verlängern"], "hint": "wir-Form" },
+        { "prompt": "Ich ___ weniger ___.", "answer": ["werde", "rauchen"], "hint": "Vorsatz, ich-Form" },
+        { "prompt": "Roboter ___ alle Arbeiten im Haushalt ___.", "answer": ["werden", "erledigen"], "hint": "Plural" }
+      ]
+    },
+    {
+      "heading": "Bedeutung des Futur I",
+      "items": [
+        { "prompt": "Wo ist Hans? – Er ___ in der Arbeit sein. (Vermutung)", "answer": "wird", "hint": "etwas vermuten" },
+        { "prompt": "Du ___ schon sehen, was dann passiert. (Warnung)", "answer": "wirst", "hint": "jemanden warnen, du-Form" },
+        { "prompt": "Es ___ eine Bevölkerungsexplosion geben. (Vorhersage)", "answer": "wird", "hint": "Vorhersage machen" },
+        { "prompt": "Und ich ___ dir helfen. (Versprechen)", "answer": "werde", "hint": "etwas versprechen, ich-Form" }
+      ]
+    },
+    {
+      "heading": "Relativsätze mit was / wo",
+      "items": [
+        { "prompt": "Heute hören wir auf das, ___ die Zukunftsforscher sagen.", "answer": "was", "hint": "nach das / alles / etwas / nichts" },
+        { "prompt": "Bald wird es nichts geben, ___ ein Computerprogramm nicht abbilden kann.", "answer": "was" },
+        { "prompt": "Dort, ___ es notwendig ist, werden wir aus Meerwasser Trinkwasser gewinnen.", "answer": "wo", "hint": "Ort" },
+        { "prompt": "In Afrika, ___ es viel Sonnenenergie gibt, werden riesige Solarkraftwerke stehen.", "answer": "wo" },
+        { "prompt": "Das Energieproblem ist etwas, ___ gelöst werden kann.", "answer": "was" }
+      ]
+    },
+    {
+      "heading": "Vergleichssätze: als / wie",
+      "items": [
+        { "prompt": "Die Frisur sieht besser aus, ___ ich gedacht habe.", "answer": "als", "hint": "nach Komparativ" },
+        { "prompt": "Die Frisur sieht genauso gut aus, ___ ich sie mir vorgestellt habe.", "answer": "wie", "hint": "nach (genau)so" },
+        { "prompt": "Das war einfacher, ___ du dir gedacht hast.", "answer": "als" },
+        { "prompt": "Das ist für ihn schwieriger, ___ er gedacht hat.", "answer": "als" }
+      ]
+    },
+    {
+      "heading": "Folge: so … dass",
+      "items": [
+        { "prompt": "Autofahren wird ___ einfach, ___ man keine Führerscheinprüfung mehr braucht.", "answer": ["so", "dass"], "hint": "so + Adjektiv, dass" },
+        { "prompt": "Es wird so wenige Autos geben, ___ die Autofirmen wirtschaftliche Probleme bekommen könnten.", "answer": "dass" },
+        { "prompt": "Die Autos werden in der Stadt so langsam fahren, ___ viele lieber mit dem Fahrrad fahren.", "answer": "dass" },
+        { "prompt": "Selbstfahrende Autos werden ___ sicher sein, dass man sich nicht mehr anschnallen muss.", "answer": "so" }
+      ]
+    },
+    {
+      "heading": "Konsequenzen: je … desto",
+      "items": [
+        { "prompt": "___ weniger Autos es gibt, ___ mehr Platz haben Fußgänger und Radfahrer.", "answer": ["Je", "desto"], "hint": "je + Komparativ, desto + Komparativ" },
+        { "prompt": "Je langsamer meine Fahrzeuge unterwegs sind, ___ weniger Aufträge kann ich annehmen.", "answer": "desto|umso" },
+        { "prompt": "Je mehr Arbeit ich während der Fahrt erledige, desto mehr Freizeit ___ ich danach.", "answer": "habe", "hint": "Verb am Satzende des Hauptsatzes" },
+        { "prompt": "Je älter ich werde, ___ mehr Urlaub brauche ich.", "answer": "desto|umso" }
+      ]
+    }
+  ]
+}

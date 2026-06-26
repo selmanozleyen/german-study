@@ -1,0 +1,651 @@
+{
+  "id": "L19",
+  "title": "Wer war …?",
+  "kursbuch": "Kursbuch S. 149–156",
+  "theme": "Über interessante Personen und Vorbilder berichten",
+  "blocks": [
+    {
+      "t": "h",
+      "text": "Wer war …? — Vorbilder"
+    },
+    {
+      "t": "text",
+      "md": "**Wer war …?**\n\n- der Wissenschaftler Albert Einstein\n- die Sängerin Tina Turner\n- mein Freund Franz Meyer, Sportler\n- meine Großmutter\n- der Politiker Mahatma Gandhi"
+    },
+    {
+      "t": "note",
+      "label": "Tipp",
+      "md": "**SIE LERNEN**\n- über interessante Personen berichten\n- biografische Angaben machen\n- ein Experiment beschreiben\n\n**GRAMMATIK**\n- Nebensätze mit *als*, *(immer) wenn*\n- Plusquamperfekt\n- Nebensatz mit *nachdem*\n- Wortbildung *-los*\n- Wiederholung: Perfekt; Präteritum\n\n**WORTSCHATZ**\n- Personen beschreiben"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Vorbilder a) Welche Menschen haben Sie besonders beeinflusst? Wer war ein Vorbild für Sie? Warum? Machen Sie Notizen.",
+      "md": "| Name | Warum wichtig? Warum ein Vorbild? |\n|---|---|\n| Michael Gröbel (Deutschlehrer) | hat mein Interesse für Literatur geweckt |\n| Harald (mein Lieblingsbruder) | … |"
+    },
+    {
+      "t": "text",
+      "md": "**b) Lesen Sie. Wer ist für Ralf wichtig? Warum?**\n\nRalf: In der Schule war mein Geschichtslehrer sehr wichtig für mich. Anfangs mochte ich ihn gar nicht so sehr, weil er ziemlich streng war. Aber er war der erste Lehrer, der mit uns auch über aktuelle Politik diskutiert hat. Damals habe ich begonnen, mich für Politik zu interessieren. In meiner Familie ist Hanna besonders wichtig für mich. Sie ist meine Lieblingsschwester. Sie ist zwei Jahre älter als ich, und sie war schon in der Schule mein großes Vorbild. Wenn ich auf dem Schulweg Probleme mit älteren Kindern hatte, hat sie mir oft geholfen."
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "c) Schreiben Sie einen Text mit Ihren Ideen aus a und sprechen Sie mit Ihrer Partnerin / Ihrem Partner.",
+      "md": "- Meine Deutschlehrerin / Mein Deutschlehrer war sehr wichtig für mich, weil …\n- Damals habe ich begonnen, mich für … zu interessieren.\n- Ich habe sie / ihn … kennengelernt / zum ersten Mal gesehen / getroffen.\n- Sie / Er ist / war lustig / sympathisch / intelligent / ein interessanter / … Mensch.\n- Anfangs mochte ich sie / ihn nicht. / Ich mochte sie / ihn sofort.\n- Sie / Er hat mir gezeigt, wie … Sie / Er ist / war jemand, die / der … Wenn ich …, …\n- … war ein Vorbild für mich.\n- Wie hast du … kennengelernt?"
+    },
+    {
+      "t": "h",
+      "text": "A1 — Idole von früher und heute"
+    },
+    {
+      "t": "match",
+      "instruction": "a) Was glauben Sie, welche Beschreibung (1–5) passt zu wem (A–E)? Ordnen Sie zu.",
+      "options": [
+        "deutscher Bundeskanzler, Friedensnobelpreis 1971",
+        "Sänger, begeistert auch heute noch seine Fans",
+        "Wissenschaftlerin, entdeckte die Radioaktivität",
+        "zweifacher Weltmeister (als Fußballspieler und als Trainer)",
+        "Schauspielerin, selbstständige, emanzipierte Frau, moderne Ansichten"
+      ],
+      "rows": [
+        {
+          "text": "B Mick Jagger",
+          "answer": "Sänger, begeistert auch heute noch seine Fans"
+        },
+        {
+          "text": "C Franz Beckenbauer",
+          "answer": "zweifacher Weltmeister (als Fußballspieler und als Trainer)"
+        },
+        {
+          "text": "D Marie Curie",
+          "answer": "Wissenschaftlerin, entdeckte die Radioaktivität"
+        },
+        {
+          "text": "E Willy Brandt",
+          "answer": "deutscher Bundeskanzler, Friedensnobelpreis 1971"
+        }
+      ],
+      "example": "A Marlene Dietrich → **Schauspielerin, selbstständige, emanzipierte Frau, moderne Ansichten**"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "b) Sammeln Sie im Kurs Ihre Idole aus Kunst, Musik, Wissenschaft, Politik und Sport."
+    },
+    {
+      "t": "text",
+      "md": "**c) Lesen Sie und hören Sie die Texte. Wer spricht über welche Personen (A–E) in a? Ordnen Sie zu.**\n\n### Die Idole unserer Eltern und Großeltern\n\nWelche Menschen haben unsere Mütter und Väter begeistert? Welche Idole hatten unsere Mütter, Väter, Großmütter und Großväter? Unsere Leserinnen und Leser geben Antwort.\n\n**1** Mein Großvater hat in einem Kino gearbeitet. Da konnte er alle Filme umsonst sehen. Er war vor allem von Marlene Dietrich begeistert. Sie war damals ein großer Star. Sie war aber auch eine selbstständige, emanzipierte Frau und hatte sehr moderne Ansichten. Das hat meinem Großvater gefallen. Übrigens ist er meiner Großmutter bei einem Marlene-Dietrich-Film begegnet¹. Dafür ist er bis heute dankbar. *(Jan, 38)*\n\n**2** Mein Vater war in seiner Schulzeit sehr stolz² auf seine langen Haare. Er hat damit sogar Probleme mit dem Schuldirektor bekommen. Doch auch Strafen³ haben nicht geholfen: „Ich schneide mir meine Haare erst ab, wenn Mick Jagger auch kurze Haare trägt“, hat er seinen Lehrern erklärt. Seine Rolling-Stones-Platten hat er selbstverständlich bis heute aufgehoben⁴. *(Hanna, 27)*\n\n**3** Meine Mutter hat als junges Mädchen Fußball gespielt. Das war damals nicht so selbstverständlich wie heute. In ihrem Zimmer hatte sie Poster von Fußballspielern und Fußballmannschaften. Franz Beckenbauer war ihr großes Idol. Heute ist sie ein Fan der deutschen Frauenfußball-Nationalmannschaft und nimmt alle Spiele der Mannschaft im Fernsehen auf⁵. *(Erich, 20)*\n\n**4** Mein Vater hat sich schon in der Schule intensiv mit Mathematik und Physik beschäftigt⁶. Heute ist er Elektrotechniker. Meine Großmutter erzählt, dass er dauernd⁷ in seiner Werkstatt saß und an seinen elektronischen Geräten gebastelt⁸ hat. In seinem Zimmer hatte er Bilder von Albert Einstein und Marie Curie, der Entdeckerin der Radioaktivität. *(Nadja, 25)*\n\n**5** Meine Mutter hat sich immer schon für Politik interessiert. Als junges Mädchen hat sie Willy Brandt getroffen. Das war ein unvergessliches Erlebnis für sie. Später hat sie sich an Demonstrationen gegen die Atomkraft⁹ beteiligt¹⁰ und bei Friedensmärschen¹¹ mitgemacht. Für sie waren die Siebziger- und Achtzigerjahre die aufregendste¹² Zeit ihres Lebens, erzählt sie heute. *(Ewald, 34)*\n\n*Glossar:*\n- *¹ begegnen — jmdn. treffen*\n- *² stolz — sehr zufrieden sein, etw. gern zeigen*\n- *³ Strafen — etw. Schlimmes*\n- *⁴ aufgehoben — behalten*\n- *⁵ aufnehmen — etw. speichern*\n- *⁶ sich beschäftigen — etw. machen, seine Zeit verbringen*\n- *⁷ dauernd — immer*\n- *⁸ basteln — etw. reparieren oder bauen*\n- *⁹ Atomkraft (Symbol)*\n- *¹⁰ sich beteiligen — mitmachen*\n- *¹¹ Friedensmarsch — Demonstration für den Frieden*\n- *¹² aufregend — interessant*"
+    },
+    {
+      "t": "match",
+      "instruction": "d) Lesen Sie noch einmal. Sind die Sätze richtig oder falsch? Kreuzen Sie an.",
+      "options": [
+        "richtig",
+        "falsch"
+      ],
+      "rows": [
+        {
+          "text": "Hannas Vater wollte seine Haare nicht schneiden lassen.",
+          "answer": "richtig"
+        },
+        {
+          "text": "Erichs Mutter speichert die Spiele von allen Fußballmannschaften.",
+          "answer": "falsch"
+        },
+        {
+          "text": "Nadjas Vater hat Bücher über Mathematik und Physik veröffentlicht.",
+          "answer": "falsch"
+        },
+        {
+          "text": "Ewalds Mutter war politisch aktiv.",
+          "answer": "richtig"
+        }
+      ],
+      "example": "Jans Großvater fand Marlene Dietrichs Ideen nicht so gut. → **falsch**"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "e) Partnerarbeit. Eine Partnerin / Ein Partner hat das Buch und fragt, die / der andere antwortet wie im Beispiel.",
+      "md": "- Wer hat elektronische Geräte gebastelt?\n- Nadjas Vater, das steht in Text 4."
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "f) Unterstreichen Sie in den Texten in c alle Perfekt-Formen und ordnen Sie zu. (→ Perfekt, Lektionen 7 + 8)",
+      "md": "| regelmäßige Verben und Mischverben (Partizip II …*-t*) | unregelmäßige Verben (Partizip II …*-en*) | Infinitiv |\n|---|---|---|\n| hat gearbeitet | – | arbeiten |\n| – | hat gefallen | … |"
+    },
+    {
+      "t": "h",
+      "text": "A2 — Biografien: Marlene Dietrich und Albert Einstein"
+    },
+    {
+      "t": "note",
+      "label": "Tipp",
+      "md": "**Nazi-Diktatur**\n\nVon 1933–1945 gab es in Deutschland eine Diktatur unter Adolf Hitler. Viele Menschen mussten aus Deutschland fliehen. Auch viele Künstler und Wissenschaftler verließen Deutschland."
+    },
+    {
+      "t": "match",
+      "instruction": "a) Was passt zu Albert Einstein (E), was zu Marlene Dietrich (D)? Ordnen Sie zu. (→ Präteritum, Lektion 12)",
+      "options": [
+        "Einstein",
+        "Dietrich"
+      ],
+      "rows": [
+        {
+          "text": "wurde 1901 in Berlin geboren.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "besuchte eine Schauspielschule.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "entwickelte die Relativitätstheorie.",
+          "answer": "Einstein"
+        },
+        {
+          "text": "unterrichtete ab 1914 als Universitätsprofessor in Berlin.",
+          "answer": "Einstein"
+        },
+        {
+          "text": "feierte erste Erfolge in Berlin mit dem Film „Der Blaue Engel“.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "unterstützte in den USA Auswanderer aus Deutschland.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "protestierte gegen den Ersten Weltkrieg.",
+          "answer": "Einstein"
+        },
+        {
+          "text": "erhielt den Nobelpreis.",
+          "answer": "Einstein"
+        },
+        {
+          "text": "trat 1944/1945 für US-Soldaten an der Kriegsfront auf.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "weigerte sich 1934, von einer USA-Reise nach Deutschland zurückzukommen.",
+          "answer": "Einstein"
+        },
+        {
+          "text": "präsentierte nach dem Krieg erfolgreich Lieder und Chansons in Deutschland.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "veröffentlichte 1987 Memoiren.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "nahm 1940 die US-amerikanische Staatsbürgerschaft an.",
+          "answer": "Einstein"
+        },
+        {
+          "text": "starb 1992 in Paris.",
+          "answer": "Dietrich"
+        },
+        {
+          "text": "starb 1955 in Princeton.",
+          "answer": "Einstein"
+        }
+      ],
+      "example": "1879, verbrachte die Kindheit und Jugend in München. → **Einstein**"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "b) Ordnen Sie die Präteritum-Formen aus a zu und schreiben Sie die Infinitive.",
+      "md": "| regelmäßige Verben und Mischverben (Präteritum mit *-t-*) | unregelmäßige Verben | Infinitiv |\n|---|---|---|\n| verbrachte | – | verbringen |\n| – | wurde | werden |\n| … | … | … |"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie die Präteritum- bzw. Perfekt-Formen (Biografien).",
+      "items": [
+        {
+          "q": "Marlene Dietrich ___ 1992 in Paris.",
+          "a": "starb",
+          "hint": "sterben, Präteritum"
+        },
+        {
+          "q": "Sie ___ die Kindheit und Jugend in Berlin.",
+          "a": "verbrachte",
+          "hint": "verbringen, Präteritum"
+        }
+      ],
+      "example": "Albert Einstein **wurde** 1879 in Ulm geboren."
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "c) Finden Sie 20 besondere Verben im Rätsel. Schreiben Sie dann alle drei Formen wie im Beispiel.",
+      "md": "FLOG · GEZOGEN · GENOMMEN · BLIEB · GETRUNKEN · GEGESSEN · INGS · PRACH · RIEF · STAND · SANG · FAND · FIEL · SAH · DACHTE · GESCHWOMMEN · ABGEHOLFEN · AUFGESTANDEN · TRUG\n\nBeispiel: *fliegen – flog – ist geflogen, …*"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "d) Partnerarbeit. Zeigen Sie ein Verb aus c mit Gesten. Ihre Partnerin / Ihr Partner nennt die Verbformen.",
+      "md": "Beispiel: *gehen – ging – ist gegangen*"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "e) Machen Sie ein Rätsel wie in c mit anderen Verben. Ihre Partnerin / Ihr Partner findet die Verben."
+    },
+    {
+      "t": "h",
+      "text": "B1 — Wie gut können Sie sich selbst kontrollieren?"
+    },
+    {
+      "t": "ex",
+      "instruction": "Wie gut kannst du dich kontrollieren? Ergänze jeden Satz mit einem Ausdruck aus dem Kasten — so, wie es für dich stimmt.",
+      "bank": [
+        "(fast) immer",
+        "meistens",
+        "manchmal",
+        "(fast) nie"
+      ],
+      "example": "Wenn ich einen Termin habe, bin ich **fast nie** pünktlich. *(Über eine andere Person: Wenn Julia einen Termin hat, ist sie immer pünktlich.)*",
+      "items": [
+        {
+          "q": "Wenn jemand mich beleidigt, beschimpfe ich die Person ___.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        },
+        {
+          "q": "Wenn etwas schmeckt, esse ich ___ zu viel davon.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        },
+        {
+          "q": "Wenn jemand mein Fahrzeug beschädigt, möchte ich seines (ebenfalls) ___ beschädigen.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        },
+        {
+          "q": "Wenn jemand mich anschreit, werde ich ___ auch laut.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        },
+        {
+          "q": "Wenn ich am Abend zu lange gefeiert habe, bleibe ich ___ den ganzen nächsten Tag im Bett.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        },
+        {
+          "q": "Wenn ich eine Prüfung habe, lerne ich ___ erst ganz kurz vor der Prüfung.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        },
+        {
+          "q": "Wenn ich Medikamente einnehmen muss, vergesse ich das ___.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        },
+        {
+          "q": "Wenn ich vorhabe, Sport zu treiben, mache ich das ___.",
+          "a": "fast immer|immer|meistens|manchmal|fast nie|nie|oft|selten"
+        }
+      ]
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Erzählen Sie Ihrer Partnerin / Ihrem Partner von sich und von der anderen Person.",
+      "md": "Beispiel: *Wenn ich einen Termin habe, komme ich meistens zu spät, aber meine Freundin Julia ist immer pünktlich.*"
+    },
+    {
+      "t": "h",
+      "text": "B2 — Selbstkontrolle und Vorbilder"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Nebensatz mit *als***\n\nDer Wecker hat heute Morgen geklingelt. Ich habe weitergeschlafen.\n→ **Als** heute Morgen der Wecker geklingelt **hat**, **habe** ich einfach weitergeschlafen.\n\n**Nebensatz mit *(immer) wenn***\n\nIch will laufen gehen. Ich denke an Waltraud.\n→ **Immer wenn** ich laufen gehen **will**, **denke** ich an Waltraud."
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie als oder (immer) wenn.",
+      "items": [
+        {
+          "q": "(Immer) ___ ich laufen gehen will, denke ich an Waltraud.",
+          "a": "wenn",
+          "hint": "wiederholte Handlung"
+        },
+        {
+          "q": "___ ich ein Kind war, hatte ich viele Vorbilder.",
+          "a": "Als",
+          "hint": "ein Zeitraum / Zustand in der Vergangenheit"
+        },
+        {
+          "q": "___ ich an meine Tante denke, möchte ich sofort Sport machen.",
+          "a": "Wenn|Immer wenn",
+          "hint": "Gegenwart, wiederholt"
+        }
+      ],
+      "example": "**Als** heute Morgen der Wecker geklingelt hat, habe ich weitergeschlafen."
+    },
+    {
+      "t": "h",
+      "text": "B3 — Ein schlechter Tag …"
+    },
+    {
+      "t": "transform",
+      "instruction": "a) Für Jennifer und Marcel hat der Tag schlecht begonnen. Ergänzen Sie die Sätze im Präteritum wie im Beispiel. (Bausteine: die Steckdose / nicht funktionieren — kein warmes Wasser / kommen — es / einen Fleck haben — sie / keine Streichhölzer haben — er / keine saubere Pfanne finden können — sie / die Zahnbürste nicht finden können) — Beispiel: Als der Wecker klingelte, schlief Marcel ein bisschen weiter.",
+      "items": [
+        {
+          "prompt": "Als Jennifer ihre Zähne putzen wollte, … (sie / die Zahnbürste nicht finden können)",
+          "solution": "Als Jennifer ihre Zähne putzen wollte, konnte sie die Zahnbürste nicht finden."
+        },
+        {
+          "prompt": "Als Marcel sich duschen wollte, … (kein warmes Wasser / kommen)",
+          "solution": "Als Marcel sich duschen wollte, kam kein warmes Wasser."
+        },
+        {
+          "prompt": "Als Jennifer die Kaffeemaschine einschalten wollte, … (die Steckdose / nicht funktionieren)",
+          "solution": "Als Jennifer die Kaffeemaschine einschalten wollte, funktionierte die Steckdose nicht."
+        },
+        {
+          "prompt": "Als Marcel Eier mit Speck braten wollte, … (er / keine saubere Pfanne finden können)",
+          "solution": "Als Marcel Eier mit Speck braten wollte, konnte er keine saubere Pfanne finden."
+        },
+        {
+          "prompt": "Als Jennifer das Gas für den Herd anzünden wollte, … (sie / keine Streichhölzer haben)",
+          "solution": "Als Jennifer das Gas für den Herd anzünden wollte, hatte sie keine Streichhölzer."
+        }
+      ],
+      "example": "Als Marcel sein Lieblingshemd anziehen wollte, … (es / einen Fleck haben)\n\n→ Als Marcel sein Lieblingshemd anziehen wollte, hatte es einen Fleck."
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Partnerarbeit. Auch Sie hatten keinen guten Tag. Schreiben Sie in sechs Minuten möglichst viele Sätze mit als. Lesen Sie Ihre besten Sätze im Kurs vor.",
+      "md": "Beispiel: *Als ich zur Bushaltestelle kam, fuhr der Bus gerade ab. Als …*"
+    },
+    {
+      "t": "h",
+      "text": "B4 — Vorbilder wirken!"
+    },
+    {
+      "t": "text",
+      "md": "**a) Lesen Sie den Text und markieren Sie den Fehler in der Zeichnung.**\n\n### (Vor)Bilder im Kopf\n\nVorbilder wirken¹! Das konnten Forscher in einem Experiment zum Thema Selbstdisziplin feststellen. Die Versuchspersonen mussten bei diesem Experiment an Personen denken, die sie gut kannten. Einige Versuchspersonen sollten an eine sehr disziplinierte Person denken. Sie sollten zum Beispiel an jemanden denken, der immer pünktlich ist, regelmäßig Sport treibt oder in seiner Wohnung immer Ordnung hält. Andere Versuchspersonen sollten an eine Person denken, die wenig Selbstkontrolle hat. Sie dachten zum Beispiel an jemanden, der sehr oft Termine vergisst, Sachen liegen lässt, oft länger im Bett bleibt oder häufig² zu viel isst und trinkt. Danach mussten die Versuchspersonen einen Test zur Selbstkontrolle machen. Sie mussten möglichst lange einen Handtrainer³ mit der Hand zusammendrücken. Das Ergebnis⁴ war eindeutig⁵: Immer wenn die Versuchspersonen an disziplinierte Bekannte dachten, konnten sie den Handtrainer sehr lange zusammendrücken. Wenn jemand an eine undisziplinierte Person dachte, gab er sehr schnell auf⁶. Für die Forscher war klar: Positive und negative „Vorbilder“ haben Einfluss auf uns, auch dann, wenn wir nur an sie denken.\n\n*Glossar:*\n- *¹ wirken — beeinflussen*\n- *² häufig — oft*\n- *³ Handtrainer (Bild)*\n- *⁴ Ergebnis — Folge*\n- *⁵ eindeutig — ganz klar*\n- *⁶ aufgeben — (für immer) aufhören*"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Partnerarbeit. Erklären Sie das Experiment und korrigieren Sie den Fehler in der Zeichnung in a. Schreiben Sie.",
+      "md": "- Die Versuchsperson A hat an jemanden gedacht, der …\n- Sie konnte den Handtrainer …\n- Die Versuchsperson B …\n- Das Experiment zeigt, dass …"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "c) Wie passt Nadines Erfahrung in 2a zu dem Experiment in 4a? Schreiben Sie.",
+      "md": "Beispiel: *Immer wenn Nadine …, denkt sie an …*"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "d) An wen denken Sie, wenn Sie …? Schreiben Sie.",
+      "md": "Beispiel: *Wenn ich Klavier spiele, denke ich oft an meinen Cousin Andreas.*"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "e) Gruppenarbeit: Lesen Sie Ihre Sätze vor und erzählen Sie von den Personen.",
+      "md": "Beispiel: *Mein Cousin Andreas …*"
+    },
+    {
+      "t": "h",
+      "text": "C1 — Menschen, die unser Leben verändert haben …"
+    },
+    {
+      "t": "text",
+      "md": "**a) Lesen Sie und hören Sie. Über welche Themen (1–5) schreiben die Personen (A–E)? Ordnen Sie zu.**\n\n*Themen:* 1 Traumberuf · 2 Sport · 3 Alkoholprobleme · 4 Auslandsstudium · 5 Geburt\n\n### Im Gespräch – Der Onlinechat\n\nAktuelles Thema: Welche Menschen und welche Ereignisse¹ haben Ihre Meinungen, Ansichten oder Ihren Lebensweg beeinflusst? Erzählen Sie von Lebenssituationen, die Sie verändert haben.\n\n**A — Gast_0039:** Ich hatte eigentlich nie daran gedacht, im Ausland zu studieren. Aber als meine Freundin Klara mir erzählt hat, dass sie nach London gehen will, war für mich alles klar. Ich wusste, das mache ich jetzt auch. Ich habe sie begleitet². Klara war ja schon öfter im Ausland gewesen, für mich war es eine neue Erfahrung. Heute muss ich sagen, es hat sich gelohnt³. Meine Englischkenntnisse haben mir geholfen, einen tollen Job zu bekommen. Ich arbeite heute bei einer internationalen Firma.\n\n**B — Tabu12:** Mein Freund Alex hat mir in einer sehr schwierigen Situation geholfen. Ich war geschieden, arbeitslos und hatte ein Alkoholproblem. Es ging wirklich bergab mit mir, aber Alex hat mir den Weg zurück gezeigt. Er war so wie ich ganz unten gewesen, aber er hatte seine Situation nicht akzeptiert. Es war ihm gelungen⁴, seine Berufsausbildung abzuschließen und sein Leben in den Griff zu bekommen⁵. Das hat auch mir geholfen. Es hat mir gezeigt, dass man es schaffen kann.\n\n**C — Babypause:** Vor einem halben Jahr ist unser Sohn Paul auf die Welt gekommen, und da hat wirklich ein neuer Lebensabschnitt für uns begonnen. Mein Mann und ich hatten uns fest entschlossen⁶, beruflich weiterzukommen. Wir hatten nur an unsere Karriere und unser Einkommen⁷ gedacht. Kinder hatten wir ausgeschlossen⁸. Doch dann kam Paul. Heute sind wir glücklich, dass er da ist. Auch wenn es anders gekommen ist, als wir gedacht hatten.\n\n**D — Sandra02:** Ich hatte mich nie für Fußball interessiert und mich beim Fußball überhaupt nicht ausgekannt⁹. Aber dann habe ich Michael kennengelernt. Er war ein riesiger¹⁰ Fußballfan und hat mich ins Stadion mitgenommen. Da hat mich das Fußballfieber endgültig¹¹ gepackt. Heute bin ich sogar bei den Auswärtsspielen unserer Mannschaft dabei.\n\n**E — Prima_Ballerina:** Ich hatte als kleines Mädchen Ballettunterricht¹² gehabt, hatte das Tanzen aber wieder aufgegeben. Und dann habe ich im Kino den Film „Pina“ von Wim Wenders gesehen, einen Film über die Choreografin Pina Bausch. Nachdem ich den Film gesehen hatte, war mein Berufswunsch klar. Ich wusste: „Ich will wieder tanzen, ich will Tänzerin werden.“\n\n*Glossar:*\n- *¹ Ereignis — das, was passiert ist*\n- *² begleiten — mit jmdm. mitgehen oder -fahren*\n- *³ sich lohnen — etw. ist sehr gut für die Person*\n- *⁴ gelingen — etw. funktioniert, wie man es möchte*\n- *⁵ in den Griff bekommen — zurechtkommen, ein normales Leben führen*\n- *⁶ sich entschließen — den Plan haben, etw. zu tun*\n- *⁷ Einkommen — das, was man verdient*\n- *⁸ ausschließen — gar nicht wollen*\n- *⁹ sich auskennen — etw. genau wissen*\n- *¹⁰ riesig — sehr groß*\n- *¹¹ endgültig — man kann etw. nicht mehr verändern*\n- *¹² Ballettunterricht (Bild)*\n\n*Randnotiz:* arbeitslos = ohne Arbeit sein — *auch:* erfolglos, bargeldlos, kinderlos, kostenlos, …"
+    },
+    {
+      "t": "match",
+      "instruction": "b) Wer sagt was? Lesen Sie noch einmal und ordnen Sie die Aussagen den Personen zu.",
+      "options": [
+        "Sandra02",
+        "Tabu12",
+        "Prima_Ballerina",
+        "Gast_0039",
+        "Babypause"
+      ],
+      "rows": [
+        {
+          "text": "„Mein Freund hat mir aus einer schwierigen Lebenssituation geholfen.“",
+          "answer": "Tabu12"
+        },
+        {
+          "text": "„Ein Kinobesuch hat mir klar gemacht, was ich werden will.“",
+          "answer": "Prima_Ballerina"
+        },
+        {
+          "text": "„Ich bin mit meiner Freundin ins Ausland gegangen.“",
+          "answer": "Gast_0039"
+        },
+        {
+          "text": "„Wir haben einen Sohn bekommen.“",
+          "answer": "Babypause"
+        }
+      ],
+      "example": "„Ich habe zum ersten Mal ein Livespiel gesehen.“ → **Sandra02**"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Plusquamperfekt**\n- mit *haben* + Partizip II: … hatte … gedacht\n- mit *sein* + Partizip II: … war … gewesen\n\n| davor | früher | heute |\n|---|---|---|\n| Ich **hatte** nie daran **gedacht**, im Ausland zu studieren. | Ich **habe** Klara **begleitet**. | Ich **arbeite** heute bei einer internationalen Firma. |\n\n*auch: Ich begleitete Klara.*"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie die Formen im Plusquamperfekt.",
+      "items": [
+        {
+          "q": "Klara war schon öfter im Ausland ___.",
+          "a": "gewesen",
+          "hint": "Partizip II von sein"
+        },
+        {
+          "q": "Es war ihm ___, seine Berufsausbildung abzuschließen.",
+          "a": "gelungen",
+          "hint": "Partizip II von gelingen"
+        },
+        {
+          "q": "Wir hatten nur an unsere Karriere ___.",
+          "a": "gedacht",
+          "hint": "Partizip II von denken"
+        }
+      ],
+      "example": "Nachdem ich den Film gesehen **hatte**, war mein Berufswunsch klar."
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "c) Welche Sätze in a beschreiben die Situation vor den Ereignissen in b? Unterstreichen Sie die Sätze im Plusquamperfekt in a wie im Beispiel."
+    },
+    {
+      "t": "match",
+      "instruction": "d) Was passt? Ordnen Sie die Folgen (danach) den Ereignissen (davor) zu.",
+      "options": [
+        "Ich wollte mit ihr mitgehen.",
+        "Alles wurde anders.",
+        "Ich wurde ein richtiger Fußballfan.",
+        "Ich hatte wieder Hoffnung.",
+        "Mein Berufswunsch war klar."
+      ],
+      "rows": [
+        {
+          "text": "Unser Sohn kam auf die Welt.",
+          "answer": "Alles wurde anders."
+        },
+        {
+          "text": "Mein Freund hat mich zu einem Livespiel mitgenommen.",
+          "answer": "Ich wurde ein richtiger Fußballfan."
+        },
+        {
+          "text": "Ich habe mit meinem Freund Alex gesprochen.",
+          "answer": "Ich hatte wieder Hoffnung."
+        },
+        {
+          "text": "Ich habe den Film „Pina“ gesehen.",
+          "answer": "Mein Berufswunsch war klar."
+        }
+      ],
+      "example": "Meine Freundin erzählte mir von England. → **Ich wollte mit ihr mitgehen.**"
+    },
+    {
+      "t": "transform",
+      "instruction": "e) Schreiben Sie die Sätze aus d mit nachdem wie im Beispiel. (Beispiel: Nachdem meine Freundin mir von England erzählt hatte, wollte ich mit ihr mitgehen.)",
+      "items": [
+        {
+          "prompt": "Mein Freund hat mich zu einem Livespiel mitgenommen. → Ich wurde ein richtiger Fußballfan.",
+          "solution": "Nachdem mein Freund mich zu einem Livespiel mitgenommen hatte, wurde ich ein richtiger Fußballfan."
+        },
+        {
+          "prompt": "Ich habe mit meinem Freund Alex gesprochen. → Ich hatte wieder Hoffnung.",
+          "solution": "Nachdem ich mit meinem Freund Alex gesprochen hatte, hatte ich wieder Hoffnung."
+        },
+        {
+          "prompt": "Ich habe den Film „Pina“ gesehen. → Mein Berufswunsch war klar.",
+          "solution": "Nachdem ich den Film „Pina“ gesehen hatte, war mein Berufswunsch klar."
+        }
+      ],
+      "example": "Unser Sohn kam auf die Welt. → Alles wurde anders.\n\n→ Nachdem unser Sohn auf die Welt gekommen war, wurde alles anders."
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie den Nebensatz mit nachdem (Plusquamperfekt).",
+      "items": [
+        {
+          "q": "Nachdem meine Freundin mir von England erzählt ___, wollte ich auch dorthin.",
+          "a": "hatte",
+          "hint": "Plusquamperfekt mit haben"
+        },
+        {
+          "q": "Nachdem sie mit neun Jahren ihre ersten Auftritte gehabt ___, wurde sie berühmt.",
+          "a": "hatte"
+        }
+      ],
+      "example": "**Nachdem** wir vom Land in die Stadt gezogen waren, mussten wir unseren Hund weggeben."
+    },
+    {
+      "t": "h",
+      "text": "C2 — Veränderungen in unserem Leben"
+    },
+    {
+      "t": "match",
+      "instruction": "a) Welche Folgen hatten die Veränderungen für Frau Sommer (A: „Ich habe Martin kennengelernt.“) und Herrn Schulze (B: „Wir sind vom Land in die Stadt gezogen.“)? Ordnen Sie die Sätze zu.",
+      "options": [
+        "A (Frau Sommer)",
+        "B (Herr Schulze)"
+      ],
+      "rows": [
+        {
+          "text": "Meine Handyrechnung ist gestiegen.",
+          "answer": "A (Frau Sommer)"
+        },
+        {
+          "text": "Meine Frau hat ihr Auto verkauft.",
+          "answer": "B (Herr Schulze)"
+        },
+        {
+          "text": "Ich habe weniger Zeit mit meiner Freundin verbracht.",
+          "answer": "A (Frau Sommer)"
+        },
+        {
+          "text": "Unsere Kinder mussten die Schule wechseln.",
+          "answer": "B (Herr Schulze)"
+        },
+        {
+          "text": "Wir haben sehr bald eine gemeinsame Wohnung gesucht.",
+          "answer": "A (Frau Sommer)"
+        }
+      ],
+      "example": "Wir mussten unseren Hund weggeben. → **B (Herr Schulze)**"
+    },
+    {
+      "t": "transform",
+      "instruction": "b) Schreiben Sie Sätze mit nachdem zu den Sätzen in a. (B: vom Land in die Stadt gezogen — A: Martin kennengelernt). Beispiel: Nachdem wir vom Land in die Stadt gezogen waren, mussten wir unseren Hund weggeben.",
+      "items": [
+        {
+          "prompt": "B → Unsere Kinder mussten die Schule wechseln.",
+          "solution": "Nachdem wir vom Land in die Stadt gezogen waren, mussten unsere Kinder die Schule wechseln."
+        },
+        {
+          "prompt": "A → Meine Handyrechnung ist gestiegen.",
+          "solution": "Nachdem ich Martin kennengelernt hatte, ist meine Handyrechnung gestiegen."
+        },
+        {
+          "prompt": "A → Ich habe weniger Zeit mit meiner Freundin verbracht.",
+          "solution": "Nachdem ich Martin kennengelernt hatte, habe ich weniger Zeit mit meiner Freundin verbracht."
+        },
+        {
+          "prompt": "A → Wir haben sehr bald eine gemeinsame Wohnung gesucht.",
+          "solution": "Nachdem ich Martin kennengelernt hatte, haben wir sehr bald eine gemeinsame Wohnung gesucht."
+        }
+      ],
+      "example": "B → Meine Frau hat ihr Auto verkauft.\n\n→ Nachdem wir vom Land in die Stadt gezogen waren, hat meine Frau ihr Auto verkauft."
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "c) Denken Sie an Veränderungen in Ihrem Leben oder einer anderen Person. Beschreiben Sie die Folgen für Sie, Ihre Familie oder Ihre Freunde. Schreiben Sie die Sätze auf einen Zettel.",
+      "md": "Beispiel:\n- Ich bin von zu Hause ausgezogen.\n- Mein Bruder hat mein Zimmer bekommen.\n- Ich musste eine Arbeit suchen. …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "d) Die Kursleiterin / Der Kursleiter sammelt alle Zettel ein und teilt sie wieder aus. Suchen Sie die Person im Kurs, die den Zettel geschrieben hat und sprechen Sie über die Situationen.",
+      "md": "Beispiel: *Wann bist du …? — Mit 22. — Was ist danach passiert?*"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "e) Schreiben Sie einen Text über eine der Veränderungen aus c. Verwenden Sie auch Sätze mit nachdem."
+    },
+    {
+      "t": "h",
+      "text": "GRAMMATIK"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "### Verb\n\n**Plusquamperfekt mit *haben***\n\n| | haben | Partizip II* |\n|---|---|---|\n| ich | hatte | gesucht, ausgeschlossen, gedacht, akzeptiert, … |\n| du | hattest | |\n| er/es/sie | hatte | |\n| wir | hatten | |\n| ihr | hattet | |\n| sie/Sie | hatten | |\n\n**Plusquamperfekt mit *sein***\n\n| | sein | Partizip II |\n|---|---|---|\n| ich | war | gelaufen, gezogen, … |\n| du | warst | |\n| er/es/sie | war | |\n| wir | waren | |\n| ihr | wart | |\n| sie/Sie | waren | |\n\n*\\* Partizip II siehe S. 60, 76*"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "### Adjektiv\n\n**Wortbildung *-los***\n\n| Nomen | Adjektiv |\n|---|---|\n| der Erfolg | erfolg**los** |\n| das Bargeld | bargeld**los** |\n| die Arbeit | arbeit**slos** |\n| die Kinder | kinder**los** |\n\n*(manchmal mit *s*)*"
+    },
+    {
+      "t": "ex",
+      "instruction": "Bilden Sie das Adjektiv mit -los.",
+      "items": [
+        {
+          "q": "ohne Kinder = ___",
+          "a": "kinderlos"
+        },
+        {
+          "q": "ohne Bargeld = ___",
+          "a": "bargeldlos"
+        },
+        {
+          "q": "ohne Erfolg = ___",
+          "a": "erfolglos"
+        }
+      ],
+      "example": "ohne Arbeit = **arbeitslos**"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "### Satz\n\n**Satzklammer – Plusquamperfekt**\n\n| | Position 2 | | Ende (Partizip II) |\n|---|---|---|---|\n| Ich | hatte | nie daran | gedacht. |\n| Es | war | ihm | gelungen. |\n\n**Nebensatz – Konjunktion *nachdem* – temporal**\n\n| Konjunktion | | | Satzende |\n|---|---|---|---|\n| Nachdem | ich den Film gesehen | hatte, | war mein Berufswunsch klar. |\n| Nachdem | ich den Film gesehen | habe, | ist mein Berufswunsch klar. |\n\n**Nebensatz – Konjunktion *als* – temporal**\n\n| Konjunktion | | Satzende |\n|---|---|---|\n| Als | … der Wecker geklingelt | hat, | habe ich … weitergeschlafen.* |\n| Als | ich zur Schule | ging, | war ich glücklich.** |\n\n**Nebensatz – Konjunktion *(immer) wenn* – temporal**\n\n| Konjunktion | | Satzende |\n|---|---|---|\n| Immer wenn | ich laufen gehen | will, | denke ich an Waltraud.* |\n\n*\\* Etwas passiert einmal, ein Zeitpunkt in der Vergangenheit.*\n*\\*\\* Etwas passiert eine Zeit lang in der Vergangenheit.*\n*\\* Etwas passiert öfter, in der Gegenwart oder in der Vergangenheit.*"
+    },
+    {
+      "t": "h",
+      "text": "REDEMITTEL"
+    },
+    {
+      "t": "note",
+      "label": "REDEMITTEL",
+      "md": "**über interessante Personen berichten**\n- Ich habe sie / ihn … zum ersten Mal … gesehen / …\n- Sie / Er ist / war lustig / sympathisch / intelligent / …\n- Sie / Er ist / war ein interessanter / … Mensch.\n- Sie / Er hat mir gezeigt, wie …\n- Sie / Er ist / war jemand, die / der …\n- Anfangs mochte ich sie / ihn (gar) nicht, weil … / Ich mochte sie / ihn sofort.\n- Sie / Er war ein Vorbild für mich.\n- Sie / Er hat mir geholfen, wenn …\n\n**biografische Angaben**\n- … wurde 1901 / … in Berlin / … geboren.\n- … kam … auf die Welt.\n- … verbrachte die Kindheit / Jugend / … in …\n- … studierte … in … / lernte … / machte eine Ausbildung als … / besuchte eine … Schule.\n- … hatte die … Staatsbürgerschaft / nahm die … Staatsbürgerschaft an.\n- … heiratete 1902 / …\n- … starb 1955 / …\n\n**über ein Ereignis berichten**\n- Als ich heute Morgen …\n- Als ich dann …\n- Als ich zum ersten / … Mal / später / …\n\n**sich erinnern**\n- Wenn ich an … denke / mich an … erinnere, dann …\n- (Immer) wenn ich Klavier spiele / …\n\n**ein Experiment beschreiben**\n- Die Versuchspersonen mussten / sollten …\n- Das Ergebnis war (nicht) eindeutig.\n- Das Experiment zeigt, dass …"
+    }
+  ]
+}

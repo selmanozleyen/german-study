@@ -1,0 +1,614 @@
+{
+  "title": "Nomen",
+  "icon": "📦",
+  "columns": [
+    "Artikel",
+    "Nomen",
+    "Plural",
+    "Bedeutung",
+    "Thema",
+    "Niveau"
+  ],
+  "rows": [
+    [
+      "die",
+      "Abhängigkeit",
+      "die Abhängigkeiten",
+      "dependency",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
+      "Aktie",
+      "die Aktien",
+      "share, stock (= Wertpapier)",
+      "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "der",
+      "Altersunterschied",
+      "die Altersunterschiede",
+      "age difference",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "das",
+      "Angebot",
+      "die Angebote",
+      "offer, (special) deal",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Anschrift",
+      "die Anschriften",
+      "address (= Adresse)",
+      "Migration",
+      "B1"
+    ],
+    [
+      "der",
+      "Aufenthaltstitel",
+      "die Aufenthaltstitel",
+      "residence permit",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Ausländerbehörde",
+      "die Ausländerbehörden",
+      "immigration office",
+      "Migration",
+      "B1"
+    ],
+    [
+      "der",
+      "Ausweis",
+      "die Ausweise",
+      "ID card",
+      "Migration",
+      "A2"
+    ],
+    [
+      "die",
+      "Besatzung",
+      "die Besatzungen",
+      "(military) occupation",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "der",
+      "Betrug",
+      "",
+      "fraud, deception (-> betrügen)",
+      "Kriminalität",
+      "B1"
+    ],
+    [
+      "die",
+      "Beziehung",
+      "die Beziehungen",
+      "relationship",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
+      "Bildung",
+      "(meist Sg.)",
+      "education",
+      "Bildung",
+      "B1"
+    ],
+    [
+      "der",
+      "Bundeskanzler",
+      "die Bundeskanzler",
+      "federal chancellor (f: die Bundeskanzlerin)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "der",
+      "Bürgermeister",
+      "die Bürgermeister",
+      "mayor (f: die Bürgermeisterin)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "die",
+      "Bürokratie",
+      "(meist Sg.)",
+      "bureaucracy",
+      "Migration",
+      "B1"
+    ],
+    [
+      "der",
+      "Dom",
+      "die Dome",
+      "cathedral",
+      "Stadt & Kirche",
+      "B1"
+    ],
+    [
+      "der",
+      "Einfluss",
+      "die Einflüsse",
+      "influence",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "das",
+      "Fahrgeschäft",
+      "die Fahrgeschäfte",
+      "fairground ride (e.g. at Oktoberfest)",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "die",
+      "Flitterwochen",
+      "(nur Pl.)",
+      "honeymoon",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "die",
+      "Forschung",
+      "die Forschungen",
+      "research",
+      "Ernährung",
+      "B1"
+    ],
+    [
+      "der",
+      "Frieden",
+      "",
+      "peace (↔ Krieg)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "der",
+      "Fächer",
+      "die Fächer",
+      "(hand-held) fan (sich Luft zufächern)",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "der",
+      "Führerschein",
+      "die Führerscheine",
+      "driver's license",
+      "Migration",
+      "A2"
+    ],
+    [
+      "das",
+      "Geräusch",
+      "die Geräusche",
+      "noise / sound",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "die",
+      "Geschichte",
+      "die Geschichten",
+      "history; story",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "die",
+      "Gesellschaft",
+      "die Gesellschaften",
+      "society / company",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Grünfläche",
+      "die Grünflächen",
+      "green space (Grünflächen anlegen)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "das",
+      "Hundertstel",
+      "die Hundertstel",
+      "a hundredth (1/100)",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "die",
+      "Impfung",
+      "die Impfungen",
+      "vaccination",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Inflation",
+      "",
+      "inflation",
+      "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "die",
+      "Instandhaltung",
+      "die Instandhaltungen",
+      "maintenance, upkeep",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "die",
+      "Kathedrale",
+      "die Kathedralen",
+      "cathedral",
+      "Stadt & Kirche",
+      "B1"
+    ],
+    [
+      "die",
+      "Klimaanlage",
+      "die Klimaanlagen",
+      "air conditioning",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "das",
+      "Kloster",
+      "die Klöster",
+      "monastery",
+      "Stadt & Kirche",
+      "B1"
+    ],
+    [
+      "der",
+      "Konsum",
+      "(meist Sg.)",
+      "consumption",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Korruption",
+      "",
+      "corruption (gegen Korruption kämpfen)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "die",
+      "Kosmetik",
+      "",
+      "cosmetics",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "der",
+      "Kredit",
+      "die Kredite",
+      "loan, credit (einen Kredit aufnehmen)",
+      "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "die",
+      "Kreuzfahrt",
+      "die Kreuzfahrten",
+      "cruise",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "der",
+      "Krieg",
+      "die Kriege",
+      "war",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "das",
+      "Kunstwerk",
+      "die Kunstwerke",
+      "work of art",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "das",
+      "Künstlerdasein",
+      "",
+      "an artist's life/existence (= Künstlerexistenz)",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "die",
+      "Liebe",
+      "(meist Sg.)",
+      "love",
+      "Beziehungen",
+      "A2"
+    ],
+    [
+      "die",
+      "Lüge",
+      "die Lügen",
+      "lie (untruth)",
+      "Bildung",
+      "B1"
+    ],
+    [
+      "die",
+      "Mauer",
+      "die Mauern",
+      "wall (der Fall der Mauer = fall of the Berlin Wall)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "der",
+      "Mönch",
+      "die Mönche",
+      "monk",
+      "Stadt & Kirche",
+      "B1"
+    ],
+    [
+      "das",
+      "Nahrungsmittel",
+      "die Nahrungsmittel",
+      "food / foodstuff (= Lebensmittel)",
+      "Ernährung",
+      "B1"
+    ],
+    [
+      "der",
+      "Pass",
+      "die Pässe",
+      "passport",
+      "Migration",
+      "A2"
+    ],
+    [
+      "die",
+      "Radtour",
+      "die Radtouren",
+      "bike tour",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "die",
+      "Rate",
+      "die Raten",
+      "installment (eine Rate zahlen)",
+      "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "die",
+      "Regierung",
+      "die Regierungen",
+      "government",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "das",
+      "Schulfach",
+      "die Schulfächer",
+      "school subject",
+      "Bildung",
+      "A2"
+    ],
+    [
+      "das",
+      "Seil",
+      "die Seile",
+      "rope",
+      "Stadt & Kirche",
+      "B1"
+    ],
+    [
+      "die",
+      "Sicherheit",
+      "die Sicherheiten",
+      "safety / security",
+      "Stadt & Kirche",
+      "B1"
+    ],
+    [
+      "die",
+      "Sicht",
+      "",
+      "view, sight, visibility",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "das",
+      "Sparkonto",
+      "die Sparkonten",
+      "savings account",
+      "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "die",
+      "Spende",
+      "die Spenden",
+      "donation",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "die",
+      "Spesen",
+      "nur Plural",
+      "expenses (business/travel)",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "die",
+      "Stimme",
+      "die Stimmen",
+      "voice",
+      "Allgemein",
+      "A2"
+    ],
+    [
+      "die",
+      "Straftat",
+      "die Straftaten",
+      "criminal offence (= Verbrechen)",
+      "Kriminalität",
+      "B1"
+    ],
+    [
+      "die",
+      "Tatsache",
+      "die Tatsachen",
+      "fact",
+      "Ernährung",
+      "B1"
+    ],
+    [
+      "die",
+      "Täuschung",
+      "die Täuschungen",
+      "deception / illusion",
+      "Ernährung",
+      "B1"
+    ],
+    [
+      "der",
+      "Vandalismus",
+      "",
+      "vandalism",
+      "Kriminalität",
+      "B1"
+    ],
+    [
+      "der",
+      "Ventilator",
+      "die Ventilatoren",
+      "(electric) fan",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "das",
+      "Verbrechen",
+      "die Verbrechen",
+      "crime",
+      "Kriminalität",
+      "B1"
+    ],
+    [
+      "die",
+      "Vermutung",
+      "die Vermutungen",
+      "assumption / guess",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "die",
+      "Versicherung",
+      "die Versicherungen",
+      "insurance",
+      "Migration",
+      "B1"
+    ],
+    [
+      "die",
+      "Verwaltung",
+      "die Verwaltungen",
+      "administration (-> verwalten)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "das",
+      "Werk",
+      "die Werke",
+      "work (creation, oeuvre)",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "das",
+      "Wertpapier",
+      "die Wertpapiere",
+      "security (financial instrument)",
+      "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "die",
+      "Wiedervereinigung",
+      "",
+      "reunification (of Germany, 1990)",
+      "Politik & Geschichte",
+      "B1"
+    ],
+    [
+      "die",
+      "Wüste",
+      "die Wüsten",
+      "desert",
+      "Reisen",
+      "B1"
+    ],
+    [
+      "der",
+      "Zins",
+      "die Zinsen",
+      "interest (on money/loan)",
+      "Geld & Finanzen",
+      "B1"
+    ],
+    [
+      "der",
+      "Zufall",
+      "die Zufälle",
+      "coincidence",
+      "Beziehungen",
+      "B1"
+    ],
+    [
+      "die",
+      "Übersetzung",
+      "die Übersetzungen",
+      "translation",
+      "Kunst & Kultur",
+      "B1"
+    ]
+  ]
+}

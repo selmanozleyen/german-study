@@ -1,0 +1,127 @@
+{
+  "id": "s13",
+  "nr": 13,
+  "date": "9.6.",
+  "title": "Relativsätze (N-A-D) und Relativsätze mit Präposition",
+  "kbLessons": [
+    "L23",
+    "L24"
+  ],
+  "contentMd": "## Mitschrift 9.6.\n\n### KB S. 191/A3 a (Relativsätze – Bezugswort bestimmt Genus/Numerus, Verb den Kasus)\n\n2. Ein dreizehnjähriger Junge, **den** man auf der Straße rauchen sieht.\n3. Ein vierzigjähriges Ehepaar, **dem** es in der Disco gefällt. *(Es gefällt dem Ehepaar in der Disco.)*\n4. Eine siebzigjährige Frau, **die** man auf dem Motorrad fahren sieht.\n5. Ein vierzigjähriger Mann, **dem** seine Frau vor dem Einschlafen etwas vorlesen muss.\n6. Siebzigjährige Männer im Altenheim, **denen** man bei der Gründung einer Rockband hilft.\n8. Zwei sechsjährige Kinder, **denen** tausende Fernsehzuschauer beim Tangotanzen zusehen.\n\n> Sprechaufgabe: Wie findest du das?\n\n> *Wenn das Wetter gut ist* = **bei gutem Wetter**\n\n### Wortschatz (Höflichkeit)\n\n- die Höflichkeit / höflich ↔ unhöflich\n- starren\n- anstoßen\n- Unglück bringen\n- das Abendbrot, -e = das Abendessen, -\n- die Brotzeit, -en\n- sich die Nase putzen\n- umgangssprachlich\n- schwanger\n- gehbehindert = jemand kann nicht (gut) gehen\n- das Angebot → anbieten\n- Jugendliche = Teenager\n- junge Erwachsene = Erwachsene zwischen 18 und 30\n- Ich stimme ihnen zu.\n\n### Verben\n\n- schieben → hat geschoben\n- stoßen → hat gestoßen\n- erleben → hat erlebt\n\n### Hausaufgaben\n\n- Kursbuch: S. 196/Redemittel\n- Arbeitsbuch: S. 187/Rest, S. 190/2+3+4, S. 192/1\n\n## Relativsätze (N-A-D)\n\n**Beispiele:**\n- Das Museum, **das** eine neue Ausstellung zeigt, wird von Sonja geleitet.\n- Ihr neuer Freund, **den** sie bei der Eröffnung kennengelernt hat, heißt Dirk.\n- Der junge Mann, **dem** Sonja gefällt, lädt sie zum Abendessen ein.\n\n**1. Welche Funktion hat der Relativsatz?**\nMit einem Relativsatz kann man eine Person oder eine Sache **erklären**.\n\n**2. Wo steht der Relativsatz: rechts oder links?**\nDer Relativsatz steht **rechts** von dem Wort, das er definiert.\n\n**3. Ist der Relativsatz ein Haupt- oder ein Nebensatz?**\nDer Relativsatz ist ein **Nebensatz**. Deshalb steht das konjugierte Verb **am Ende** des Relativsatzes.\n\n**4. Der Relativsatz beginnt immer mit einem Relativpronomen:**\nDas Relativpronomen hat oft die gleiche Form wie der Definitartikel (= der bestimmte Artikel).\nACHTUNG: Welche Form ist anders? **Dativ Plural**\n\n| | Nominativ | Akkusativ | Dativ |\n|---|---|---|---|\n| m | der | den | dem |\n| n | das | das | dem |\n| f | die | die | der |\n| Pl | die | die | **denen** |\n\n**5. Wie finde ich Numerus, Genus und Kasus des Relativpronomens?**\n\n*Sonjas Eltern* finden Dirk sympathisch. Ein Gasthof gehört *ihnen*.\n→ *Sonjas Eltern*, **denen** ein Gasthof *gehört*, finden Dirk sympathisch.\n\n- Numerus (Sg./Pl.) und Genus (m./n./f.) kommen von **dem Bezugswort**.\n- Der Kasus (Nom./Akk./Dat./Gen.) kommt von **dem Relativsatz**.\n\n⇒ Das Relativpronomen hat den **Numerus** und das **Genus** von seinem **Bezugswort** (das Wort vor dem Relativpronomen). Den **Kasus** bestimmt das **Verb** des Relativsatzes.\n\n## Relativsätze mit Präposition\n\nDas sind Stühle, **auf denen** man ohne Probleme lange sitzen kann.\n\n1. Das Verb hat eine Präposition (hier: sitzen + auf). Die **Präposition steht vor dem Relativpronomen**.\n2. Die **Präposition bestimmt den Kasus** des Relativpronomens (hier: auf + wo = Dativ).\n3. Das **Bezugswort** im Hauptsatz bestimmt **Numerus/Genus** (hier: Stühle → denen).",
+  "exercises": [
+    {
+      "t": "ex",
+      "instruction": "Relativpronomen – Kasus (Nominativ/Akkusativ/Dativ)",
+      "example": "Das Museum, **das** eine neue Ausstellung zeigt, wird von Sonja geleitet. *(Bezugswort n. „Museum“ + Subjekt im Relativsatz → Nominativ: **das**)*",
+      "items": [
+        {
+          "q": "Ein dreizehnjähriger Junge, ___ man auf der Straße rauchen sieht.",
+          "a": "den",
+          "hint": "m, Akkusativ"
+        },
+        {
+          "q": "Ein vierzigjähriges Ehepaar, ___ es in der Disco gefällt.",
+          "a": "dem",
+          "hint": "n, Dativ (gefallen + Dat.)"
+        },
+        {
+          "q": "Eine siebzigjährige Frau, ___ man auf dem Motorrad fahren sieht.",
+          "a": "die",
+          "hint": "f, Akkusativ"
+        },
+        {
+          "q": "Ein vierzigjähriger Mann, ___ seine Frau vor dem Einschlafen etwas vorlesen muss.",
+          "a": "dem",
+          "hint": "m, Dativ"
+        },
+        {
+          "q": "Siebzigjährige Männer im Altenheim, ___ man bei der Gründung einer Rockband hilft.",
+          "a": "denen",
+          "hint": "Pl, Dativ (helfen + Dat.)"
+        },
+        {
+          "q": "Zwei sechsjährige Kinder, ___ tausende Fernsehzuschauer beim Tangotanzen zusehen.",
+          "a": "denen",
+          "hint": "Pl, Dativ (zusehen + Dat.)"
+        },
+        {
+          "q": "Das Museum, ___ eine neue Ausstellung zeigt, wird von Sonja geleitet.",
+          "a": "das",
+          "hint": "n, Nominativ"
+        },
+        {
+          "q": "Ihr neuer Freund, ___ sie bei der Eröffnung kennengelernt hat, heißt Dirk.",
+          "a": "den",
+          "hint": "m, Akkusativ"
+        },
+        {
+          "q": "Der junge Mann, ___ Sonja gefällt, lädt sie zum Abendessen ein.",
+          "a": "dem",
+          "hint": "m, Dativ"
+        },
+        {
+          "q": "Sonjas Eltern, ___ ein Gasthof gehört, finden Dirk sympathisch.",
+          "a": "denen",
+          "hint": "Pl, Dativ (gehören + Dat.)"
+        }
+      ]
+    },
+    {
+      "t": "ex",
+      "instruction": "Relativsätze mit Präposition (Präposition + Relativpronomen ergänzen)",
+      "example": "Das sind Stühle, **auf denen** man lange sitzen kann. *(sitzen + auf → Dativ; Bezugswort Pl. „Stühle“ → **denen**)*",
+      "items": [
+        {
+          "q": "Das ist die U-Bahn, ___ man immer lange warten muss.",
+          "a": "auf die",
+          "hint": "warten auf + Akk."
+        },
+        {
+          "q": "Meine Freundin Lisa, ___ ich über alles diskutieren kann, wohnt in Hamburg.",
+          "a": "mit der",
+          "hint": "mit + Dat., f Sg."
+        },
+        {
+          "q": "Nach dem Deutschkurs, ___ ich mich erholen muss, gehe ich nach Hause.",
+          "a": "von dem",
+          "hint": "sich erholen von + Dat."
+        },
+        {
+          "q": "Bald beginnt das Wochenende, ___ wir uns sehr freuen.",
+          "a": "auf das",
+          "hint": "sich freuen auf + Akk., n Sg."
+        },
+        {
+          "q": "Dann treffen wir Freunde, ___ wir uns verabredet haben.",
+          "a": "mit denen",
+          "hint": "sich verabreden mit + Dat., Pl"
+        },
+        {
+          "q": "Wir sehen vielleicht einen Film, ___ wir uns sehr interessieren.",
+          "a": "für den",
+          "hint": "sich interessieren für + Akk., m Sg."
+        },
+        {
+          "q": "Ist die Prüfung, ___ du dich vorbereitest, sehr schwer?",
+          "a": "auf die",
+          "hint": "sich vorbereiten auf + Akk., f Sg."
+        },
+        {
+          "q": "Die Studentin, ___ du dich gestern getroffen hast, kenne ich nicht.",
+          "a": "mit der",
+          "hint": "sich treffen mit + Dat., f Sg."
+        },
+        {
+          "q": "Die Katze, ___ ich mich kümmere, heißt Petzi.",
+          "a": "um die",
+          "hint": "sich kümmern um + Akk., f Sg."
+        },
+        {
+          "q": "Ich habe eine Geschichte gelesen, ___ alle Zeitungen berichtet haben.",
+          "a": "von der",
+          "hint": "berichten von + Dat., f Sg."
+        }
+      ]
+    }
+  ]
+}

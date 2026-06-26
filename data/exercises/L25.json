@@ -1,0 +1,64 @@
+{
+  "id": "L25",
+  "title": "Von wem wurde … erfunden?",
+  "kursbuch": "Kursbuch S. 197–204",
+  "intro": "Passiv Präteritum und Perfekt, von + Dativ sowie Nebensätze mit seit/seitdem und bis.",
+  "sections": [
+    {
+      "heading": "Passiv Präteritum",
+      "items": [
+        { "prompt": "Im Mittelalter ___ viele Kathedralen gebaut.", "answer": "wurden", "hint": "werden im Präteritum, Plural" },
+        { "prompt": "Im Jahr 1974 ___ die Köhlbrandbrücke in Hamburg eröffnet.", "answer": "wurde", "hint": "werden im Präteritum, Singular" },
+        { "prompt": "Hunderte Menschen ___ beim Bau getötet.", "answer": "wurden", "hint": "Plural" },
+        { "prompt": "Im Mittelalter ___ keine Maschinen verwendet.", "answer": "wurden" },
+        { "prompt": "Die Maße einer Mauer konnten schlecht berechnet ___.", "answer": "werden", "hint": "Infinitiv von werden im Passiv mit Modalverb" }
+      ]
+    },
+    {
+      "heading": "Passiv: von + Dativ und durch + Akkusativ",
+      "items": [
+        { "prompt": "Die Baustelle wurde ___ Dombaumeister geleitet.", "answer": "vom", "hint": "von + dem (Verantwortlicher)" },
+        { "prompt": "Die Werkzeuge wurden ___ Werkzeugmachern hergestellt.", "answer": "von", "hint": "von + Dativ" },
+        { "prompt": "Von ___ wurden die Pläne gezeichnet?", "answer": "wem", "hint": "Frage nach der Person" },
+        { "prompt": "Die Kathedrale wurde ___ ein Feuer zerstört.", "answer": "durch", "hint": "durch + Akkusativ (Ursache)" }
+      ]
+    },
+    {
+      "heading": "Passiv Perfekt",
+      "items": [
+        { "prompt": "Ich bin mit Ihnen verbunden ___.", "answer": "worden", "hint": "Passiv Perfekt: sein + Partizip + worden" },
+        { "prompt": "Ich ___ zum Beispiel gefragt worden, ob der Computer eingeschaltet ist.", "answer": "bin", "hint": "sein, 1. Person Singular" },
+        { "prompt": "Ich bin viermal weiterverbunden ___.", "answer": "worden" },
+        { "prompt": "Bist du schon einmal von einem Bankangestellten schlecht beraten ___?", "answer": "worden" },
+        { "prompt": "Alle meine Daten ___ geprüft worden.", "answer": "sind", "hint": "sein, Plural" }
+      ]
+    },
+    {
+      "heading": "Nebensätze mit seit / seitdem und bis",
+      "items": [
+        { "prompt": "___ Lukas sein Studium abgeschlossen hat, bewirbt er sich bei verschiedenen Firmen.", "answer": "Seit|Seitdem", "hint": "temporaler Nebensatz, Anfangspunkt bis jetzt" },
+        { "prompt": "Er muss auf ein Gespräch warten, ___ die Testergebnisse vorliegen.", "answer": "bis", "hint": "temporaler Nebensatz, Endpunkt" },
+        { "prompt": "___ der Psychologe Binet den ersten Intelligenztest entwickelte, dienen sie einem Zweck.", "answer": "Seitdem|Seit" },
+        { "prompt": "___ Intelligenztests alle Intelligenzen testen können, müssen wir noch länger warten.", "answer": "Bis" }
+      ]
+    },
+    {
+      "heading": "Präpositionen seit und bis",
+      "items": [
+        { "prompt": "___ einem Jahr besitze ich ein Elektrofahrrad.", "answer": "Seit", "hint": "seit + Dativ" },
+        { "prompt": "Manche Kathedralen sind ___ zu 50 Meter hoch.", "answer": "bis" },
+        { "prompt": "In den Kathedralen hatten ___ zu 10 000 Personen Platz.", "answer": "bis" }
+      ]
+    },
+    {
+      "heading": "Wortschatz: Computer und Hotline",
+      "items": [
+        { "prompt": "Ich möchte im Internet ___, aber mein Router funktioniert nicht.", "answer": "surfen", "hint": "im Internet … " },
+        { "prompt": "Der Computer startet nicht, ich kann ihn nicht ___.", "answer": "hochfahren" },
+        { "prompt": "Der Drucker funktioniert nicht, ich kann die Datei nicht ___.", "answer": "ausdrucken" },
+        { "prompt": "Sie sollten die Dateien in einem eigenen ___ speichern.", "answer": "Ordner", "hint": "Sammlung für Dateien" },
+        { "prompt": "Guten Tag, was kann ich für Sie ___?", "answer": "tun", "hint": "Redemittel am Telefon" }
+      ]
+    }
+  ]
+}

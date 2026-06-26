@@ -1,0 +1,735 @@
+{
+  "title": "Verben",
+  "icon": "🔤",
+  "columns": [
+    "Infinitiv",
+    "Präteritum",
+    "Partizip II",
+    "Hilfsverb",
+    "Bedeutung",
+    "Niveau",
+    "Typ"
+  ],
+  "rows": [
+    [
+      "anlegen",
+      "legte an",
+      "hat angelegt",
+      "haben",
+      "to invest (money); to lay out (Grünflächen anlegen)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "antworten",
+      "antwortete",
+      "geantwortet",
+      "haben",
+      "to answer (+ Dat)",
+      "A1",
+      "schwach"
+    ],
+    [
+      "arbeiten",
+      "arbeitete",
+      "gearbeitet",
+      "haben",
+      "to work",
+      "A1",
+      "schwach"
+    ],
+    [
+      "aufnehmen",
+      "nahm auf",
+      "hat aufgenommen",
+      "haben",
+      "to take out (einen Kredit aufnehmen); to record/take in",
+      "B1",
+      "stark"
+    ],
+    [
+      "ausgeben",
+      "gab aus",
+      "hat ausgegeben",
+      "haben",
+      "to spend (money)",
+      "B1",
+      "stark"
+    ],
+    [
+      "begegnen",
+      "begegnete",
+      "begegnet",
+      "sein",
+      "to encounter / meet (+ Dat)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "beginnen",
+      "begann",
+      "begonnen",
+      "haben",
+      "to begin",
+      "B1",
+      "stark"
+    ],
+    [
+      "beißen",
+      "biss",
+      "gebissen",
+      "haben",
+      "to bite",
+      "B1",
+      "stark"
+    ],
+    [
+      "betrügen",
+      "betrog",
+      "hat betrogen",
+      "haben",
+      "to deceive, to defraud (someone)",
+      "B1",
+      "stark"
+    ],
+    [
+      "bevorzugen",
+      "bevorzugte",
+      "hat bevorzugt",
+      "haben",
+      "to prefer",
+      "B1",
+      "schwach"
+    ],
+    [
+      "bitten",
+      "bat",
+      "gebeten",
+      "haben",
+      "to ask / request",
+      "B1",
+      "stark"
+    ],
+    [
+      "bleiben",
+      "blieb",
+      "geblieben",
+      "sein",
+      "to stay",
+      "A1",
+      "stark"
+    ],
+    [
+      "danken",
+      "dankte",
+      "gedankt",
+      "haben",
+      "to thank (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "einbrechen",
+      "brach ein",
+      "ist eingebrochen",
+      "sein",
+      "to break in (in ein Haus einbrechen)",
+      "B1",
+      "stark"
+    ],
+    [
+      "einkaufen",
+      "kaufte ein",
+      "hat eingekauft",
+      "haben",
+      "to shop, to buy groceries",
+      "A2",
+      "schwach"
+    ],
+    [
+      "empfehlen",
+      "empfahl",
+      "empfohlen",
+      "haben",
+      "to recommend (sb [Dat] sth [Akk])",
+      "B1",
+      "stark"
+    ],
+    [
+      "entstehen",
+      "entstand",
+      "entstanden",
+      "sein",
+      "to arise / come into being",
+      "B1",
+      "stark"
+    ],
+    [
+      "erklären",
+      "erklärte",
+      "erklärt",
+      "haben",
+      "to explain (sth [Akk] to sb [Dat])",
+      "B1",
+      "schwach"
+    ],
+    [
+      "fallen",
+      "fiel",
+      "ist gefallen",
+      "sein",
+      "to fall (die Mauer fiel)",
+      "B1",
+      "stark"
+    ],
+    [
+      "fehlen",
+      "fehlte",
+      "gefehlt",
+      "haben",
+      "to be missing / be missed by (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "finden",
+      "fand",
+      "gefunden",
+      "haben",
+      "to find",
+      "A1",
+      "stark"
+    ],
+    [
+      "fließen",
+      "floss",
+      "geflossen",
+      "sein",
+      "to flow",
+      "B1",
+      "stark"
+    ],
+    [
+      "folgen",
+      "folgte",
+      "gefolgt",
+      "sein",
+      "to follow (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "fordern",
+      "forderte",
+      "hat gefordert",
+      "haben",
+      "to demand (= verlangen)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "fördern",
+      "förderte",
+      "hat gefördert",
+      "haben",
+      "to support, promote, fund (often state-funded)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "geben",
+      "gab",
+      "gegeben",
+      "haben",
+      "to give (sb [Dat] sth [Akk])",
+      "A1",
+      "stark"
+    ],
+    [
+      "gefallen",
+      "gefiel",
+      "gefallen",
+      "haben",
+      "to please (jdm. gefallen)",
+      "A2",
+      "stark"
+    ],
+    [
+      "gefallen",
+      "gefiel",
+      "gefallen",
+      "haben",
+      "to please / be liked by (+ Dat)",
+      "A2",
+      "stark"
+    ],
+    [
+      "gehen",
+      "ging",
+      "gegangen",
+      "sein",
+      "to go",
+      "A1",
+      "stark"
+    ],
+    [
+      "gehören",
+      "gehörte",
+      "gehört",
+      "haben",
+      "to belong to (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "gelingen",
+      "gelang",
+      "gelungen",
+      "sein",
+      "to succeed (es gelingt mir) (+ Dat)",
+      "B1",
+      "stark"
+    ],
+    [
+      "genießen",
+      "genoss",
+      "genossen",
+      "haben",
+      "to enjoy",
+      "B1",
+      "stark"
+    ],
+    [
+      "gewinnen",
+      "gewann",
+      "gewonnen",
+      "haben",
+      "to win",
+      "B1",
+      "stark"
+    ],
+    [
+      "glauben",
+      "glaubte",
+      "geglaubt",
+      "haben",
+      "to believe (a person) (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "gratulieren",
+      "gratulierte",
+      "gratuliert",
+      "haben",
+      "to congratulate (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "helfen",
+      "half",
+      "geholfen",
+      "haben",
+      "to help (+ Dat)",
+      "A2",
+      "stark"
+    ],
+    [
+      "herstellen",
+      "stellte her",
+      "hergestellt",
+      "haben",
+      "to produce (trennbar)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "klingen",
+      "klang",
+      "geklungen",
+      "haben",
+      "to sound",
+      "B1",
+      "stark"
+    ],
+    [
+      "kommen",
+      "kam",
+      "gekommen",
+      "sein",
+      "to come",
+      "A1",
+      "stark"
+    ],
+    [
+      "kämpfen",
+      "kämpfte",
+      "hat gekämpft",
+      "haben",
+      "to fight (gegen/für + Akk)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "laufen",
+      "lief",
+      "gelaufen",
+      "sein",
+      "to run / walk",
+      "A2",
+      "stark"
+    ],
+    [
+      "leiden",
+      "litt",
+      "gelitten",
+      "haben",
+      "to suffer (an/unter)",
+      "B1",
+      "stark"
+    ],
+    [
+      "liegen",
+      "lag",
+      "gelegen",
+      "haben",
+      "to lie (position)",
+      "A2",
+      "stark"
+    ],
+    [
+      "lügen",
+      "log",
+      "gelogen",
+      "haben",
+      "to lie (tell untruth)",
+      "B1",
+      "stark"
+    ],
+    [
+      "machen",
+      "machte",
+      "gemacht",
+      "haben",
+      "to do / make",
+      "A1",
+      "schwach"
+    ],
+    [
+      "nehmen",
+      "nahm",
+      "genommen",
+      "haben",
+      "to take",
+      "A1",
+      "stark"
+    ],
+    [
+      "nennen",
+      "nannte",
+      "genannt",
+      "haben",
+      "to name / call",
+      "A2",
+      "gemischt"
+    ],
+    [
+      "passen",
+      "passte",
+      "gepasst",
+      "haben",
+      "to fit / suit (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "raten",
+      "riet",
+      "geraten",
+      "haben",
+      "to advise (+ Dat)",
+      "B1",
+      "stark"
+    ],
+    [
+      "rennen",
+      "rannte",
+      "gerannt",
+      "sein",
+      "to run (fast)",
+      "B1",
+      "gemischt"
+    ],
+    [
+      "reparieren",
+      "reparierte",
+      "repariert",
+      "haben",
+      "to repair (no ge-)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "scheinen",
+      "schien",
+      "geschienen",
+      "haben",
+      "to shine / seem",
+      "B1",
+      "stark"
+    ],
+    [
+      "schenken",
+      "schenkte",
+      "geschenkt",
+      "haben",
+      "to give as a gift (sb [Dat] sth [Akk])",
+      "A2",
+      "schwach"
+    ],
+    [
+      "schließen",
+      "schloss",
+      "geschlossen",
+      "haben",
+      "to close",
+      "A2",
+      "stark"
+    ],
+    [
+      "schmecken",
+      "schmeckte",
+      "geschmeckt",
+      "haben",
+      "to taste good (+ Dat)",
+      "A1",
+      "schwach"
+    ],
+    [
+      "schwimmen",
+      "schwamm",
+      "geschwommen",
+      "sein",
+      "to swim",
+      "B1",
+      "stark"
+    ],
+    [
+      "sinken",
+      "sank",
+      "gesunken",
+      "sein",
+      "to sink",
+      "B1",
+      "stark"
+    ],
+    [
+      "sparen",
+      "sparte",
+      "hat gespart",
+      "haben",
+      "to save (money)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "stecken",
+      "steckte",
+      "gesteckt",
+      "haben",
+      "(etw.) stecken = (etw.) hineinstecken; (in etw.) stecken = sich befinden / feststecken",
+      "A2",
+      "schwach"
+    ],
+    [
+      "steigen",
+      "stieg",
+      "gestiegen",
+      "sein",
+      "to climb / rise",
+      "A2",
+      "stark"
+    ],
+    [
+      "sterben",
+      "starb",
+      "gestorben",
+      "sein",
+      "to die",
+      "B1",
+      "stark"
+    ],
+    [
+      "streiten",
+      "stritt",
+      "gestritten",
+      "haben",
+      "to argue / quarrel",
+      "B1",
+      "stark"
+    ],
+    [
+      "treiben",
+      "trieb",
+      "getrieben",
+      "haben",
+      "to drive / do (Sport treiben)",
+      "B1",
+      "stark"
+    ],
+    [
+      "vergessen",
+      "vergaß",
+      "vergessen",
+      "haben",
+      "to forget",
+      "A2",
+      "stark"
+    ],
+    [
+      "verlangen",
+      "verlangte",
+      "hat verlangt",
+      "haben",
+      "to demand, to require (= fordern)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "verlieren",
+      "verlor",
+      "verloren",
+      "haben",
+      "to lose",
+      "A2",
+      "stark"
+    ],
+    [
+      "vertrauen",
+      "vertraute",
+      "vertraut",
+      "haben",
+      "to trust (+ Dat)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "verwalten",
+      "verwaltete",
+      "hat verwaltet",
+      "haben",
+      "to administer, to manage",
+      "B1",
+      "schwach"
+    ],
+    [
+      "verzeihen",
+      "verzieh",
+      "verziehen",
+      "haben",
+      "to forgive (+ Dat)",
+      "B1",
+      "stark"
+    ],
+    [
+      "wachsen",
+      "wuchs",
+      "gewachsen",
+      "sein",
+      "to grow",
+      "A2",
+      "stark"
+    ],
+    [
+      "waschen",
+      "wusch",
+      "gewaschen",
+      "haben",
+      "to wash",
+      "A2",
+      "stark"
+    ],
+    [
+      "werfen",
+      "warf",
+      "geworfen",
+      "haben",
+      "to throw",
+      "A2",
+      "stark"
+    ],
+    [
+      "widersprechen",
+      "widersprach",
+      "widersprochen",
+      "haben",
+      "to contradict (+ Dat)",
+      "B1",
+      "stark"
+    ],
+    [
+      "wiedervereinigen",
+      "vereinigte wieder",
+      "hat wiedervereinigt",
+      "haben",
+      "to reunify",
+      "B1",
+      "schwach"
+    ],
+    [
+      "zeigen",
+      "zeigte",
+      "gezeigt",
+      "haben",
+      "to show (sb [Dat] sth [Akk])",
+      "A2",
+      "schwach"
+    ],
+    [
+      "ziehen",
+      "zog",
+      "gezogen",
+      "haben/sein",
+      "to pull; (um)ziehen = move (sein)",
+      "B1",
+      "stark"
+    ],
+    [
+      "zocken",
+      "zockte",
+      "hat gezockt",
+      "haben",
+      "to gamble (colloquial)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "zufächern",
+      "fächerte zu",
+      "hat zugefächert",
+      "haben",
+      "to fan (sich Luft zufächern = to fan oneself)",
+      "B1",
+      "schwach"
+    ],
+    [
+      "zuhören",
+      "hörte zu",
+      "zugehört",
+      "haben",
+      "to listen to (trennbar) (+ Dat)",
+      "A2",
+      "schwach"
+    ],
+    [
+      "zustimmen",
+      "stimmte zu",
+      "zugestimmt",
+      "haben",
+      "to agree with (trennbar) (+ Dat)",
+      "B1",
+      "schwach"
+    ]
+  ]
+}

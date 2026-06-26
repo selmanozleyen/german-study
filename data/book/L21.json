@@ -1,0 +1,678 @@
+{
+  "id": "L21",
+  "title": "Wozu brauchst du das?",
+  "kursbuch": "Kursbuch S. 165–172",
+  "theme": "Konsumverhalten, Vorlieben und Ziele – reklamieren und sich beschweren",
+  "blocks": [
+    {
+      "t": "h",
+      "text": "Wozu brauchst du das?"
+    },
+    {
+      "t": "note",
+      "label": "Tipp",
+      "md": "**SIE LERNEN**\n- über Konsumverhalten sprechen\n- über Vorlieben und Ziele sprechen\n- reklamieren, sich beschweren\n\n**GRAMMATIK**\n- Sätze mit *um … zu …*\n- Nebensatz mit *damit*\n- Adjektivdeklination (3)\n- Wiederholung: Adjektivdeklination; Infinitivsätze\n\n**WORTSCHATZ**\n- Einkauf\n- Alltagsgegenstände"
+    },
+    {
+      "t": "h",
+      "text": "Einkaufen"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Was, wo, wie und wann kaufen Sie ein? Kreuzen Sie an und machen Sie Notizen.",
+      "md": "**Was?** Bücher · CDs · Kleidung · Kosmetik · Möbel · …\n\n**Wo?** Supermarkt · Einkaufszentrum · Markt · Internet · …\n\n**Wie?** mit Freunden · allein · mit der Familie · …\n\n**Wann?** am Wochenende · nach der Arbeit · in der Mittagspause · …"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Was würden Sie kaufen, wenn Geld keine Rolle spielen würde? Notieren Sie.",
+      "md": "Designerkleidung, …"
+    },
+    {
+      "t": "text",
+      "md": "**Lesen Sie. Was hat Marcel in a angekreuzt, welche Notizen hat er gemacht?**\n\nMarcel: Eigentlich kaufe ich nicht gern ein. Kleidergeschäfte interessieren mich überhaupt nicht. Ich trage lieber meine alten Sachen. Natürlich muss ich Lebensmittel einkaufen. Da gehe ich zwei- oder dreimal in der Woche in den Supermarkt. Aber auch das vergesse ich manchmal. Dann muss ich am Sonntag an der Tankstelle einkaufen, und dort ist es natürlich viel teurer. Bücher und CDs kaufe ich im Internet. Das ist praktischer und geht schneller. Wenn ich viel Geld hätte, würde ich mir Designermöbel und einen riesigen Fernsehapparat kaufen. Wahrscheinlich würde ich dann auch eine große Dachwohnung in der Altstadt kaufen."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Schreiben Sie einen Text mit Ihren Ideen aus a und b und sprechen Sie mit Ihrer Partnerin / Ihrem Partner.",
+      "md": "Eigentlich kaufe ich gern / nicht gern … ein. … kaufe ich in / im / bei …\n\n… interessiert / interessieren mich sehr / nicht.\n\nWenn ich viel Geld hätte, … Dann würde / hätte / wäre ich auch …"
+    },
+    {
+      "t": "h",
+      "text": "A1 — Von Minimalisten und Schnäppchenjägern"
+    },
+    {
+      "t": "match",
+      "instruction": "Alexander geht nicht gern einkaufen, Kerstin liebt ihre Shoppingtouren. Wer sagt was? Ordnen Sie zu: Alexander (A) oder Kerstin (K).",
+      "options": [
+        "A",
+        "K"
+      ],
+      "rows": [
+        {
+          "text": "„Ich erhole mich beim Einkaufen vom Bürostress.“",
+          "answer": "K"
+        },
+        {
+          "text": "„Ich will nicht von Dingen abhängig werden.“",
+          "answer": "A"
+        },
+        {
+          "text": "„Ein minimalistisches Leben kann Stress reduzieren.“",
+          "answer": "A"
+        },
+        {
+          "text": "„Wenn ich einkaufe, brauchen meine Freunde viel Geduld.“",
+          "answer": "K"
+        },
+        {
+          "text": "„Mit ein paar Überstunden kann ich mein Konto wieder in Ordnung bringen.“",
+          "answer": "K"
+        }
+      ],
+      "example": "„Ich besitze nur wenige Sachen.“ → **A**"
+    },
+    {
+      "t": "text",
+      "md": "**Lesen Sie und hören Sie die Texte und vergleichen Sie Ihre Antworten aus a. Wie sehen die Wohnungen von Alexander und Kerstin aus?**\n\n### Der Minimalist\n\nAlexander Buchleitner besitzt 200 Dinge, nicht mehr. „Es ist nicht einfach, Alexander etwas zu schenken“, erzählen seine Freunde. „Man ist schon ein bisschen enttäuscht¹, wenn die Geschenke nach kurzer Zeit im Müll landen.“\n\nAlexander ist Minimalist. Er versucht, sich nur auf die wichtigsten Dinge in seinem Leben zu konzentrieren. Von den meisten Gegenständen in seiner Wohnung hat er sich getrennt², um nicht von ihnen „abhängig“ zu werden. Zeitungen, Illustrierte³ und alte Ordner⁴ kommen sofort ins Altpapier, und auch seine Bücher hat er alle gespendet. Immer wenn Alexander einen neuen Gegenstand kauft, muss ein alter weg.\n\nAlexander ist nicht allein. Weltweit gibt es immer mehr Menschen, die sich von ihren persönlichen Dingen trennen, um ihr Leben „minimalistisch“ zu leben. 20 Prozent in unserer Gesellschaft⁵ leiden unter Stress am Arbeitsplatz. Ein minimalistisches Leben kann diesen Druck reduzieren und das Leben erleichtern⁶. Und Alexander sieht noch einen Vorteil⁷: „Viele Leute, die in meine Wohnung kommen, loben⁸ mein Zuhause. ‚Bei dir sieht es aber ordentlich⁹ aus‘, sagen sie.“\n\n### Die Schnäppchenjägerin\n\nFast jeden Tag ist Kerstin Posch im Internet, um ihren Freunden von ihren Einkäufen zu erzählen. „Ich bin so glücklich über meine neuen Sachen, das muss ich mit jemandem teilen“, meint sie. Das Einkaufszentrum in ihrer Nähe ist ihr zweites Zuhause. „Ich brauche meine Shoppingtour, um mich vom Bürostress zu erholen. Ich liebe es, durch die Geschäfte zu gehen, elegante¹⁰ Kleider oder schicke¹¹ Schuhe anzuprobieren und nach Sonderangeboten zu suchen. Irgendetwas gefällt mir immer, und das muss ich dann auch haben.“\n\nAuch im Urlaub ist Shopping sehr wichtig für Kerstin. „Mein Freund hat nicht sehr viel Geduld. Er sucht sich dann oft andere Beschäftigungen, um nicht mitgehen zu müssen. Wenn wir abreisen, brauche ich meistens einen zweiten Koffer, um meine neuen Sachen nach Hause zu transportieren¹²!“ In Kerstins Wohnung gibt es kaum Platz für neue Dinge. „Ich kann mich schwer von Sachen trennen“, sagt sie.\n\nIn den letzten Monaten hatte Kerstin auch zwei- oder dreimal Probleme mit ihrer Bank. Ihr Konto war im Minus. „Das stört mich nicht. Ich habe ein gutes Gehalt. Gewöhnlich¹³ mache ich dann ein paar Überstunden, um mein Konto wieder in Ordnung zu bringen. Das hat bis jetzt immer funktioniert.“\n\n*¹ enttäuscht: traurig sein, weil etw. anders als erwartet ist*\n*² sich getrennt: hier: nicht behalten*\n*³ Illustrierte: eine Zeitschrift mit vielen Bildern*\n*⁴ Ordner*\n*⁵ Gesellschaft: alle Menschen, die zusammen in einem sozialen System (z. B. Staat) leben*\n*⁶ erleichtern: leichter machen*\n*⁷ Vorteil: etw., das für jmdn. gut ist*\n*⁸ loben: sagen, dass jmd. etw. gut gemacht hat*\n*⁹ ordentlich: aufgeräumt, kein Chaos*\n*¹⁰ elegant: modern, mit viel Geschmack*\n*¹¹ schick: hübsch*\n*¹² transportieren: von einem Platz zu einem anderen bringen*\n*¹³ gewöhnlich: so wie immer*"
+    },
+    {
+      "t": "ex",
+      "instruction": "Lesen Sie noch einmal. Ergänzen Sie die Namen und die Pronomen.",
+      "items": [
+        {
+          "q": "___s Freund geht nicht gern mit ___ (ihm/ihr) einkaufen.",
+          "a": [
+            "Kerstin",
+            "ihr"
+          ]
+        },
+        {
+          "q": "Wenn ___ etwas Neues kauft, wirft er ein altes Ding weg.",
+          "a": "Alexander",
+          "hint": "„muss ein alter weg“"
+        },
+        {
+          "q": "In ___s Wohnung gibt es wenig Platz für neue Sachen.",
+          "a": "Kerstin"
+        },
+        {
+          "q": "Es gibt immer mehr Menschen, die ___ leben.",
+          "a": "minimalistisch"
+        },
+        {
+          "q": "___ hatte Probleme, weil sie zu wenig Geld auf dem Konto hatte.",
+          "a": "Kerstin"
+        }
+      ],
+      "example": "Alexanders Freunde finden es schwierig, **ihm** (ihm/ihr) etwas zu schenken."
+    },
+    {
+      "t": "ex",
+      "instruction": "Minimalistisch leben wie Alexander. Ergänzen Sie die Adjektivendungen. (→ Adjektivdeklination, Lektionen 15 + 17). Beispiel: ein eigenes Fahrrad, eine eigene Wohnung.",
+      "items": [
+        {
+          "q": "ein eigen___ Auto",
+          "a": "es",
+          "hint": "neutral Akk. → -es"
+        },
+        {
+          "q": "eigen___ Möbel",
+          "a": "e",
+          "hint": "Plural → -e"
+        },
+        {
+          "q": "ein eigen___ Haus",
+          "a": "es",
+          "hint": "neutral Akk. → -es"
+        },
+        {
+          "q": "eine eigen___ Zahnbürste",
+          "a": "e",
+          "hint": "feminin → -e"
+        },
+        {
+          "q": "eigen___ Bücher",
+          "a": "e",
+          "hint": "Plural → -e"
+        },
+        {
+          "q": "ein eigen___ Handy",
+          "a": "es",
+          "hint": "neutral Akk. → -es"
+        },
+        {
+          "q": "einen eigen___ Fernseher",
+          "a": "en",
+          "hint": "maskulin Akk. → -en"
+        },
+        {
+          "q": "eine eigen___ Musikanlage mit gut___ Lautsprecherboxen",
+          "a": [
+            "e",
+            "en"
+          ],
+          "hint": "feminin -e; Dativ Plural -en"
+        },
+        {
+          "q": "einen eigen___ Computer",
+          "a": "en",
+          "hint": "maskulin Akk. → -en"
+        },
+        {
+          "q": "ein eigen___ Bett",
+          "a": "es",
+          "hint": "neutral Akk. → -es"
+        }
+      ],
+      "example": "eigen**e** Kleidungsstücke"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Vergleichen Sie Ihre Listen und finden Sie Gemeinsamkeiten.",
+      "md": "● Brauchst du ein eigenes Fahrrad?\n■ Ja, ein eigenes Fahrrad brauche ich unbedingt. Und du?"
+    },
+    {
+      "t": "h",
+      "text": "A2 — Was ist für uns wichtig … und warum?"
+    },
+    {
+      "t": "transform",
+      "instruction": "Was ist für Alexander und Kerstin wichtig? Schreiben Sie Sätze mit Infinitivsätzen wie im Beispiel. (→ Infinitivsätze, Lektion 17). Beispiel: sich auf die wichtigsten Dinge konzentrieren → Alexander findet es wichtig, sich auf die wichtigsten Dinge zu konzentrieren.",
+      "items": [
+        {
+          "prompt": "Kerstin / im Urlaub einkaufen gehen",
+          "solution": "Kerstin findet es aufregend, im Urlaub einkaufen zu gehen."
+        },
+        {
+          "prompt": "Kerstin / den Arbeitsstress reduzieren",
+          "solution": "Kerstin findet es gut, den Arbeitsstress zu reduzieren."
+        },
+        {
+          "prompt": "Alexander / alte Dinge wegwerfen",
+          "solution": "Alexander findet es schön, alte Dinge wegzuwerfen."
+        }
+      ],
+      "example": "Kerstin / elegante Kleider anprobieren\n\n→ Kerstin findet es schön, elegante Kleider anzuprobieren."
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Warum machen sie das? Unterstreichen Sie in 1b die sieben Sätze mit um … zu. Schreiben Sie Sätze mit weil wie im Beispiel.",
+      "md": "Von den meisten Gegenständen in seiner Wohnung hat er sich getrennt, um nicht von ihnen „abhängig“ zu werden.\n\n(= …, weil er nicht von ihnen „abhängig“ werden will.)"
+    },
+    {
+      "t": "transform",
+      "instruction": "Was tun die Personen, um …? Schreiben Sie Sätze mit um … zu wie im Beispiel. Beispiel: Frau König / aufs Amt gehen – Visum beantragen → Frau König geht aufs Amt, um ein Visum zu beantragen.",
+      "items": [
+        {
+          "prompt": "Frau Jovic / eine Homepage machen – ihre Firma bekannter machen",
+          "solution": "Frau Jovic macht eine Homepage, um ihre Firma bekannter zu machen."
+        },
+        {
+          "prompt": "Selina / Torte backen – ihrer Tante zum Geburtstag eine Freude machen",
+          "solution": "Selina bäckt eine Torte, um ihrer Tante zum Geburtstag eine Freude zu machen."
+        },
+        {
+          "prompt": "Anna und Kerstin / in die Bibliothek gehen – Referat vorbereiten",
+          "solution": "Anna und Kerstin gehen in die Bibliothek, um ein Referat vorzubereiten."
+        },
+        {
+          "prompt": "Juana / in der Mensa essen – nicht selbst kochen müssen",
+          "solution": "Juana isst in der Mensa, um nicht selbst kochen zu müssen."
+        },
+        {
+          "prompt": "Herr Konrad / sein Auto in die Werkstatt bringen – Bremsen reparieren lassen",
+          "solution": "Herr Konrad bringt sein Auto in die Werkstatt, um die Bremsen reparieren zu lassen."
+        },
+        {
+          "prompt": "Jakob / in Zukunft auf Fleisch verzichten wollen – etwas für die Umwelt tun",
+          "solution": "Jakob will in Zukunft auf Fleisch verzichten, um etwas für die Umwelt zu tun."
+        },
+        {
+          "prompt": "Sabine / Urlaub machen – sich ausruhen",
+          "solution": "Sabine macht Urlaub, um sich auszuruhen."
+        }
+      ],
+      "example": "Anton / in den Hof gehen – Abfalleimer ausleeren\n\n→ Anton geht in den Hof, um seinen Abfalleimer auszuleeren."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Die Kursleiterin / Der Kursleiter sammelt alle Papierstreifen ein und teilt sie wieder aus. Jede/Jeder bekommt mindestens eine Satzhälfte. Lesen Sie die Satzanfänge vor. Die Person mit dem richtigen Ende ergänzt den Satz."
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Wie viele Sätze haben Sie sich gemerkt? Wer kann in fünf Minuten die meisten Sätze notieren?"
+    },
+    {
+      "t": "h",
+      "text": "B1 — Nach dem Einkauf"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Ordnen Sie zu und sprechen Sie wie in a.",
+      "md": "**Produkte:** 1 Kamera · 2 Fahrradtasche · 3 ein teures Kleid · 4 Kochbuch · 5 Fernseher\n\n**Wozu?** Fußball-WM sehen · kochen lernen · bei der Hochzeit gut aussehen · Einkäufe transportieren · gute Fotos machen\n\n**Problem:** einen Fleck haben · Griff sofort kaputt gegangen · Bilder zu dunkel werden · Sendersuchlauf nicht funktionieren · Rezepte sehr kompliziert sein"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Denken Sie an sich, Ihre Verwandten oder Bekannten. Wer musste sich nach einem Einkauf beschweren? Warum? Schreiben Sie Sätze und sprechen Sie im Kurs.",
+      "md": "Mein Freund hat im Internet … bestellt (, um … zu …). Aber …"
+    },
+    {
+      "t": "h",
+      "text": "B2 — Der neue Fernseher"
+    },
+    {
+      "t": "match",
+      "instruction": "Was passt? Ordnen Sie die Satzhälften zu (Sätze mit damit). Beispiel: „Sie müssen den Sendersuchlauf aktivieren“ → e.",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e"
+      ],
+      "rows": [
+        {
+          "text": "Unser Serviceteam stellt den Fernseher für Sie auf,",
+          "answer": "c"
+        },
+        {
+          "text": "Ihr Serviceteam soll den Fernseher abholen,",
+          "answer": "a"
+        },
+        {
+          "text": "Ich packe den Fernseher ein,",
+          "answer": "b"
+        },
+        {
+          "text": "Ich schicke Ihnen das Team,",
+          "answer": "d"
+        }
+      ],
+      "example": "Sie müssen den Sendersuchlauf aktivieren, → **e**"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Nebensatz – Konjunktion *damit***\n\nIch habe einen Fernseher gekauft, **damit** ich wieder meine Lieblingsserie sehen **kann**.\n\nIch habe einen Fernseher gekauft, **um** wieder meine Lieblingsserie sehen zu können.\n→ Subjekt 1 = Subjekt 2: *damit* oder *um … zu*\n\nIch habe einen Fernseher gekauft, **damit** meine Frau wieder ihre Lieblingsserie sehen **kann**.\n→ Subjekt 1 ≠ Subjekt 2: nur *damit*"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Welche Lösung könnte es für Herrn Neuholds Problem geben? Sammeln Sie möglichst viele Ideen im Kurs und sprechen Sie.",
+      "md": "einen neuen Fernseher / bekommen · der Fernseher / abgeholt werden · das Serviceteam zu Herrn Neuhold · Fernseher umtauschen · den Fernseher / vom Serviceteam aufstellen lassen · Geld / zurück bekommen …\n\n*Am Nachmittag kommt das Serviceteam zu Herrn Neuhold. Er hat …*"
+    },
+    {
+      "t": "match",
+      "instruction": "Service ist unser Erfolg! Was passt? Ordnen Sie die damit-Ziele den Firmen zu. Beispiel: „Wir bauen Straßen und Brücken“ → schneller von A nach B kommen.",
+      "options": [
+        "nicht hungrig ins Bett gehen müssen",
+        "sich im Urlaub wohlfühlen",
+        "ruhig schlafen können",
+        "mehr Platz in Ihrem Bücherregal haben",
+        "schneller von A nach B kommen"
+      ],
+      "rows": [
+        {
+          "text": "Frau König (Wirtin): Wir kochen für Sie bis 24:00 Uhr, damit Sie …",
+          "answer": "nicht hungrig ins Bett gehen müssen"
+        },
+        {
+          "text": "Herr Holzer (Altwarenhändler): Wir kaufen Ihre alten Bücher, damit Sie …",
+          "answer": "mehr Platz in Ihrem Bücherregal haben"
+        },
+        {
+          "text": "Jasmin Michels (Reiseführerin): Wir testen alle unsere Reiseziele, damit Sie …",
+          "answer": "sich im Urlaub wohlfühlen"
+        },
+        {
+          "text": "Egon Brunner (Polizist): Wir sind 24 Stunden im Dienst, damit Sie …",
+          "answer": "ruhig schlafen können"
+        }
+      ],
+      "example": "Ingenieur Schober (Firma PROBAU): Wir bauen Straßen und Brücken, damit Sie … → **schneller von A nach B kommen**"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Schreiben Sie Sätze für andere Berufsgruppen und Firmen wie in d. Lesen Sie Ihre Sätze vor, Ihre Partnerin / Ihr Partner errät die Berufsgruppe.",
+      "md": "- mit dem Team nach neuen Erkenntnissen trainieren – Sie es im Stadion gewinnen sehen\n- auch in Fernsehserien mitspielen – Sie mich nicht nur im Theater sehen können\n- auf Konzerttournee gehen – Sie Ihre Lieblingslieder live hören können\n- moderne Unterrichtsmethoden einsetzen – die Kinder schnell und mühelos lernen\n- Tag und Nacht arbeiten – …\n- mit modernen Reisebussen fahren – …\n\nLehrer: Ich setze moderne Unterrichtsmethoden ein, damit …\n\nMusiker: … · Schauspieler: … · Fußballtrainer: … · Krankenschwester: … · Busunternehmer: …"
+    },
+    {
+      "t": "h",
+      "text": "B3 — Da muss ich mich beschweren …"
+    },
+    {
+      "t": "note",
+      "label": "REDEMITTEL",
+      "md": "**Lesen Sie die Redemittel (1–9). Wer sagt was? Ordnen Sie zu.**\n\n*Der Kunde / Käufer*\n- beschwert sich · ärgert sich · bittet um Hilfe · fordert etwas\n\n*Der Verkäufer*\n- entschuldigt sich · zeigt Verständnis · gibt Ratschläge · kann helfen · kann nicht helfen\n\n1. Das geht doch nicht! Das hat mich sehr enttäuscht.\n2. Ich kann verstehen, dass Sie sich ärgern.\n3. Es tut mir schrecklich leid.\n4. Ich kann leider nicht weiterhelfen. Wenden Sie sich bitte an …\n5. Beruhigen Sie sich doch bitte. Das ist wirklich sehr ärgerlich, aber wir finden sicher eine Lösung. Ich kümmere mich persönlich darum.\n6. Ich erwarte, dass …\n7. Ich muss mich leider bei Ihnen beschweren.\n8. An Ihrer Stelle würde ich …\n9. Könnten Sie bitte …?"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Lesen Sie die Rollenkarten und wählen Sie eine Situation (1 oder 2) und eine Rolle (A oder B) aus. Bereiten Sie Ihre Rolle vor, sammeln Sie Ideen und machen Sie Notizen.",
+      "md": "**Situation 1: In der Reinigung**\nA: Sie haben Ihre Hose oder Ihr Kleid beschädigt aus der Reinigung zurückbekommen. Sie möchten, dass die Reinigung das Kleidungsstück ersetzt¹.\nB: Sie arbeiten in einer Reinigung. Ein Kunde beschwert sich über ein beschädigtes Kleidungsstück. Sie erklären, dass die Reinigungsfirma an dem Schaden² nicht schuld ist.\n\n**Situation 2: Im Reisebüro**\nA: Sie waren mit Ihrem Urlaub nicht zufrieden. Das Hotel war sehr schlecht und sehr weit vom Strand entfernt. Sie möchten, dass das Reisebüro alle Kosten für den Urlaub ersetzt.\nB: Sie arbeiten in einem Reisebüro. Ein Kunde beschwert sich über eine Urlaubsreise. Sie haben Verständnis, aber Sie können dem Kunden nur einen Gutschein anbieten.\n\n*¹ ersetzen: hier: ein neues Kleidungsstück kaufen oder Geld dafür bezahlen*\n*² Schaden: wenn etwas kaputt ist*"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Spielen Sie das Rollenspiel."
+    },
+    {
+      "t": "h",
+      "text": "C1 — Werbung"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Sprechen Sie über die Fragen und berichten Sie dann in der Gruppe.",
+      "md": "1. Haben Sie auf dem Weg zum Kurs Plakatwände oder Reklametafeln gesehen? Haben Sie sie beachtet? An welche Werbebotschaften können Sie sich erinnern?\n2. Welche Werbespots im Fernsehen, Radio oder Internet finden Sie besonders auffallend? Für welches Markenprodukt wird dabei geworben?"
+    },
+    {
+      "t": "text",
+      "md": "**Lesen Sie und hören Sie den Text. Warum wirbt eine Schuhfirma mit einem modernen Gedicht?**\n\n### Auffallen um jeden Preis …\n\nFirmen, die nicht für ihre Produkte werben, haben kaum Chancen auf dem Markt¹. „Wer nicht wirbt, der stirbt“, hat der Automobilhersteller² Henry Ford vor mehr als 100 Jahren behauptet³. Jedes Jahr werden allein in Deutschland mehr als 30 Milliarden Euro für Werbung ausgegeben. Firmen werben auf Plakatwänden und Reklametafeln, im Fernsehen, im Internet, im Radio und im Kino.\n\nWerbung ist überall …, und trotzdem fällt sie kaum jemandem auf⁴! Denn nur zwei Prozent der offiziellen Werbebotschaften werden von den Konsumenten beachtet. Für die Firmen ist es deshalb wichtig, andere, neue Wege zu finden, um sich und die eigenen Produkte zu präsentieren.\n\nDie billigste Möglichkeit ist Mundpropaganda: Zufriedene Kunden empfehlen ein Produkt weiter. Auch versteckte Werbung oder „Schleichwerbung“ hat oft eine größere Wirkung als ein großes Werbeplakat. Wenn bei einer Fernsehdiskussion ein bestimmtes Markengetränk auf dem Tisch steht, oder wenn die Hauptperson in einem Spielfilm ein bestimmtes Auto fährt, dann hofft man, dass die Zuschauer die Getränke- oder Automarke später auch wiedererkennen.\n\nManche Firmen verstecken ihre Produkte auch hinter Bildern und Themen, die besonders stark auffallen oder sogar schockieren. So warb eine österreichische Schuhfirma mit Avantgarde-Gedichten⁵ und abstrakten Bildern, um ihren Firmennamen bekannter zu machen. Und eine italienische Modefirma zeigte vor einigen Jahren einen AIDS-kranken Mann auf ihren Plakaten.\n\nOft ist es egal, ob eine Beziehung zwischen den Themen in der Werbung und den Produkten besteht⁶. Die Konsumenten müssen auf die Marke aufmerksam werden⁷, das allein ist wichtig.\n\n*¹ Markt: Möglichkeit, Produkte zu kaufen und zu verkaufen*\n*² Automobilhersteller: seine Firma produziert Autos*\n*³ behaupten: etw. sagen und fest glauben, dass es richtig ist*\n*⁴ auffallen: fast niemand bemerkt sie*\n*⁵ Gedicht ≈ z. B. KB S. 43 „Meine Lieblingsstadt“*\n*⁶ bestehen: hier: etw. ist da*\n*⁷ aufmerksam werden: etw. genau beachten*"
+    },
+    {
+      "t": "ex",
+      "instruction": "Lesen Sie den Text noch einmal. Sind die Sätze richtig oder falsch? Kreuzen Sie an.",
+      "items": [
+        {
+          "q": "Die Konsumenten sehen und hören die Werbebotschaften kaum. → ___ / falsch",
+          "a": "richtig",
+          "hint": "Nur 2 % werden beachtet."
+        },
+        {
+          "q": "Kunden können für die Firmen preisgünstige Werbebotschafter sein. → ___ / falsch",
+          "a": "richtig",
+          "hint": "Mundpropaganda"
+        },
+        {
+          "q": "Produkte, die in Spielfilmen vorkommen, haben keine Werbewirkung. → richtig / ___",
+          "a": "falsch",
+          "hint": "Schleichwerbung wirkt."
+        },
+        {
+          "q": "Die Themen der Werbefilme müssen etwas mit dem Produkt zu tun haben. → richtig / ___",
+          "a": "falsch",
+          "hint": "Oft ist es egal."
+        }
+      ],
+      "example": "Vor 100 Jahren fand Henry Ford Werbung nicht wichtig. → richtig / **falsch**"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Schreiben Sie einen Text zu einem Produkt, das Sie empfehlen können.",
+      "md": "Ich war letzte Woche / … im Supermarkt / Einkaufszentrum / …\n\nDort habe … gekauft, um … zu …\n\nEs / Er / Sie ist …\n\n… kann ich wirklich empfehlen. Ich finde, es ist wirklich …\n\nIch kann dir zeigen, was / wie … Man kann damit auch …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Mundpropaganda wirkt: Kettenübung. Lesen Sie Ihren Text aus d Ihrer Nachbarin / Ihrem Nachbarn vor, sie/er liest Ihnen ihren/seinen Text vor. Reagieren Sie und tauschen Sie dann die Texte. Suchen Sie mit dem Text Ihrer Nachbarin / Ihres Nachbarn andere Partner."
+    },
+    {
+      "t": "h",
+      "text": "C2 — Werbung, die wirkt"
+    },
+    {
+      "t": "ex",
+      "instruction": "Lesen Sie die Werbetexte und ergänzen Sie. (Auswahl: Reisebüro · Versicherung · Fluglinie · Teegetränk · Zoo)",
+      "items": [
+        {
+          "q": "B: Ein weißer Strand, das blaue Meer, ein fantastischer Sonnenuntergang … Träumen Sie weiter … mit Calypso, dem entspannenden ___ mit großer Wirkung.",
+          "a": "Teegetränk",
+          "hint": "„entspannend … mit großer Wirkung“"
+        }
+      ],
+      "example": "A: Sie sind so klein, frech und süß. Doch sie haben gefährliche Feinde. Global-**Versicherung**: ein starker Partner mit großer Verantwortung. (Leider nicht für Mäuse.)"
+    },
+    {
+      "t": "ex",
+      "instruction": "Brainstorming. Ergänzen Sie die Endungen. Zu welchem Werbespot aus a (A oder B) passen die Assoziationen (1 oder 2)?",
+      "items": [
+        {
+          "q": "gefährlich___ Feinde",
+          "a": "e",
+          "hint": "PL1: Nom./Akk. Plural → -e"
+        },
+        {
+          "q": "groß___ Bild mit klein___ Maus und mit groß___ Vogel",
+          "a": [
+            "es",
+            "er",
+            "em"
+          ],
+          "hint": "Nom. neutral -es; Dativ fem. -er; Dativ mask. -em"
+        },
+        {
+          "q": "stark___ Partner",
+          "a": "er",
+          "hint": "SR2: maskulin Nom. → -er"
+        },
+        {
+          "q": "mit groß___ Verantwortung",
+          "a": "er",
+          "hint": "SR3: Dativ feminin → -er"
+        },
+        {
+          "q": "weiß___ Strand",
+          "a": "er",
+          "hint": "SR2: maskulin Nom. → -er"
+        },
+        {
+          "q": "blau___ Meer",
+          "a": "es",
+          "hint": "SR2: neutral Nom. → -es"
+        },
+        {
+          "q": "fantastisch___ Sonnenuntergang",
+          "a": "er",
+          "hint": "SR2: maskulin Nom. → -er"
+        },
+        {
+          "q": "schön___ Farbfoto",
+          "a": "es",
+          "hint": "SR2: neutral Nom. → -es"
+        },
+        {
+          "q": "entspannend___ Tee",
+          "a": "er",
+          "hint": "SR2: maskulin Nom. → -er"
+        },
+        {
+          "q": "mit groß___ Wirkung",
+          "a": "er",
+          "hint": "SR3: Dativ feminin → -er"
+        }
+      ],
+      "example": "kleine, frech**e**, süß**e** Maus"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Adjektivdeklination (3) nach Nullartikel**\n\n- **Singularregel 1 (SR1)\\*:** *kleine Maus*\n- **Singularregel 2 (SR2)\\*:** *weißer Strand, großes Bild*\n- **Pluralregel 1 (PL1):** *gefährliche Feinde*\n\n⚠ **Aber:**\n- **Singularregel 3 (SR3):** Dativ -em, -em, -er: *mit gefährlichem Vogel, mit großem Foto, mit kleiner Maus*\n\n\\* = Endungen wie Adjektive nach *ein-*"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Gruppenarbeit. Wählen Sie ein Produkt und machen Sie eine Brainstormingliste zu diesem Produkt wie in c. Die Adjektive und Nomen helfen Ihnen. Suchen Sie auch die Gegenteile.",
+      "md": "**Produkte:** Mineralwasser · Zahncreme · Handschuhe · Auto · Shampoo · Bettwäsche\n\n**Adjektive:** riesig · schnell · fleißig · fein · frisch · glücklich · müde · tief · wütend · blau · lang · lustig · neblig · sonnig · sauber · weit · ruhig · stark · durstig · mobil · …\n\n**Nomen:** Berg · Licht · Sommer · Zitrone · Zähne · Mund · Zahnbürste · Frau · Hand · Winter · Eis · Schnee · Stadt · Autobahn · Familie · Pferd · Haare · Dusche · Musik · Handtuch · Mond · Nacht · Stern · Schlafzimmer · Erholung · …\n\n*Beispiel:* Mineralwasser — hoher Berg, frisches Wasser, …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Lesen Sie den anderen Gruppen Ihre Brainstormingliste vor, nennen Sie aber nicht das Produkt. Die anderen sollen das Produkt erraten."
+    },
+    {
+      "t": "h",
+      "text": "GRAMMATIK"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Adjektivdeklination nach Nullartikel**\n\n| | Nominativ | Akkusativ | Dativ |\n|---|---|---|---|\n| **Singular maskulin** | weißer Pullover | weißen Pullover | weißem Pullover |\n| **Singular neutral** | weißes Hemd | weißes Hemd | weißem Hemd |\n| **Singular feminin** | weiße Bluse | weiße Bluse | weißer Bluse |\n| **Plural** | weiße Pullover | weiße Pullover | weißen Pullovern |\n\n**Regeln (3)** (vergl. Adjektivdeklination (1) / (2), Seite 124 / 140)\n\n| Regel | Beispiel | nach ein- |\n|---|---|---|\n| Hauptregel (HR): meistens -en | großen Vogel | einen großen Vogel |\n| Singularregel 1 (SR1): nach Nullartikel -e | kleine Maus | nach eine → -e: eine kleine Maus |\n| Singularregel 2 (SR2): nach Nullartikel -er, -es | weißer Strand, großes Bild | nach ein → -er, -es: ein weißer Strand, ein großes Bild |\n| Singularregel 3 (SR3): Dativ → nach Nullartikel -em / -em / -er | mit gefährlichem Vogel, mit großem Foto, mit kleiner Maus | |\n| Pluralregel 1 (PL1): Nom. und Akk. → nach Nullartikel -e | gefährliche Feinde | |"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Sätze mit *um … zu***\n\n| Handlung → | Ziel |\n|---|---|\n| Alexander hat sich von den meisten Gegenständen getrennt, | um nicht von ihnen „abhängig“ zu werden. |\n| Alexander hat sich von den meisten Gegenständen getrennt, | weil er nicht von ihnen „abhängig“ werden will. |\n\n**Nebensatz – Konjunktion *damit***\n\nIch habe einen Fernseher gekauft, **damit** ich meine Lieblingssendung sehen **kann**.\n\nIch habe einen Fernseher gekauft, **damit** meine Frau ihre Lieblingssendung sehen **kann**.\n\n- Wenn Subjekt 1 = Subjekt 2, dann auch *um … zu* möglich.\n- Wenn Subjekt 1 ≠ Subjekt 2, dann nur *damit* möglich."
+    },
+    {
+      "t": "note",
+      "label": "REDEMITTEL",
+      "md": "**über das eigene Konsumverhalten sprechen**\n- Ich brauche ein / kein eigenes Fahrrad / …\n- Brauchst du einen eigenen Computer / …?\n- Ja, einen eigenen Computer / … brauche ich unbedingt.\n- Brauchst du keinen eigenen Computer? — Doch, einen eigenen Computer / … brauche ich unbedingt.\n- Ich finde es wichtig / richtig / …, mich auf wichtige Dinge zu konzentrieren / …\n\n**über Pläne sprechen**\n- Ich mache eine Shoppingtour / …, um mich vom Bürostress zu erholen / …\n- Ich bringe unser Auto in die Werkstatt, damit die Bremsen repariert werden. / …\n\n**sich beschweren**\n- Das geht doch nicht!\n- Das hat mich sehr enttäuscht.\n- Ich erwarte, dass …\n- Ich muss mich leider bei Ihnen beschweren, weil …\n- Könnten Sie bitte …?\n\n**auf eine Beschwerde reagieren**\n- Ich kann verstehen, dass Sie sich ärgern.\n- Es tut mir schrecklich leid.\n- Beruhigen Sie sich doch bitte. Das ist wirklich sehr ärgerlich, aber …\n- Ich kümmere mich persönlich darum.\n- Ich kann leider nicht weiterhelfen. Wenden Sie sich bitte an …\n\n**über die eigene Zufriedenheit sprechen**\n- Ich bin zufrieden / unzufrieden / …\n- Ich habe … gekauft, aber … funktioniert nicht / ist kaputt gegangen.\n- … aber ein Teil fehlt."
+    },
+    {
+      "t": "h",
+      "text": "GRAMMATIK — Übungen"
+    },
+    {
+      "t": "ex",
+      "instruction": "Finalsätze: Ergänzen Sie um … zu oder die fehlenden Verben.",
+      "items": [
+        {
+          "q": "Ich brauche meine Shoppingtour, um mich vom Bürostress zu ___.",
+          "a": "erholen",
+          "hint": "sich erholen"
+        },
+        {
+          "q": "Frau König geht aufs Amt, um ein Visum zu ___.",
+          "a": "beantragen"
+        },
+        {
+          "q": "Ich mache ein paar Überstunden, ___ mein Konto wieder in Ordnung zu bringen.",
+          "a": "um"
+        },
+        {
+          "q": "Ich habe ein elektronisches Klavier gekauft, um mit Freunden Musik zu ___.",
+          "a": "machen"
+        }
+      ],
+      "example": "Von den meisten Gegenständen hat er sich getrennt, **um** nicht von ihnen abhängig **zu** werden."
+    },
+    {
+      "t": "ex",
+      "instruction": "Nebensatz mit damit: Ergänzen Sie.",
+      "items": [
+        {
+          "q": "Ich habe einen Fernseher gekauft, damit meine Frau ihre Lieblingsserie sehen ___.",
+          "a": "kann",
+          "hint": "Modalverb am Satzende"
+        },
+        {
+          "q": "Ich packe den Fernseher ein, ___ Sie das nicht selbst machen müssen.",
+          "a": "damit"
+        },
+        {
+          "q": "Wir kochen für Sie bis 24:00 Uhr, damit Sie nicht hungrig ins Bett ___ müssen.",
+          "a": "gehen"
+        }
+      ],
+      "example": "Wir bauen Straßen und Brücken, **damit** Sie schneller von A nach B kommen."
+    },
+    {
+      "t": "ex",
+      "instruction": "um … zu oder damit? Ergänzen Sie.",
+      "items": [
+        {
+          "q": "Ich habe einen Fernseher gekauft, ___ meine Frau wieder ihre Lieblingsserie sehen kann.",
+          "a": "damit",
+          "hint": "anderes Subjekt → nur damit"
+        },
+        {
+          "q": "Er sucht sich andere Beschäftigungen, ___ nicht mitgehen zu müssen.",
+          "a": "um",
+          "hint": "gleiches Subjekt"
+        },
+        {
+          "q": "Ich schicke Ihnen das Team, ___ Sie das nicht selbst machen müssen.",
+          "a": "damit",
+          "hint": "anderes Subjekt"
+        }
+      ],
+      "example": "Ich habe einen Fernseher gekauft, **um** wieder meine Lieblingsserie sehen zu können."
+    },
+    {
+      "t": "ex",
+      "instruction": "Adjektivdeklination nach Nullartikel: Nominativ. Ergänzen Sie die Endungen.",
+      "items": [
+        {
+          "q": "weiß___ Strand",
+          "a": "er",
+          "hint": "SR2: maskulin Nom. → -er"
+        },
+        {
+          "q": "ein groß___ Bild",
+          "a": "es",
+          "hint": "SR2: neutral Nom. → -es"
+        },
+        {
+          "q": "stark___ Partner",
+          "a": "er",
+          "hint": "maskulin Nom."
+        },
+        {
+          "q": "fantastisch___ Sonnenuntergang",
+          "a": "er",
+          "hint": "maskulin Nom."
+        }
+      ],
+      "example": "klein**e**, frech**e**, süß**e** Maus"
+    },
+    {
+      "t": "ex",
+      "instruction": "Adjektivdeklination nach Nullartikel: Plural & Dativ. Ergänzen Sie die Endungen.",
+      "items": [
+        {
+          "q": "mit gefährlich___ Vogel",
+          "a": "em",
+          "hint": "SR3: Dativ maskulin → -em"
+        },
+        {
+          "q": "mit groß___ Foto",
+          "a": "em",
+          "hint": "SR3: Dativ neutral → -em"
+        },
+        {
+          "q": "mit klein___ Maus",
+          "a": "er",
+          "hint": "SR3: Dativ feminin → -er"
+        },
+        {
+          "q": "mit groß___ Wirkung",
+          "a": "er",
+          "hint": "Dativ feminin"
+        }
+      ],
+      "example": "gefährlich**e** Feinde"
+    },
+    {
+      "t": "ex",
+      "instruction": "Wortschatz: Einkauf und Reklamation. Ergänzen Sie.",
+      "items": [
+        {
+          "q": "Zufriedene Kunden empfehlen ein Produkt weiter – das nennt man ___.",
+          "a": "Mundpropaganda"
+        },
+        {
+          "q": "Ich kaufe nicht gern ein, denn ich will nicht von Dingen ___ werden.",
+          "a": "abhängig"
+        },
+        {
+          "q": "Wer nicht wirbt, der ___.",
+          "a": "stirbt",
+          "hint": "sterben, Präsens"
+        }
+      ],
+      "example": "Mein neuer Fernseher funktioniert nicht. Da muss ich mich **beschweren**."
+    }
+  ]
+}

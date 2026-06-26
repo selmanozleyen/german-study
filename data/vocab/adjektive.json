@@ -1,0 +1,62 @@
+{
+  "title": "Adjektive",
+  "icon": "🎨",
+  "columns": [
+    "Adjektiv",
+    "Komparativ",
+    "Superlativ",
+    "Bedeutung",
+    "Thema",
+    "Niveau"
+  ],
+  "rows": [
+    [
+      "bekannt",
+      "bekannter",
+      "am bekanntesten",
+      "(well-)known",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "beliebt",
+      "beliebter",
+      "am beliebtesten",
+      "popular, well-liked",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "berühmt",
+      "berühmter",
+      "am berühmtesten",
+      "famous",
+      "Kunst & Kultur",
+      "B1"
+    ],
+    [
+      "gebraucht",
+      "gebrauchter",
+      "am gebrauchtesten",
+      "used, second-hand (gebrauchte Kleidung)",
+      "Konsum",
+      "B1"
+    ],
+    [
+      "tierlieb",
+      "tierlieber",
+      "am tierliebsten",
+      "fond of animals, animal-loving",
+      "Allgemein",
+      "B1"
+    ],
+    [
+      "öffentlich",
+      "öffentlicher",
+      "am öffentlichsten",
+      "public",
+      "Allgemein",
+      "B1"
+    ]
+  ]
+}

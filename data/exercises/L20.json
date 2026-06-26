@@ -1,0 +1,56 @@
+{
+  "id": "L20",
+  "title": "Was wäre, wenn …?",
+  "kursbuch": "Kursbuch S. 157–164",
+  "intro": "Wortbildung (Nomen), Nebensatz mit indem und Konjunktiv II – irreale Bedingungen.",
+  "sections": [
+    {
+      "heading": "Wortbildung: zusammengesetzte Nomen",
+      "items": [
+        { "prompt": "stumm + der Film = der ___", "answer": "Stummfilm", "hint": "Adjektiv + Nomen" },
+        { "prompt": "der Ton + der Film = der ___", "answer": "Tonfilm", "hint": "Nomen + Nomen" },
+        { "prompt": "der Film + die Aufführung = die ___", "answer": "Filmaufführung", "hint": "Nomen + Nomen" },
+        { "prompt": "die Geräusche + der Macher = der ___", "answer": "Geräuschemacher", "hint": "Nomen + Nomen, mit Fugen-e" },
+        { "prompt": "der Film + das Geräusch = das ___", "answer": "Filmgeräusch" }
+      ]
+    },
+    {
+      "heading": "Nebensatz mit indem",
+      "items": [
+        { "prompt": "Geräuschemacher produzieren Geräusche, ___ sie ganz einfache Werkzeuge verwenden.", "answer": "indem", "hint": "modal: Wie?" },
+        { "prompt": "Klavierspieler machten den Kinobesuch zu einem Hörerlebnis, indem sie die Filmaufführungen mit ihrer Musik ___.", "answer": "begleiteten", "hint": "begleiten, Präteritum" },
+        { "prompt": "Wie kommt man am schnellsten vom Flughafen in die Stadt? – Indem man die U-Bahn ___.", "answer": "nimmt", "hint": "nehmen, 3. Person Singular" },
+        { "prompt": "Wie ernährt man sich am besten gesund? – Indem man Obst und Gemüse ___.", "answer": "isst", "hint": "essen, 3. Person Singular" },
+        { "prompt": "Die Dorfbewohner stören Sattmanns Pläne, ___ sie bei der Veranstaltung auftauchen.", "answer": "indem" }
+      ]
+    },
+    {
+      "heading": "Konjunktiv II: würde-Form",
+      "items": [
+        { "prompt": "Was ___ du tun, wenn du einen Tag lang unsichtbar wärst?", "answer": "würdest", "hint": "werden im Konjunktiv II, du" },
+        { "prompt": "Wenn der Film besser wäre, ___ ich ihn ansehen.", "answer": "würde", "hint": "werden im Konjunktiv II, ich" },
+        { "prompt": "Wenn die Schauspieler besser wären, ___ der Film bessere Kritiken bekommen.", "answer": "würde", "hint": "werden im Konjunktiv II, er" },
+        { "prompt": "Wenn ich mich für Liebesfilme interessieren ___, würde ich „Rosen im September“ ansehen.", "answer": "würde" }
+      ]
+    },
+    {
+      "heading": "Konjunktiv II: besondere Verben (sein / haben / können)",
+      "items": [
+        { "prompt": "Wenn ich Anika ___, würde ich alles wieder in den Griff bekommen.", "answer": "wäre", "hint": "sein im Konjunktiv II, ich" },
+        { "prompt": "Wenn Jonas älter ___, hätte Marika mit ihrer Beziehung kein Problem.", "answer": "wäre", "hint": "sein im Konjunktiv II, er" },
+        { "prompt": "Wenn wir in Spanien ___, hätten wir besseres Wetter.", "answer": "wären", "hint": "sein im Konjunktiv II, wir" },
+        { "prompt": "Wenn wir Plätze in der ersten Reihe ___, hätte ich noch viel mehr Angst.", "answer": "hätten", "hint": "haben im Konjunktiv II, wir" },
+        { "prompt": "Es wäre cool, wenn das wirklich möglich ___.", "answer": "wäre" }
+      ]
+    },
+    {
+      "heading": "Irreale Bedingungen: ganze wenn-Sätze",
+      "items": [
+        { "prompt": "___ es heute regnen würde, hätte ich nichts dagegen.", "answer": "Wenn", "hint": "Konjunktion am Satzanfang" },
+        { "prompt": "Wenn die Schlafstörungen nicht ___, würde sich Mathias wieder gesund fühlen.", "answer": "wären", "hint": "sein im Konjunktiv II, sie/Plural" },
+        { "prompt": "Was würdest du tun, wenn du jeden Menschen auf der Welt heiraten ___?", "answer": "könntest", "hint": "können im Konjunktiv II, du" },
+        { "prompt": "Wenn ich mich für Science-Fiction interessieren ___, würde ich die Videos ganz gut finden.", "answer": "könnte", "hint": "können im Konjunktiv II, ich" }
+      ]
+    }
+  ]
+}

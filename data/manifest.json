@@ -1,0 +1,170 @@
+{
+  "notes": [
+    {
+      "slug": "welcher-kasus",
+      "title": "Welcher Kasus? – Nom/Akk/Dat/Gen",
+      "icon": "🧭",
+      "category": "Nomen & Kasus"
+    },
+    {
+      "slug": "adjektivdeklination",
+      "title": "Adjektivdeklination – alle Kasus",
+      "icon": "🎨",
+      "category": "Adjektive"
+    },
+    {
+      "slug": "reflexivpronomen",
+      "title": "Reflexivpronomen: Akkusativ vs. Dativ",
+      "icon": "🔁",
+      "category": "Pronomen"
+    },
+    {
+      "slug": "relativsaetze-mit-praeposition",
+      "title": "Relativsätze mit Präposition",
+      "icon": "🔗",
+      "category": "Pronomen"
+    },
+    {
+      "slug": "werden",
+      "title": "werden — alle Formen & Funktionen",
+      "icon": "🔄",
+      "category": "Verben"
+    },
+    {
+      "slug": "konditionalsaetze",
+      "title": "Konditionalsätze (wenn / falls / uneingeleitet)",
+      "icon": "🌦️",
+      "category": "Satzbau / Konnektoren"
+    },
+    {
+      "slug": "indirekte-fragen",
+      "title": "Indirekte Fragen (ob / W-Fragen)",
+      "icon": "❓",
+      "category": "Satzbau / Konnektoren"
+    },
+    {
+      "slug": "infinitivsaetze",
+      "title": "Infinitivsätze: statt … / ohne … / brauchen … zu",
+      "icon": "↪️",
+      "category": "Satzbau / Konnektoren"
+    },
+    {
+      "slug": "mehrteilige-konnektoren",
+      "title": "Mehrteilige Konnektoren (zweiteilige)",
+      "icon": "🔀",
+      "category": "Satzbau / Konnektoren"
+    },
+    {
+      "slug": "temporalsaetze-seit-bis",
+      "title": "Temporalsätze: seit / seitdem – bis",
+      "icon": "⏳",
+      "category": "Satzbau / Konnektoren"
+    }
+  ],
+  "vocab": [
+    {
+      "slug": "verben",
+      "title": "Verben",
+      "icon": "🔤",
+      "count": 80
+    },
+    {
+      "slug": "nomen",
+      "title": "Nomen",
+      "icon": "📦",
+      "count": 75
+    },
+    {
+      "slug": "adjektive",
+      "title": "Adjektive",
+      "icon": "🎨",
+      "count": 6
+    }
+  ],
+  "lessons": [
+    {
+      "id": "L19",
+      "title": "Wer war …?",
+      "kursbuch": "Kursbuch S. 149–156",
+      "items": 18,
+      "ready": true
+    },
+    {
+      "id": "L20",
+      "title": "Was wäre, wenn …?",
+      "kursbuch": "Kursbuch S. 157–164",
+      "items": 23,
+      "ready": true
+    },
+    {
+      "id": "L21",
+      "title": "Wozu brauchst du das?",
+      "kursbuch": "Kursbuch S. 165–172",
+      "items": 27,
+      "ready": true
+    },
+    {
+      "id": "L22",
+      "title": "Was könnte das sein?",
+      "kursbuch": "Kursbuch S. 173–180",
+      "items": 24,
+      "ready": true
+    },
+    {
+      "id": "L23",
+      "title": "Wohin geht die Reise?",
+      "kursbuch": "Kursbuch S. 181–188",
+      "items": 23,
+      "ready": true
+    },
+    {
+      "id": "L24",
+      "title": "Ist er wirklich schon so alt?",
+      "kursbuch": "Kursbuch S. 189–196",
+      "items": 23,
+      "ready": true
+    },
+    {
+      "id": "L25",
+      "title": "Von wem wurde … erfunden?",
+      "kursbuch": "Kursbuch S. 197–204",
+      "items": 26,
+      "ready": true
+    },
+    {
+      "id": "L26",
+      "title": "Wer war der Täter?",
+      "kursbuch": "Kursbuch S. 205–212",
+      "items": 27,
+      "ready": true
+    },
+    {
+      "id": "L27",
+      "title": "Was liest du da?",
+      "kursbuch": "Kursbuch S. 213–220",
+      "items": 23,
+      "ready": true
+    },
+    {
+      "id": "L28",
+      "title": "Hättest du anders gehandelt?",
+      "kursbuch": "Kursbuch S. 221–228",
+      "items": 26,
+      "ready": true
+    },
+    {
+      "id": "L29",
+      "title": "Wie wird die Zukunft werden?",
+      "kursbuch": "Kursbuch S. 229–236",
+      "items": 26,
+      "ready": true
+    },
+    {
+      "id": "L30",
+      "title": "Wie hast du das geschafft?",
+      "kursbuch": "Kursbuch S. 237–244",
+      "items": 26,
+      "ready": true
+    }
+  ]
+}

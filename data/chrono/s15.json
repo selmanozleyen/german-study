@@ -1,0 +1,37 @@
+{
+  "id": "s15",
+  "nr": 15,
+  "date": "18.6.",
+  "title": "Temporalsätze seit/bis & zweiteilige Konnektoren",
+  "kbLessons": [
+    "L25",
+    "L26",
+    "L27"
+  ],
+  "contentMd": "## Mitschrift 18.6.\n\n**Fragen:**\n1. Was hast du gemacht, **seit** du mit der Schule fertig bist?\n2. Was machst du, **bis** du das nächste Mal in den Urlaub fährst?\n\n### Temporalsätze: seit / seitdem – bis\n\n| Nebensatzkonnektoren | Hauptsatzkonnektoren | Präpositionen |\n|---|---|---|\n| seit/seitdem | seitdem | seit + Dat. |\n| bis | bis dann, bis dahin | bis + Akk. |\n| | | bis zu + Dat. |\n\n> seit, seitdem und bis als Nebensatzkonnektoren → Verb am Ende.\n\n### Zweiteilige Konnektoren\n- Ich kann **sowohl** Englisch **als auch** Deutsch sehr gut sprechen. *(+)*\n- Ich kann **nicht nur** Englisch, **sondern auch** Deutsch sehr gut sprechen. *(++)*\n- Bei uns werden **weder** Körperverletzungen **noch** Sachbeschädigungen von kleinen Kindern bestraft.\n\n**KB S. 207/A3:**\n- Ich finde, dass **nicht nur** Erwachsene, **sondern auch** Jugendliche streng bestraft werden müssen.\n- **Nicht nur** Erwachsene, **sondern auch** Jugendliche müssen streng bestraft werden.\n\n### Wortschatz (Kriminalität)\n- der Ventilator\n- die Klimaanlage\n- die Straftat, -en = das Verbrechen, -\n- der Betrug → betrügen\n- der Vandalismus\n- in ein Haus einbrechen\n\n**KB S. 213 – Sprechaufgabe:** Welche Kunstformen gefallen dir? Welche kulturellen Veranstaltungen besuchst du? Und warum?\n- Ich gehe gern ins Kino / ins Theater / in Museen …, weil ich gern Filme sehe.\n\n### Wortschatz (Kunst/Kultur)\n- bevorzugen\n- Fahrgeschäfte auf dem Oktoberfest\n- die Sicht\n- das Werk, -e\n- das Kunstwerk, -e\n\n## Mehrteilige (zweiteilige) Konnektoren – Info\n\n*(Quelle: Deutschkurse bei der Universität München, Stufe 3: B2.1, Grammatik)*\n\n- **entweder … oder** → das eine oder das andere, man muss sich entscheiden.\n  - *entweder* steht im HS an Position 0 oder 1 oder im Mittelfeld; *oder* immer an 0.\n  - **Entweder** wir gehen ins Kino **oder** wir bleiben zu Hause.\n  - Wir gehen **entweder** ins Kino **oder** wir bleiben zu Hause.\n- **nicht nur … sondern auch** → das eine ist zu wenig, es kommt noch etwas „extra“ dazu.\n  - *Nicht nur* steht normalerweise im Mittelfeld. *Sondern* steht im zweiten Satz immer an 0.\n  - Ich will **nicht nur** Bier trinken, **sondern** (ich will) **auch** Billard spielen.\n- **sowohl … als auch** → das eine und das andere.\n  - ⚠️ Mit „sowohl … als auch“ können wir nur **Satzteile** verknüpfen, keine Sätze!\n  - Wir können **sowohl** ins Kino **als auch** in die Kneipe gehen.\n- **weder … noch** → das eine nicht, das andere auch nicht.\n  - Ich will **weder** Bier trinken **noch** Billard spielen.\n- **zwar … aber** → Achtung, es gibt einen Gegensatz! Da kommt noch ein „aber“.\n  - **Zwar** kommen heute gute Filme, **aber** ich gehe (aber) trotzdem gern mit dir in die Kneipe.\n- **einerseits … andererseits** → zwei verschiedene Seiten, Aspekte.\n  - **Einerseits** hast du kein Geld, **andererseits** gehst du dauernd aus.\n\n## Temporalsätze „seit / seitdem – bis“ (Regel)\n\n*(Quelle: Deutschkurse bei der Universität München, Modul 3: B1, Lektion 25)*\n\n- Ich nehme an einem Sprachkurs teil. **Seitdem** hat sich mein Deutsch verbessert.\n- **Seit / Seitdem** ich an einem Sprachkurs teilnehme, hat sich mein Deutsch verbessert.\n- Ich beginne im Herbst mit meinem Studium. **Bis dahin / Bis dann** muss ich gut Deutsch können.\n- **Bis** ich im Herbst mit meinem Studium beginne, muss ich gut Deutsch können.\n\n> „seit“, „seitdem“ und „bis“ sind **Nebensatz-Konnektoren** (Verb am Ende).\n\n| Konnektor + NS | Adverb (Angabe) im 2. HS | Präposition |\n|---|---|---|\n| seit, seitdem | seit dieser Zeit, seitdem | seit |\n| bis | bis dahin / bis dann | bis (zu) |\n\n## Hausaufgaben (Arbeitsbuch)\n- S. 203/Rest\n- S. 204/4\n- S. 205 komplett\n- S. 211/Einstiegsseite und A1",
+  "exercises": [
+    {
+      "t": "transform",
+      "instruction": "Verbinde die zwei Sätze mit einem Nebensatz (seit / seitdem oder bis). Das Verb steht im Nebensatz am Ende.",
+      "example": "**Ich nehme an einem Sprachkurs teil. Seitdem hat sich mein Deutsch verbessert.**\n\n→ **Seit / Seitdem** ich an einem Sprachkurs teilnehme, hat sich mein Deutsch verbessert. *(oder:)* Mein Deutsch hat sich verbessert, **seit / seitdem** ich an einem Sprachkurs teilnehme.",
+      "items": [
+        {
+          "prompt": "Lukas hat im Sommer sein Studium abgeschlossen. Seitdem bewirbt er sich bei Firmen.",
+          "solution": "Seitdem Lukas im Sommer sein Studium abgeschlossen hat, bewirbt er sich bei Firmen. / Er bewirbt sich bei Firmen, seitdem er im Sommer sein Studium abgeschlossen hat."
+        },
+        {
+          "prompt": "Die Ergebnisse der Tests liegen nächste Woche vor. Bis dann muss Lukas auf eine Antwort des Personalchefs warten.",
+          "solution": "Bis die Ergebnisse der Tests nächste Woche vorliegen, muss Lukas auf eine Antwort des Personalchefs warten. / Lukas muss auf eine Antwort des Personalchefs warten, bis die Ergebnisse der Tests nächste Woche vorliegen."
+        },
+        {
+          "prompt": "Die Geigerin Anne-Sophie hatte ihren ersten Auftritt. Bis dahin hat sie sehr viel geübt.",
+          "solution": "Bis die Geigerin Anne-Sophie ihren ersten Auftritt hatte, hat sie sehr viel geübt. / Sie hat viel geübt, bis sie ihren ersten Auftritt hatte."
+        },
+        {
+          "prompt": "Der Schüler Carl Friedrich hatte eine schwierige Aufgabe gelöst. Seitdem hatte sein Lehrer großen Respekt vor ihm.",
+          "solution": "Seitdem der Schüler Carl Friedrich eine schwierige Aufgabe gelöst hatte, hatte sein Lehrer großen Respekt vor ihm. / Sein Lehrer hatte großen Respekt vor ihm, seitdem der Schüler Carl Friedrich eine schwierige Aufgabe gelöst hatte."
+        }
+      ]
+    }
+  ]
+}

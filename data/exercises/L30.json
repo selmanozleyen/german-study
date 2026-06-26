@@ -1,0 +1,64 @@
+{
+  "id": "L30",
+  "title": "Wie hast du das geschafft?",
+  "kursbuch": "Kursbuch S. 237–244",
+  "intro": "Relativsätze im Genitiv (dessen/deren), Nomen und Verben mit Präposition sowie trotz + Genitiv.",
+  "sections": [
+    {
+      "heading": "Relativsätze im Genitiv (dessen / deren)",
+      "items": [
+        { "prompt": "Christoph Kolumbus, ___ Reise nach Indien führen sollte, ist in Amerika gelandet.", "answer": "dessen", "hint": "die Reise des Entdeckers (maskulin)" },
+        { "prompt": "Johann Böttger, ___ Auftrag es war, Gold herzustellen, hat das Meißner Porzellan erfunden.", "answer": "dessen" },
+        { "prompt": "Ihr Chef, ___ Organisationstalent sie immer geschätzt hatten, hatte einfach Pech gehabt.", "answer": "dessen" },
+        { "prompt": "Ein paar Managementfehler, ___ Konsequenzen ungünstig waren, hätte man vermeiden können.", "answer": "deren", "hint": "Plural" },
+        { "prompt": "Die Firma, ___ Eigentümer Helmut Wolf war, wurde geschlossen.", "answer": "deren", "hint": "die Firma (feminin)" }
+      ]
+    },
+    {
+      "heading": "Relativpronomen im Genitiv (Formen)",
+      "items": [
+        { "prompt": "Das Kind, ___ Spielzeug da liegt, weint.", "answer": "dessen", "hint": "neutral" },
+        { "prompt": "Die Entdeckerin, ___ Reise nach Indien führen sollte, …", "answer": "deren", "hint": "feminin" },
+        { "prompt": "Die Kinder, ___ Spielzeug da liegt, spielen draußen.", "answer": "deren", "hint": "Plural" },
+        { "prompt": "Der Cartoon, ___ Hauptdarsteller Sie waren, ist zu Ende.", "answer": "dessen", "hint": "maskulin" }
+      ]
+    },
+    {
+      "heading": "Verben mit Präposition",
+      "items": [
+        { "prompt": "Ich habe Angst, dass die anderen Kunden sich ___ die längere Wartezeit beschweren.", "answer": "über", "hint": "sich beschweren über + Akk." },
+        { "prompt": "Wenn ich Tennis spiele, ärgere ich mich am meisten ___ meine eigenen Fehler.", "answer": "über", "hint": "sich ärgern über + Akk." },
+        { "prompt": "Ich werde so zornig, dass ich mich nicht ___ mein weiteres Spiel konzentrieren kann.", "answer": "auf", "hint": "sich konzentrieren auf + Akk." },
+        { "prompt": "Ich habe beobachtet, wie die anderen ___ meinen Fehler reagiert haben.", "answer": "auf", "hint": "reagieren auf + Akk." }
+      ]
+    },
+    {
+      "heading": "Nomen mit Präposition",
+      "items": [
+        { "prompt": "der Ärger ___ einen Fehler", "answer": "über", "hint": "+ Akk." },
+        { "prompt": "die Angst ___ Hunden", "answer": "vor", "hint": "+ Dat." },
+        { "prompt": "die Freude ___ den Urlaub", "answer": "auf", "hint": "+ Akk., etwas Zukünftiges" },
+        { "prompt": "die Beschwerde ___ die Wartezeit", "answer": "über", "hint": "+ Akk." },
+        { "prompt": "die Bewerbung ___ eine Stelle", "answer": "um", "hint": "+ Akk." }
+      ]
+    },
+    {
+      "heading": "Nomen / Verben mit darüber, … + Nebensatz",
+      "items": [
+        { "prompt": "Ich ärgere mich ___, dass ich Fehler gemacht habe.", "answer": "darüber" },
+        { "prompt": "Ich freue mich ___, dass meine Schwester morgen kommt.", "answer": "darauf", "hint": "etwas Zukünftiges" },
+        { "prompt": "Ich habe Angst ___, dass ich die Prüfung nicht schaffe.", "answer": "davor" },
+        { "prompt": "Die anderen Kunden beschweren sich ___, dass sie länger warten müssen.", "answer": "darüber" }
+      ]
+    },
+    {
+      "heading": "trotz + Genitiv",
+      "items": [
+        { "prompt": "___ ihrer Angst vor Hunden will Angelika Briefträgerin werden.", "answer": "Trotz" },
+        { "prompt": "Trotz ___ Sprachfehlers will Martin Schauspieler werden.", "answer": "seines", "hint": "maskulin Genitiv" },
+        { "prompt": "Trotz ___ guten Angebots hat er die Stelle nicht angenommen.", "answer": "des", "hint": "neutral Genitiv" },
+        { "prompt": "Trotz ___ langen Haare bekommt Robert den Job.", "answer": "seiner", "hint": "Plural Genitiv" }
+      ]
+    }
+  ]
+}

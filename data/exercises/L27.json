@@ -1,0 +1,61 @@
+{
+  "id": "L27",
+  "title": "Was liest du da?",
+  "kursbuch": "Kursbuch S. 213–220",
+  "intro": "Infinitivsätze mit statt/ohne zu, brauchen … zu, Reziprokpronomen mit -einander und die Konjunktionen falls, sobald und solange.",
+  "sections": [
+    {
+      "heading": "Infinitivsätze: statt … zu",
+      "items": [
+        { "prompt": "___ eigene Motive zu malen, kopieren die Brüder Posin berühmte Meisterwerke.", "answer": "Statt", "hint": "Alternative: nicht das eine, sondern das andere" },
+        { "prompt": "Künstler arbeiten oft zu Hause, statt jeden Tag ins Büro ___.", "answer": "zu fahren", "hint": "fahren mit zu" },
+        { "prompt": "Statt CDs und DVDs zu ___, kann man digitale Daten heute relativ problemlos kopieren.", "answer": "kaufen", "hint": "Infinitiv" },
+        { "prompt": "Ich gehe lieber ins Theater, ___ selbst Theater zu spielen.", "answer": "statt" }
+      ]
+    },
+    {
+      "heading": "Infinitivsätze: ohne … zu",
+      "items": [
+        { "prompt": "Vincent van Gogh malte seine Meisterwerke, ___ an eine Sozialversicherung zu denken.", "answer": "ohne" },
+        { "prompt": "Oft untersuchen Fachleute ihre Kopien, ohne sofort die Unterschiede zu den Originalen zu ___.", "answer": "erkennen", "hint": "Infinitiv" },
+        { "prompt": "Herr Beck geht ins Theater, ohne einen Anzug und eine Krawatte zu ___.", "answer": "tragen" },
+        { "prompt": "Mehr als die Hälfte der Künstler kann sich ihr Künstlerdasein nicht leisten, ___ nebenbei in einem Zweitjob zu arbeiten.", "answer": "ohne" }
+      ]
+    },
+    {
+      "heading": "brauchen … zu",
+      "items": [
+        { "prompt": "Kunstliebhaber ___ ihren van Gogh nicht teuer auf dem Kunstmarkt zu kaufen.", "answer": "brauchen", "hint": "= nicht müssen" },
+        { "prompt": "Man braucht digitale Daten heute bloß zu ___.", "answer": "kopieren" },
+        { "prompt": "Wenn Herr Beck ein sauberes Hemd trägt, braucht er keinen Anzug zu ___.", "answer": "tragen" },
+        { "prompt": "Sie brauchen die Bilder nicht selbst zu malen; sie ___ sie bloß zu bestellen.", "answer": "brauchen" }
+      ]
+    },
+    {
+      "heading": "Reziprokpronomen mit -einander",
+      "items": [
+        { "prompt": "A kocht für B und B kocht für A. Sie kochen ___.", "answer": "füreinander" },
+        { "prompt": "A lebt mit B und B lebt mit A. Sie leben ___.", "answer": "miteinander" },
+        { "prompt": "Sie kaufen ___ Geschenke (A kauft B ein Geschenk und B kauft A ein Geschenk).", "answer": "einander" },
+        { "prompt": "Nach der Trennung ziehen sie wieder ___.", "answer": "auseinander", "hint": "weg voneinander" }
+      ]
+    },
+    {
+      "heading": "Konjunktion falls (Bedingung)",
+      "items": [
+        { "prompt": "___ du mit Mona zur Ausstellung gehst, solltest du dir viel Zeit nehmen.", "answer": "Falls|Wenn", "hint": "= wenn" },
+        { "prompt": "Falls man das Bild kaufen ___, können solche Fragen nützlich sein.", "answer": "will", "hint": "wollen, Verb am Satzende" },
+        { "prompt": "___ du mit Mona zur Ausstellung gehst, solltest du dir viel Zeit nehmen. (ohne falls/wenn)", "answer": "Gehst", "hint": "uneingeleiteter Bedingungssatz: Verb zuerst" }
+      ]
+    },
+    {
+      "heading": "Konjunktionen sobald / solange (temporal)",
+      "items": [
+        { "prompt": "___ ich lesen konnte, war ich glücklich. (danach, sofort)", "answer": "Sobald", "hint": "ein Ereignis, danach beginnt etwas" },
+        { "prompt": "___ ich an dem Bild male, darf mich niemand stören. (während der ganzen Zeit)", "answer": "Solange", "hint": "Dauer / während der Zeit" },
+        { "prompt": "___ wir die ersten Buchstaben gelernt hatten, habe ich sie in meinen Bilderbüchern unterstrichen.", "answer": "Sobald" },
+        { "prompt": "___ ich etwas zu lesen hatte, war ich glücklich.", "answer": "Solange" }
+      ]
+    }
+  ]
+}

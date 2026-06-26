@@ -1,0 +1,65 @@
+{
+  "id": "L21",
+  "title": "Wozu brauchst du das?",
+  "kursbuch": "Kursbuch S. 165–172",
+  "intro": "Sätze mit um … zu …, Nebensatz mit damit und Adjektivdeklination nach Nullartikel.",
+  "sections": [
+    {
+      "heading": "Finalsätze mit um … zu …",
+      "items": [
+        { "prompt": "Von den meisten Gegenständen hat er sich getrennt, ___ nicht von ihnen abhängig ___ werden.", "answer": ["um", "zu"], "hint": "Zweiteilige Konstruktion: um + Infinitiv + zu" },
+        { "prompt": "Ich brauche meine Shoppingtour, um mich vom Bürostress zu ___.", "answer": "erholen", "hint": "sich erholen" },
+        { "prompt": "Frau König geht aufs Amt, um ein Visum zu ___.", "answer": "beantragen" },
+        { "prompt": "Ich mache ein paar Überstunden, ___ mein Konto wieder in Ordnung zu bringen.", "answer": "um" },
+        { "prompt": "Ich habe ein elektronisches Klavier gekauft, um mit Freunden Musik zu ___.", "answer": "machen" }
+      ]
+    },
+    {
+      "heading": "Nebensatz mit damit",
+      "items": [
+        { "prompt": "Wir bauen Straßen und Brücken, ___ Sie schneller von A nach B kommen.", "answer": "damit", "hint": "verschiedene Subjekte → damit" },
+        { "prompt": "Ich habe einen Fernseher gekauft, damit meine Frau ihre Lieblingsserie sehen ___.", "answer": "kann", "hint": "Modalverb am Satzende" },
+        { "prompt": "Ich packe den Fernseher ein, ___ Sie das nicht selbst machen müssen.", "answer": "damit" },
+        { "prompt": "Wir kochen für Sie bis 24:00 Uhr, damit Sie nicht hungrig ins Bett ___ müssen.", "answer": "gehen" }
+      ]
+    },
+    {
+      "heading": "um … zu oder damit?",
+      "items": [
+        { "prompt": "Ich habe einen Fernseher gekauft, ___ wieder meine Lieblingsserie sehen zu können.", "answer": "um", "hint": "gleiches Subjekt, Infinitiv mit zu" },
+        { "prompt": "Ich habe einen Fernseher gekauft, ___ meine Frau wieder ihre Lieblingsserie sehen kann.", "answer": "damit", "hint": "anderes Subjekt → nur damit" },
+        { "prompt": "Er sucht sich andere Beschäftigungen, ___ nicht mitgehen zu müssen.", "answer": "um", "hint": "gleiches Subjekt" },
+        { "prompt": "Ich schicke Ihnen das Team, ___ Sie das nicht selbst machen müssen.", "answer": "damit", "hint": "anderes Subjekt" }
+      ]
+    },
+    {
+      "heading": "Adjektivdeklination nach Nullartikel: Nominativ",
+      "items": [
+        { "prompt": "ein____ frech____, süß____ Maus", "answer": ["e", "e", "e"], "hint": "SR1: feminin Nom. → -e" },
+        { "prompt": "weiß____ Strand", "answer": "er", "hint": "SR2: maskulin Nom. → -er" },
+        { "prompt": "ein groß____ Bild", "answer": "es", "hint": "SR2: neutral Nom. → -es" },
+        { "prompt": "stark____ Partner", "answer": "er", "hint": "maskulin Nom." },
+        { "prompt": "fantastisch____ Sonnenuntergang", "answer": "er", "hint": "maskulin Nom." }
+      ]
+    },
+    {
+      "heading": "Adjektivdeklination nach Nullartikel: Plural & Dativ",
+      "items": [
+        { "prompt": "gefährlich____ Feinde", "answer": "e", "hint": "PL1: Nom./Akk. Plural → -e" },
+        { "prompt": "mit gefährlich____ Vogel", "answer": "em", "hint": "SR3: Dativ maskulin → -em" },
+        { "prompt": "mit groß____ Foto", "answer": "em", "hint": "SR3: Dativ neutral → -em" },
+        { "prompt": "mit klein____ Maus", "answer": "er", "hint": "SR3: Dativ feminin → -er" },
+        { "prompt": "mit groß____ Wirkung", "answer": "er", "hint": "Dativ feminin" }
+      ]
+    },
+    {
+      "heading": "Wortschatz: Einkauf und Reklamation",
+      "items": [
+        { "prompt": "Mein neuer Fernseher funktioniert nicht. Da muss ich mich ___.", "answer": "beschweren", "hint": "sich beschweren" },
+        { "prompt": "Zufriedene Kunden empfehlen ein Produkt weiter – das nennt man ___.", "answer": "Mundpropaganda" },
+        { "prompt": "Ich kaufe nicht gern ein, denn ich will nicht von Dingen ___ werden.", "answer": "abhängig" },
+        { "prompt": "Wer nicht wirbt, der ___.", "answer": "stirbt", "hint": "sterben, Präsens" }
+      ]
+    }
+  ]
+}

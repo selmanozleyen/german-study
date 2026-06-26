@@ -1,0 +1,51 @@
+{
+  "id": "L19",
+  "title": "Wer war …?",
+  "kursbuch": "Kursbuch S. 149–156",
+  "intro": "Plusquamperfekt, nachdem, als / (immer) wenn und Wortbildung -los.",
+  "sections": [
+    {
+      "heading": "Nebensätze mit als / (immer) wenn",
+      "items": [
+        { "prompt": "___ heute Morgen der Wecker geklingelt hat, habe ich weitergeschlafen.", "answer": "Als", "hint": "einmaliges Ereignis in der Vergangenheit" },
+        { "prompt": "(Immer) ___ ich laufen gehen will, denke ich an Waltraud.", "answer": "wenn", "hint": "wiederholte Handlung" },
+        { "prompt": "___ ich ein Kind war, hatte ich viele Vorbilder.", "answer": "Als", "hint": "ein Zeitraum / Zustand in der Vergangenheit" },
+        { "prompt": "___ ich an meine Tante denke, möchte ich sofort Sport machen.", "answer": "Wenn|Immer wenn", "hint": "Gegenwart, wiederholt" }
+      ]
+    },
+    {
+      "heading": "Plusquamperfekt",
+      "items": [
+        { "prompt": "Nachdem ich den Film gesehen ___, war mein Berufswunsch klar.", "answer": "hatte", "hint": "haben im Präteritum" },
+        { "prompt": "Klara war schon öfter im Ausland ___.", "answer": "gewesen", "hint": "Partizip II von sein" },
+        { "prompt": "Es war ihm ___, seine Berufsausbildung abzuschließen.", "answer": "gelungen", "hint": "Partizip II von gelingen" },
+        { "prompt": "Wir hatten nur an unsere Karriere ___.", "answer": "gedacht", "hint": "Partizip II von denken" }
+      ]
+    },
+    {
+      "heading": "Nebensatz mit nachdem",
+      "items": [
+        { "prompt": "___ wir vom Land in die Stadt gezogen waren, mussten wir unseren Hund weggeben.", "answer": "Nachdem" },
+        { "prompt": "Nachdem meine Freundin mir von England erzählt ___, wollte ich auch dorthin.", "answer": "hatte", "hint": "Plusquamperfekt mit haben" },
+        { "prompt": "Nachdem sie mit neun Jahren ihre ersten Auftritte gehabt ___, wurde sie berühmt.", "answer": "hatte" }
+      ]
+    },
+    {
+      "heading": "Wortbildung: Adjektive mit -los",
+      "items": [
+        { "prompt": "ohne Arbeit = ___", "answer": "arbeitslos" },
+        { "prompt": "ohne Kinder = ___", "answer": "kinderlos" },
+        { "prompt": "ohne Bargeld = ___", "answer": "bargeldlos" },
+        { "prompt": "ohne Erfolg = ___", "answer": "erfolglos" }
+      ]
+    },
+    {
+      "heading": "Biografien: Perfekt / Präteritum",
+      "items": [
+        { "prompt": "Albert Einstein ___ 1879 in Ulm geboren.", "answer": "wurde", "hint": "Passiv Präteritum von werden" },
+        { "prompt": "Marlene Dietrich ___ 1992 in Paris.", "answer": "starb", "hint": "sterben, Präteritum" },
+        { "prompt": "Sie ___ die Kindheit und Jugend in Berlin.", "answer": "verbrachte", "hint": "verbringen, Präteritum" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "L22",
+  "title": "Was könnte das sein?",
+  "kursbuch": "Kursbuch S. 173–180",
+  "intro": "Passiv mit Modalverb, Konjunktiv II für Vermutungen, sollen, Adjektive mit -lich und Grafiken erklären.",
+  "sections": [
+    {
+      "heading": "Passiv Präsens",
+      "items": [
+        { "prompt": "Aus dem Rücken eines Rindes ___ einige Zellen genommen.", "answer": "werden", "hint": "Passiv Präsens, Plural" },
+        { "prompt": "Trotzdem ___ Rindfleisch produziert.", "answer": "wird", "hint": "Passiv Präsens, Singular" },
+        { "prompt": "Die Konsumenten ___ manchmal getäuscht.", "answer": "werden" },
+        { "prompt": "Der Kunstkäse ___ nicht aus Milch hergestellt.", "answer": "wird" }
+      ]
+    },
+    {
+      "heading": "Passiv mit Modalverb",
+      "items": [
+        { "prompt": "Auf Grillpartys kann das Fleisch wie ein Hamburger gebraten ___.", "answer": "werden", "hint": "Satzende: werden" },
+        { "prompt": "Kein Tier muss getötet ___.", "answer": "werden" },
+        { "prompt": "Die Konsumenten dürfen nicht getäuscht ___.", "answer": "werden" },
+        { "prompt": "Das Grillfleisch muss vor der Party ___ ___.", "answer": ["bestellt", "werden"], "hint": "bestellen → Partizip II + werden" },
+        { "prompt": "Die Gartenmöbel müssen nach der Party ___ ___.", "answer": ["weggeräumt", "werden"], "hint": "wegräumen → Partizip II + werden" }
+      ]
+    },
+    {
+      "heading": "Konjunktiv II – Vermutungen",
+      "items": [
+        { "prompt": "Der Computer ___ bei der Präsentation nicht funktionieren.", "answer": "könnte", "hint": "Vermutung: Es wäre möglich, dass …" },
+        { "prompt": "Im Schwimmbad ___ sie ins Wasser fallen.", "answer": "könnte" },
+        { "prompt": "Das ___ ein Bekannter sein.", "answer": "dürfte", "hint": "Es ist wahrscheinlich (++)" },
+        { "prompt": "Sie ___ doch jetzt in Amsterdam sein.", "answer": "müsste", "hint": "Es ist ziemlich sicher (+++)" }
+      ]
+    },
+    {
+      "heading": "sollen – Hörensagen",
+      "items": [
+        { "prompt": "Elsas Bruder ___ Popsänger sein. (= Das habe ich gehört.)", "answer": "soll" },
+        { "prompt": "Elsa ___ einen Bruder in München haben, habe ich gehört.", "answer": "soll" },
+        { "prompt": "Sie ___ angeblich gar nicht auf der Konferenz gewesen sein.", "answer": "soll", "hint": "Information ohne Garantie" }
+      ]
+    },
+    {
+      "heading": "Adjektive mit -lich",
+      "items": [
+        { "prompt": "die Wissenschaft → ___", "answer": "wissenschaftlich" },
+        { "prompt": "die Kunst → ___", "answer": "künstlich" },
+        { "prompt": "Jahrzehntelang haben ___ Wissenschaftler an dem Fleisch geforscht.", "answer": "wissenschaftliche", "hint": "Adjektivendung" },
+        { "prompt": "Viele Menschen mögen keine ___ Lebensmittel aus dem Labor.", "answer": "künstlichen", "hint": "im Labor gemacht" }
+      ]
+    },
+    {
+      "heading": "Grafiken und Statistik erklären",
+      "items": [
+        { "prompt": "Die Grafik ___ das Ergebnis des Mathematiktests.", "answer": "zeigt" },
+        { "prompt": "Die Zahl der guten Noten ist ___.", "answer": "gestiegen", "hint": "↑, Gegenteil von gesunken" },
+        { "prompt": "Die Zahl der schlechten Noten hat ___.", "answer": "zugenommen", "hint": "↑, Gegenteil von abgenommen" },
+        { "prompt": "Der Notendurchschnitt hat sich ___.", "answer": "verändert", "hint": "Gegenteil von gleich geblieben" }
+      ]
+    }
+  ]
+}

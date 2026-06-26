@@ -1,0 +1,416 @@
+{
+  "lectures": [
+    {
+      "id": "s17",
+      "nr": 17,
+      "date": "25.6.",
+      "title": "Indirekte Fragen, „wenn\" & Konditionalsätze",
+      "kbLessons": [
+        "L27"
+      ],
+      "contentMd": "## Mitschrift 25.6.\n\n**Sprechaufgabe:** Was möchtest du machen, statt zu arbeiten / zu studieren?\n- Ich würde gern …, statt zu arbeiten / zu studieren.\n\n### Reflexive Verben – Dativ vs. Akkusativ\n- sich (Dat.) Luft zufächern — der Fächer\n- sich die Hände waschen: Ich wasche **mir** (Dat.) **die Hände** (Akk.). = Ich wasche meine Hände.\n- sich waschen: Ich wasche **mich** (Akk.).\n\n> Regel: Gibt es ein zweites Objekt (Akkusativ, z. B. *die Hände*), steht das Reflexivpronomen im **Dativ** (*mir*). Ohne weiteres Objekt steht es im **Akkusativ** (*mich*).\n\n### Wortschatz: Geld sparen / Geld ausgeben\n\n*Geld sparen:*\n- selbst kochen\n- Fahrrad fahren, statt Auto zu fahren\n- gebrauchte Kleidung = Second-Hand-Kleidung\n- Angebote kaufen\n- mit anderen Leuten wohnen\n- arbeiten\n- Geld anlegen (ein Sparkonto eröffnen, Aktien = Wertpapiere …)\n\n*Geld ausgeben:*\n- Urlaub machen\n- immer draußen essen\n- teure Kleidung kaufen\n- Kosmetik kaufen\n- Lebensmittel online einkaufen\n- fliegen\n- weniger arbeiten\n- ein Auto kaufen\n- im Casino zocken\n- einen Kredit aufnehmen\n\n*Kredit:*\n- der Zins, Pl.: die Zinsen\n- eine Rate\n\n### Grammatik: indirekte Fragen + „wenn\"\n\n*„ob\" (indirekte Ja/Nein-Frage):*\n- Ja-Nein-Frage: Hast du schon gegessen?\n- Indirekt: Ich möchte gern wissen, **ob** du schon gegessen hast.\n\n*„wenn\" – temporal vs. konditional:*\n- Temporal: **Wenn** ich morgens zur Schule gegangen bin, habe ich immer meine Freunde getroffen. / **Wenn** wir uns morgen sehen, zeige ich dir meine Urlaubsfotos.\n- Konditional: **Wenn** das Wetter morgen schön ist, gehen wir zum See. / **Wenn** ich viel Geld hätte, würde ich eine Weltreise machen.\n\n*Indirekte Frage mit „wann\":*\n- Direkt: Wann fährt der Zug morgen ab?\n- Indirekt: Ich will wissen, **wann** der Zug morgen abfährt.\n\n### Wortschatz: Politik und Geschichte\n- der Frieden ↔ der Krieg\n- die Regierung\n- der Bundeskanzler / die Bundeskanzlerin\n- der Bürgermeister / die Bürgermeisterin\n- gegen Korruption kämpfen\n- Grünflächen anlegen\n- die Inflation\n- die Geschichte\n- wiedervereinigen → die Wiedervereinigung\n- die Besatzung\n- fallen – fiel – ist gefallen → der Fall der Mauer („Die Mauer fiel.\")\n- die Verwaltung / verwalten\n- Film: „Das Leben der anderen\"\n\n### Hausaufgaben (Arbeitsbuch)\n- S. 214/2\n- S. 215/7+8\n- S. 219/Einstiegsseite + A1\n- S. 220/1\n\n## Konditionalsätze\n\n*(Quelle: deutschkurse bei der Universität München, Modul 3: B1, Lektion 27)*\n\nDrei Formen, gleiche Bedeutung (Bedingung → Folge):\n- **Wenn** du die Ausstellung besuchen möchtest, (dann) kannst du das Ticket online buchen.\n- **Falls** du die Ausstellung besuchen möchtest, (dann) kannst du das Ticket online buchen.\n- **Möchtest** du die Ausstellung besuchen, (dann) kannst du das Ticket online buchen. *(uneingeleitet – Verb zuerst)*\n\n| Einleitung | Struktur |\n|---|---|\n| wenn + NS | Verb am Ende, (dann) + Verb + Subjekt |\n| falls + NS | Verb am Ende, (dann) + Verb + Subjekt |\n| uneingeleitet | Verb + Subjekt …, (dann) + Verb + Subjekt |",
+      "exercises": [
+        {
+          "t": "transform",
+          "instruction": "Bilde aus den zwei Sätzen Konditionalsätze in allen drei Formen: mit „wenn“, mit „falls“ und uneingeleitet (Verb zuerst).",
+          "example": "**Interessierst du dich für Kunst? Wir können zusammen ins Museum gehen.**\n\n- **Wenn** du dich für Kunst interessierst, (dann) können wir zusammen ins Museum gehen.\n- **Falls** du dich für Kunst interessierst, (dann) können wir zusammen ins Museum gehen.\n- **Interessierst** du dich für Kunst, dann können wir zusammen ins Museum gehen.",
+          "items": [
+            {
+              "prompt": "Hörst du gerne klassische Musik? Du solltest dir dieses Konzert anhören.",
+              "solution": "Wenn du gerne klassische Musik hörst, dann solltest du dir dieses Konzert anhören. / Falls du gerne klassische Musik hörst, dann solltest du dir dieses Konzert anhören. / Hörst du gerne klassische Musik, dann solltest du dir dieses Konzert anhören."
+            },
+            {
+              "prompt": "Siehst du oft Serien? Ich empfehle dir diesen Streaming-Dienst.",
+              "solution": "Wenn du oft Serien siehst, empfehle ich dir diesen Streaming-Dienst. / Falls du oft Serien siehst, empfehle ich dir diesen Streaming-Dienst. / Siehst du oft Serien, dann empfehle ich dir diesen Streaming-Dienst."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "nr": 16,
+      "date": "23.6.",
+      "title": "Infinitivsätze (statt/ohne … zu) & brauchen + nicht … zu",
+      "kbLessons": [
+        "L27"
+      ],
+      "contentMd": "## Mitschrift 23.6.\n\n**Sprechaufgabe:** Denkt ihr, der Eintritt in Museen sollte kostenlos sein?\n\n- Ich denke, dass Museen nicht kostenlos sein müssen, weil Leute dort arbeiten.\n- Ich denke, Museen müssen nicht kostenlos sein, weil …\n\n### Meinung äußern\n\n- *meiner Meinung nach* (+ Inversion): Meiner Meinung nach **sollten** Museen nicht kostenlos sein.\n- Meine Meinung ist, dass Museen kostenlos sein sollten.\n\n### müssen nicht ≠ dürfen nicht\n\n- You must not drink this water. → Du **darfst** dieses Wasser **nicht** trinken. (Verbot)\n- (vgl. „muss nicht\" = es ist nicht nötig)\n\n### Wortschatz\n\n- die Instandhaltung\n- öffentlich\n- beliebt\n- bekannt\n- berühmt\n- tierlieb\n- ausgeben\n- ohne\n- ein Hundertstel\n- fordern = verlangen\n- fördern = (staatlich) unterstützen, helfen\n- die Spesen (nur Plural)\n- das Künstlerdasein = die Künstlerexistenz\n- die Übersetzung, -en\n\n### Grammatik: Infinitivsätze mit „statt … zu\" und „ohne … zu\"\n\n- Ich esse zum Frühstück eine Semmel mit Käse, **statt** Müsli zu essen.\n- Ich esse zum Frühstück eine Semmel mit Käse, **ohne** Kaffee zu trinken.\n\n### Grammatik: „brauchen + nicht/kein … zu\" (= es ist nicht notwendig)\n\n- Vater: Du **brauchst** heute **nicht** die Hausaufgaben **zu machen**, weil du heute krank bist.\n- Mutter: Außerdem **brauchst** du heute **nicht** im Haushalt **zu helfen**.\n- ➔ Es ist nicht notwendig.\n\n### KB S. 215/A2 a (statt … zu)\n\n1. Künstler arbeiten oft zu Hause, statt jeden Tag ins Büro zu fahren.\n2. Künstler arbeiten oft in der Nacht, statt um 16 Uhr Feierabend zu haben.\n3. Künstler leben meistens ohne regelmäßiges Gehalt, statt jeden Monat Geld zu bekommen.\n4. Künstler arbeiten selbstständig, statt die Aufträge einer Chefin oder eines Chefs zu erfüllen.\n5. Künstler machen Kunst, statt Kunst zu konsumieren.\n\n### KB S. 215/A3 a (ohne … zu)\n\n2. Herr Berger holt im Theater seinen Mantel, ohne der Garderobenfrau Trinkgeld zu geben.\n3. Frau Lechner schimpft auf moderne Kunst, ohne moderne Kunstwerke zu kennen.\n4. Sabrina veröffentlicht die Gedichte ihres Bruders im Internet, ohne ihren Bruder um Erlaubnis zu fragen.\n5. Herr Holzer fordert seine Cousine zum Tanzen auf, ohne tanzen zu können.\n6. Michaela wechselt in der Konzertpause vom Stehplatz auf einen Sitzplatz, ohne eine teurere Karte zu kaufen.\n\n### KB S. 215/A3 b (brauchen + nicht/kein … zu)\n\n2. Wenn Herr Berger im Theater seinen Mantel holt, braucht er der Garderobenfrau kein Trinkgeld zu geben.\n3. Wenn Frau Lechner auf moderne Kunst schimpft, braucht sie keine modernen Kunstwerke zu kennen.\n4. Wenn Sabrina die Gedichte ihres Bruders im Internet veröffentlicht, braucht sie ihren Bruder nicht um Erlaubnis zu fragen.\n5. Wenn Herr Holzer seine Cousine zum Tanzen auffordert, braucht er nicht tanzen zu können.\n\n> Sprechaufgabe (zum Schluss): Wie verändert sich die Kunstwelt durch KI?\n\n### Hausaufgaben (Arbeitsbuch)\n\n- S. 211/Rest\n- S. 212/1, 2+3\n- S. 213/5+7\n",
+      "exercises": []
+    },
+    {
+      "id": "s15",
+      "nr": 15,
+      "date": "18.6.",
+      "title": "Temporalsätze seit/bis & zweiteilige Konnektoren",
+      "kbLessons": [
+        "L25",
+        "L26",
+        "L27"
+      ],
+      "contentMd": "## Mitschrift 18.6.\n\n**Fragen:**\n1. Was hast du gemacht, **seit** du mit der Schule fertig bist?\n2. Was machst du, **bis** du das nächste Mal in den Urlaub fährst?\n\n### Temporalsätze: seit / seitdem – bis\n\n| Nebensatzkonnektoren | Hauptsatzkonnektoren | Präpositionen |\n|---|---|---|\n| seit/seitdem | seitdem | seit + Dat. |\n| bis | bis dann, bis dahin | bis + Akk. |\n| | | bis zu + Dat. |\n\n> seit, seitdem und bis als Nebensatzkonnektoren → Verb am Ende.\n\n### Zweiteilige Konnektoren\n- Ich kann **sowohl** Englisch **als auch** Deutsch sehr gut sprechen. *(+)*\n- Ich kann **nicht nur** Englisch, **sondern auch** Deutsch sehr gut sprechen. *(++)*\n- Bei uns werden **weder** Körperverletzungen **noch** Sachbeschädigungen von kleinen Kindern bestraft.\n\n**KB S. 207/A3:**\n- Ich finde, dass **nicht nur** Erwachsene, **sondern auch** Jugendliche streng bestraft werden müssen.\n- **Nicht nur** Erwachsene, **sondern auch** Jugendliche müssen streng bestraft werden.\n\n### Wortschatz (Kriminalität)\n- der Ventilator\n- die Klimaanlage\n- die Straftat, -en = das Verbrechen, -\n- der Betrug → betrügen\n- der Vandalismus\n- in ein Haus einbrechen\n\n**KB S. 213 – Sprechaufgabe:** Welche Kunstformen gefallen dir? Welche kulturellen Veranstaltungen besuchst du? Und warum?\n- Ich gehe gern ins Kino / ins Theater / in Museen …, weil ich gern Filme sehe.\n\n### Wortschatz (Kunst/Kultur)\n- bevorzugen\n- Fahrgeschäfte auf dem Oktoberfest\n- die Sicht\n- das Werk, -e\n- das Kunstwerk, -e\n\n## Mehrteilige (zweiteilige) Konnektoren – Info\n\n*(Quelle: Deutschkurse bei der Universität München, Stufe 3: B2.1, Grammatik)*\n\n- **entweder … oder** → das eine oder das andere, man muss sich entscheiden.\n  - *entweder* steht im HS an Position 0 oder 1 oder im Mittelfeld; *oder* immer an 0.\n  - **Entweder** wir gehen ins Kino **oder** wir bleiben zu Hause.\n  - Wir gehen **entweder** ins Kino **oder** wir bleiben zu Hause.\n- **nicht nur … sondern auch** → das eine ist zu wenig, es kommt noch etwas „extra“ dazu.\n  - *Nicht nur* steht normalerweise im Mittelfeld. *Sondern* steht im zweiten Satz immer an 0.\n  - Ich will **nicht nur** Bier trinken, **sondern** (ich will) **auch** Billard spielen.\n- **sowohl … als auch** → das eine und das andere.\n  - ⚠️ Mit „sowohl … als auch“ können wir nur **Satzteile** verknüpfen, keine Sätze!\n  - Wir können **sowohl** ins Kino **als auch** in die Kneipe gehen.\n- **weder … noch** → das eine nicht, das andere auch nicht.\n  - Ich will **weder** Bier trinken **noch** Billard spielen.\n- **zwar … aber** → Achtung, es gibt einen Gegensatz! Da kommt noch ein „aber“.\n  - **Zwar** kommen heute gute Filme, **aber** ich gehe (aber) trotzdem gern mit dir in die Kneipe.\n- **einerseits … andererseits** → zwei verschiedene Seiten, Aspekte.\n  - **Einerseits** hast du kein Geld, **andererseits** gehst du dauernd aus.\n\n## Temporalsätze „seit / seitdem – bis“ (Regel)\n\n*(Quelle: Deutschkurse bei der Universität München, Modul 3: B1, Lektion 25)*\n\n- Ich nehme an einem Sprachkurs teil. **Seitdem** hat sich mein Deutsch verbessert.\n- **Seit / Seitdem** ich an einem Sprachkurs teilnehme, hat sich mein Deutsch verbessert.\n- Ich beginne im Herbst mit meinem Studium. **Bis dahin / Bis dann** muss ich gut Deutsch können.\n- **Bis** ich im Herbst mit meinem Studium beginne, muss ich gut Deutsch können.\n\n> „seit“, „seitdem“ und „bis“ sind **Nebensatz-Konnektoren** (Verb am Ende).\n\n| Konnektor + NS | Adverb (Angabe) im 2. HS | Präposition |\n|---|---|---|\n| seit, seitdem | seit dieser Zeit, seitdem | seit |\n| bis | bis dahin / bis dann | bis (zu) |\n\n## Hausaufgaben (Arbeitsbuch)\n- S. 203/Rest\n- S. 204/4\n- S. 205 komplett\n- S. 211/Einstiegsseite und A1",
+      "exercises": [
+        {
+          "t": "transform",
+          "instruction": "Verbinde die zwei Sätze mit einem Nebensatz (seit / seitdem oder bis). Das Verb steht im Nebensatz am Ende.",
+          "example": "**Ich nehme an einem Sprachkurs teil. Seitdem hat sich mein Deutsch verbessert.**\n\n→ **Seit / Seitdem** ich an einem Sprachkurs teilnehme, hat sich mein Deutsch verbessert. *(oder:)* Mein Deutsch hat sich verbessert, **seit / seitdem** ich an einem Sprachkurs teilnehme.",
+          "items": [
+            {
+              "prompt": "Lukas hat im Sommer sein Studium abgeschlossen. Seitdem bewirbt er sich bei Firmen.",
+              "solution": "Seitdem Lukas im Sommer sein Studium abgeschlossen hat, bewirbt er sich bei Firmen. / Er bewirbt sich bei Firmen, seitdem er im Sommer sein Studium abgeschlossen hat."
+            },
+            {
+              "prompt": "Die Ergebnisse der Tests liegen nächste Woche vor. Bis dann muss Lukas auf eine Antwort des Personalchefs warten.",
+              "solution": "Bis die Ergebnisse der Tests nächste Woche vorliegen, muss Lukas auf eine Antwort des Personalchefs warten. / Lukas muss auf eine Antwort des Personalchefs warten, bis die Ergebnisse der Tests nächste Woche vorliegen."
+            },
+            {
+              "prompt": "Die Geigerin Anne-Sophie hatte ihren ersten Auftritt. Bis dahin hat sie sehr viel geübt.",
+              "solution": "Bis die Geigerin Anne-Sophie ihren ersten Auftritt hatte, hat sie sehr viel geübt. / Sie hat viel geübt, bis sie ihren ersten Auftritt hatte."
+            },
+            {
+              "prompt": "Der Schüler Carl Friedrich hatte eine schwierige Aufgabe gelöst. Seitdem hatte sein Lehrer großen Respekt vor ihm.",
+              "solution": "Seitdem der Schüler Carl Friedrich eine schwierige Aufgabe gelöst hatte, hatte sein Lehrer großen Respekt vor ihm. / Sein Lehrer hatte großen Respekt vor ihm, seitdem der Schüler Carl Friedrich eine schwierige Aufgabe gelöst hatte."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "nr": 14,
+      "date": "11.6.",
+      "title": "Passiv (mit und ohne Modalverb)",
+      "kbLessons": [
+        "L25"
+      ],
+      "contentMd": "## 1. Passiv (mit und ohne Modalverb – Information)\n\n*(Quelle: Deutschkurse bei der Universität München, Stufe 2 A2/B1, Lektion 25)*\n\n**Aktiv:** Mein Kollege informiert mich.\n\n### PASSIV\n\n| Tempus | | | | | |\n|---|---|---|---|---|---|\n| Präsens | Ich | werde | (von meinem Kollegen) | informiert. | |\n| Präteritum | Ich | wurde | (von meinem Kollegen) | informiert. | |\n| Perfekt | Ich | bin | (von meinem Kollegen) | informiert | worden. |\n\n**Aktiv:** Man kann mich informieren.\n\n### PASSIV MIT MODALVERB\n\n| Tempus | | | | |\n|---|---|---|---|---|\n| Präsens | Ich | kann | informiert werden. | |\n| Präteritum | Ich | konnte | informiert werden. | |\n| Perfekt | Ich | habe | informiert werden | können. |\n\n## 2. Mitschrift 11.6.\n\n**Fragen:**\n1. Wann war jemand wirklich unhöflich zu dir? Was war die Situation?\n2. In welcher Situation warst du schon wirklich unhöflich?\n3. Ist Höflichkeit für dich sehr wichtig?\n\n- höflich: **ältere Menschen**; Alternative: **Senioren**\n- nicht sehr höflich: alte Menschen\n\nIch spreche **sowohl** Englisch **als auch** Finnisch fließend.\n\n**Text auf KB S. 198 – Wortschatz:**\n- der Dom\n- die Kathedrale\n- die Nonne\n- der Mönch\n- das Kloster\n- der Laster = der LKW\n- die Wirtschaft beleben\n- Nahrungsmittel = Lebensmittel = Essen\n- entstehen – entstand\n  - Eine Kathedrale entsteht. = Eine Kathedrale wird gebaut.\n  - Negative Emotionen entstehen oft, wenn wir nicht genug schlafen.\n  - Dort entsteht ein Kunstwerk.\n- zeichnen – hat gezeichnet\n- die Sicherheit\n- die Vorschriften\n- das Seil, -e\n\n**werden**\n\n*Als Vollverb:*\n- Präsens: Später werde ich Arzt.\n- Perfekt: Ich bin nicht Arzt **geworden**.\n\n*Als Hilfsverb:*\n- Präsens: Das Zimmer wird aufgeräumt.\n- Perfekt: Das Zimmer ist aufgeräumt **worden**.\n\n**von + durch im Passiv**\n\nFür Personen und Institutionen → **von**\n- Ich wurde von meinem Bruder angerufen.\n- Das Gebäude wurde von der Universität gebaut.\n\nRest → **durch**\n- Unser Leben wird durch Werbung beeinflusst.\n\nAchtung: Manchmal benutzen wir „von\" auch bei Nicht-Personen.\n- Die Kathedrale wurde durch ein Feuer zerstört.\n- Die Kathedrale wurde von einem Feuer zerstört.\n→ Das Feuer wird hier personifiziert. Beide Sätze sind korrekt.\n\n**KB S. 199/A2/a**\n1. In Meßkirch werden ein Kloster und eine Kathedrale gebaut.\n2. Heute können die Gebäudemaße sehr genau berechnet werden.\n3. Heute werden Baumaschinen eingesetzt.\n4. Heute werden die Sicherheitsvorschriften beachtet.\n\n**Hausaufgaben (Arbeitsbuch):**\n- S. 192/2+3\n- S. 195/alle Wörter (wenn möglich alle; wenn ihr nicht alle schafft, konzentriert euch auf die für euch wichtigen Wörter)\n- S. 196/2, 3+4\n- S. 197/5+6\n",
+      "exercises": []
+    },
+    {
+      "id": "s13",
+      "nr": 13,
+      "date": "9.6.",
+      "title": "Relativsätze (N-A-D) und Relativsätze mit Präposition",
+      "kbLessons": [
+        "L23",
+        "L24"
+      ],
+      "contentMd": "## Mitschrift 9.6.\n\n### KB S. 191/A3 a (Relativsätze – Bezugswort bestimmt Genus/Numerus, Verb den Kasus)\n\n2. Ein dreizehnjähriger Junge, **den** man auf der Straße rauchen sieht.\n3. Ein vierzigjähriges Ehepaar, **dem** es in der Disco gefällt. *(Es gefällt dem Ehepaar in der Disco.)*\n4. Eine siebzigjährige Frau, **die** man auf dem Motorrad fahren sieht.\n5. Ein vierzigjähriger Mann, **dem** seine Frau vor dem Einschlafen etwas vorlesen muss.\n6. Siebzigjährige Männer im Altenheim, **denen** man bei der Gründung einer Rockband hilft.\n8. Zwei sechsjährige Kinder, **denen** tausende Fernsehzuschauer beim Tangotanzen zusehen.\n\n> Sprechaufgabe: Wie findest du das?\n\n> *Wenn das Wetter gut ist* = **bei gutem Wetter**\n\n### Wortschatz (Höflichkeit)\n\n- die Höflichkeit / höflich ↔ unhöflich\n- starren\n- anstoßen\n- Unglück bringen\n- das Abendbrot, -e = das Abendessen, -\n- die Brotzeit, -en\n- sich die Nase putzen\n- umgangssprachlich\n- schwanger\n- gehbehindert = jemand kann nicht (gut) gehen\n- das Angebot → anbieten\n- Jugendliche = Teenager\n- junge Erwachsene = Erwachsene zwischen 18 und 30\n- Ich stimme ihnen zu.\n\n### Verben\n\n- schieben → hat geschoben\n- stoßen → hat gestoßen\n- erleben → hat erlebt\n\n### Hausaufgaben\n\n- Kursbuch: S. 196/Redemittel\n- Arbeitsbuch: S. 187/Rest, S. 190/2+3+4, S. 192/1\n\n## Relativsätze (N-A-D)\n\n**Beispiele:**\n- Das Museum, **das** eine neue Ausstellung zeigt, wird von Sonja geleitet.\n- Ihr neuer Freund, **den** sie bei der Eröffnung kennengelernt hat, heißt Dirk.\n- Der junge Mann, **dem** Sonja gefällt, lädt sie zum Abendessen ein.\n\n**1. Welche Funktion hat der Relativsatz?**\nMit einem Relativsatz kann man eine Person oder eine Sache **erklären**.\n\n**2. Wo steht der Relativsatz: rechts oder links?**\nDer Relativsatz steht **rechts** von dem Wort, das er definiert.\n\n**3. Ist der Relativsatz ein Haupt- oder ein Nebensatz?**\nDer Relativsatz ist ein **Nebensatz**. Deshalb steht das konjugierte Verb **am Ende** des Relativsatzes.\n\n**4. Der Relativsatz beginnt immer mit einem Relativpronomen:**\nDas Relativpronomen hat oft die gleiche Form wie der Definitartikel (= der bestimmte Artikel).\nACHTUNG: Welche Form ist anders? **Dativ Plural**\n\n| | Nominativ | Akkusativ | Dativ |\n|---|---|---|---|\n| m | der | den | dem |\n| n | das | das | dem |\n| f | die | die | der |\n| Pl | die | die | **denen** |\n\n**5. Wie finde ich Numerus, Genus und Kasus des Relativpronomens?**\n\n*Sonjas Eltern* finden Dirk sympathisch. Ein Gasthof gehört *ihnen*.\n→ *Sonjas Eltern*, **denen** ein Gasthof *gehört*, finden Dirk sympathisch.\n\n- Numerus (Sg./Pl.) und Genus (m./n./f.) kommen von **dem Bezugswort**.\n- Der Kasus (Nom./Akk./Dat./Gen.) kommt von **dem Relativsatz**.\n\n⇒ Das Relativpronomen hat den **Numerus** und das **Genus** von seinem **Bezugswort** (das Wort vor dem Relativpronomen). Den **Kasus** bestimmt das **Verb** des Relativsatzes.\n\n## Relativsätze mit Präposition\n\nDas sind Stühle, **auf denen** man ohne Probleme lange sitzen kann.\n\n1. Das Verb hat eine Präposition (hier: sitzen + auf). Die **Präposition steht vor dem Relativpronomen**.\n2. Die **Präposition bestimmt den Kasus** des Relativpronomens (hier: auf + wo = Dativ).\n3. Das **Bezugswort** im Hauptsatz bestimmt **Numerus/Genus** (hier: Stühle → denen).",
+      "exercises": [
+        {
+          "t": "ex",
+          "instruction": "Relativpronomen – Kasus (Nominativ/Akkusativ/Dativ)",
+          "example": "Das Museum, **das** eine neue Ausstellung zeigt, wird von Sonja geleitet. *(Bezugswort n. „Museum“ + Subjekt im Relativsatz → Nominativ: **das**)*",
+          "items": [
+            {
+              "q": "Ein dreizehnjähriger Junge, ___ man auf der Straße rauchen sieht.",
+              "a": "den",
+              "hint": "m, Akkusativ"
+            },
+            {
+              "q": "Ein vierzigjähriges Ehepaar, ___ es in der Disco gefällt.",
+              "a": "dem",
+              "hint": "n, Dativ (gefallen + Dat.)"
+            },
+            {
+              "q": "Eine siebzigjährige Frau, ___ man auf dem Motorrad fahren sieht.",
+              "a": "die",
+              "hint": "f, Akkusativ"
+            },
+            {
+              "q": "Ein vierzigjähriger Mann, ___ seine Frau vor dem Einschlafen etwas vorlesen muss.",
+              "a": "dem",
+              "hint": "m, Dativ"
+            },
+            {
+              "q": "Siebzigjährige Männer im Altenheim, ___ man bei der Gründung einer Rockband hilft.",
+              "a": "denen",
+              "hint": "Pl, Dativ (helfen + Dat.)"
+            },
+            {
+              "q": "Zwei sechsjährige Kinder, ___ tausende Fernsehzuschauer beim Tangotanzen zusehen.",
+              "a": "denen",
+              "hint": "Pl, Dativ (zusehen + Dat.)"
+            },
+            {
+              "q": "Das Museum, ___ eine neue Ausstellung zeigt, wird von Sonja geleitet.",
+              "a": "das",
+              "hint": "n, Nominativ"
+            },
+            {
+              "q": "Ihr neuer Freund, ___ sie bei der Eröffnung kennengelernt hat, heißt Dirk.",
+              "a": "den",
+              "hint": "m, Akkusativ"
+            },
+            {
+              "q": "Der junge Mann, ___ Sonja gefällt, lädt sie zum Abendessen ein.",
+              "a": "dem",
+              "hint": "m, Dativ"
+            },
+            {
+              "q": "Sonjas Eltern, ___ ein Gasthof gehört, finden Dirk sympathisch.",
+              "a": "denen",
+              "hint": "Pl, Dativ (gehören + Dat.)"
+            }
+          ]
+        },
+        {
+          "t": "ex",
+          "instruction": "Relativsätze mit Präposition (Präposition + Relativpronomen ergänzen)",
+          "example": "Das sind Stühle, **auf denen** man lange sitzen kann. *(sitzen + auf → Dativ; Bezugswort Pl. „Stühle“ → **denen**)*",
+          "items": [
+            {
+              "q": "Das ist die U-Bahn, ___ man immer lange warten muss.",
+              "a": "auf die",
+              "hint": "warten auf + Akk."
+            },
+            {
+              "q": "Meine Freundin Lisa, ___ ich über alles diskutieren kann, wohnt in Hamburg.",
+              "a": "mit der",
+              "hint": "mit + Dat., f Sg."
+            },
+            {
+              "q": "Nach dem Deutschkurs, ___ ich mich erholen muss, gehe ich nach Hause.",
+              "a": "von dem",
+              "hint": "sich erholen von + Dat."
+            },
+            {
+              "q": "Bald beginnt das Wochenende, ___ wir uns sehr freuen.",
+              "a": "auf das",
+              "hint": "sich freuen auf + Akk., n Sg."
+            },
+            {
+              "q": "Dann treffen wir Freunde, ___ wir uns verabredet haben.",
+              "a": "mit denen",
+              "hint": "sich verabreden mit + Dat., Pl"
+            },
+            {
+              "q": "Wir sehen vielleicht einen Film, ___ wir uns sehr interessieren.",
+              "a": "für den",
+              "hint": "sich interessieren für + Akk., m Sg."
+            },
+            {
+              "q": "Ist die Prüfung, ___ du dich vorbereitest, sehr schwer?",
+              "a": "auf die",
+              "hint": "sich vorbereiten auf + Akk., f Sg."
+            },
+            {
+              "q": "Die Studentin, ___ du dich gestern getroffen hast, kenne ich nicht.",
+              "a": "mit der",
+              "hint": "sich treffen mit + Dat., f Sg."
+            },
+            {
+              "q": "Die Katze, ___ ich mich kümmere, heißt Petzi.",
+              "a": "um die",
+              "hint": "sich kümmern um + Akk., f Sg."
+            },
+            {
+              "q": "Ich habe eine Geschichte gelesen, ___ alle Zeitungen berichtet haben.",
+              "a": "von der",
+              "hint": "berichten von + Dat., f Sg."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "nr": 12,
+      "date": "2.6.",
+      "title": "Starke Verben, Beziehungen & Relativsätze",
+      "kbLessons": [
+        "L24"
+      ],
+      "contentMd": "## Material: Mitschrift 2.6.\n\n**Starke Verben (Präteritum/Perfekt):**\n\n- **genießen**\n  - Wir genossen den Urlaub.\n  - Ich habe meinen Kaffee genossen.\n- **fließen**\n  - Der Eisbach floss schnell.\n  - Das Wasser ist nach Norden geflossen.\n- **klingen**\n  - Die Tür klang quietschig.\n  - Die Glocke hat schön geklungen.\n- **leiden**\n  - Ich litt, weil meine Katze krank war.\n  - Die Leute haben gelitten, weil die Mieten so hoch waren.\n  - Ich litt an/unter einer schweren Krankheit.\n- **hängen**\n  - Sie hing das Poster an die Wand.\n  - Ich habe meine Kleidung an die Tür gehangen.\n- **lügen**\n  - Ich log, weil ich einen Fehler gemacht habe. // Ich log meine Mutter an.\n  - Er hat mich angelogen.\n- **sinken**\n  - Mein Boot sank.\n  - Das Schiff ist gesunken.\n- **streiten**\n  - Sie stritt mit ihrer Schwester.\n  - Er hat mit seiner Mutter gestritten.\n\n**Wortschatz:**\n\n- die Beziehung, -en\n- der Zufall, Pl.: die Zufälle → zufällig\n- sich verlieben → der Prozess\n- verliebt sein → der Zustand\n- die Liebe\n- sich verloben\n- heiraten\n- beobachten\n- einladen – lud ein – hat eingeladen\n- sich anstrengen\n- die Abhängigkeit, -en → abhängig von Drogen\n- die Unabhängigkeit, -en → unabhängig\n- sich anpassen an\n- **allerdings** = aber\n  - Das Wetter ist gut. Allerdings möchte ich nicht nach draußen gehen.\n- der Altersunterschied, -e\n- gewalttätig\n- **sensibel**\n  1. Jemand denkt an die Gefühle von anderen.\n  2. Jemand ist sehr emotional.\n\n**Relativsätze**\n\nDas ist die Jacke, **die ich kaufen will**.\n(Hauptsatz + Relativsatz – eine Form von Nebensatz → Verb am Ende)\n\nDas ist der Tisch, **der letzte Woche im anderen Raum war**.\n\n*Artikel:*\n\n| | Nominativ | Akkusativ | Dativ |\n|---|---|---|---|\n| m | der | den | dem |\n| n | das | das | dem |\n| f | die | die | der |\n| Pl | die | die | den |\n\n*Relativpronomen:*\n\n| | Nominativ | Akkusativ | Dativ |\n|---|---|---|---|\n| m | der | den | dem |\n| n | das | das | dem |\n| f | die | die | der |\n| Pl | die | die | **denen** |\n\nBeispiel mit „denen“: Das sind die Freunde, **denen** ich bei ihrem Umzug helfe. (Plural Dativ)\n\n**Hausaufgaben (Arbeitsbuch):**\n\n- S. 187 bis einschließlich A3\n- S. 188/2, 3, 4 + 5\n- S. 189 komplett\n\n> Achtung: Am Donnerstag ist Feiertag! Wir sehen uns das nächste Mal am Dienstag in einer Woche (9.6.).",
+      "exercises": []
+    },
+    {
+      "id": "s11",
+      "nr": 11,
+      "date": "21.5.",
+      "title": "Migration-Wortschatz & Komparativ in Sätzen",
+      "kbLessons": [
+        "L23"
+      ],
+      "contentMd": "## 1. Mitschrift 21.5.\n\n**Fragen:**\n1. Warum bist du nach Deutschland gekommen?\n2. Was hast du gemacht, bevor du nach Deutschland gekommen bist?\n3. Was hast du gemacht, nachdem du nach Deutschland gekommen warst?\n\n**Beispielantworten:**\n1. Ich wollte in Deutschland studieren / ein Auslandssemester verbringen.\n   - Ich bin nach Deutschland gekommen, um hier zu studieren.\n   - Ich bin nach Deutschland für die Arbeit gekommen.\n2. Ich habe in einer anderen Stadt gearbeitet/studiert. / Bevor ich nach Deutschland gekommen bin, habe ich in einer anderen Stadt (in einem anderen Land) gearbeitet/studiert.\n3. Ich habe eine Wohnung gesucht. / Nachdem ich nach Deutschland gekommen war, habe ich eine Wohnung gesucht.\n\n## 2. Wortschatz: Migration\n\n- die Ausländerbehörde\n- der Aufenthaltstitel\n- das Kreisverwaltungsreferat\n- der Ausweis\n- der Pass\n- die Anmeldung im Rathaus (im Bürgerbüro)\n- die Impfung, Pl.: die Impfungen → impfen\n- die Versicherung\n- das Visum\n- der Führerschein\n- die Fiktionsbescheinigung\n- die Immatrikulationsbescheinigung\n- Dokumente ausdrucken\n- einen Sprachkurs besuchen\n- die Wartezeit\n- die Gesundheitskarte\n- das Sperrkonto\n- das Bankkonto\n- Formulare ausfüllen\n- die Anschrift = die Adresse\n- die Bürokratie\n- die Verpflichtungserklärung\n- auswandern → der Auswanderer / die Auswanderin → die Auswanderung\n- einwandern → der Einwanderer / die Einwanderin → die Einwanderung\n- besitzen = haben\n\n**Adjektive für Personen:**\n- Für Männer: gutaussehend\n- Für Frauen: schön, hübsch\n- Alle: attraktiv\n\n## 3. Komparativ in Sätzen\n\n- Ich habe jetzt einen Job, der interessanter ist.\n- Ich habe jetzt einen interessanteren Job.\n- Das ist eine gute Idee! / Die Idee ist gut!\n- Die ungarische Grenze / Ich lerne Ungarisch.\n\n## 4. Hausaufgaben\n\n- Kursbuch S. 188/Redemittel\n- Arbeitsbuch: S. 179/Rest, S. 180/2+3, S. 181/4+5, S. 184/1, 2+4, S. 185/5+6\n- Rückseite vom Komparativblatt fertig machen\n- B1-Verben lernen\n- alle bisherigen Lektionen wiederholen\n",
+      "exercises": []
+    },
+    {
+      "id": "s10",
+      "nr": 10,
+      "date": "19.5.",
+      "title": "Reisen, starke Verben & Genitiv",
+      "kbLessons": [
+        "L23"
+      ],
+      "contentMd": "## Mitschrift 19.5.\n\n### Starke Verben (Wiederholung)\n- Das Buch gefiel mir. / Das Buch hat mir gefallen.\n- Ich lief im Park. / Ich bin im Park gelaufen.\n- Ich nannte meine Katze Kamim. / Ich habe meinen Hund Kamim genannt.\n- **liegen:** Ich lag auf dem Sofa. / Ich habe auf dem Sofa gelegen.\n- **legen:** Ich legte mein Buch auf den Tisch. / Ich habe mein Buch auf den Tisch gelegt.\n- Der Supermarkt schloss schon. / Der Supermarkt hat schon geschlossen.\n- Ich vergaß meine Adresse. / Ich habe meine Schlüssel vergessen.\n- Ich verlor mein Handy. / Ich habe mein Handy verloren.\n- Die Blumen wuchsen im Garten. / Die Kinder sind schon gewachsen.\n- Ich stieg auf den Berg. / Ich bin gestern auf den Berg gestiegen.\n- Ich wusch meine Kleidung. / Heute habe ich mich schon gewaschen.\n- Ich warf meinen Stift. / Ich habe meinen Stift geworfen.\n- Er trieb Sport. / Er hat Sport getrieben. (Sport treiben = Sport machen)\n\n### Thema Reisen\n- die Wüste, Pl.: die Wüsten\n\n**Reiseformen:**\n- der Campingtrip, Pl.: die Campingtrips / der Campingurlaub, Pl.: die Campingurlaube\n- die Radtour, Pl.: die Radtouren\n- der Surfurlaub\n- die Städtereise, Pl.: die Städtereisen\n- der Wanderurlaub\n- der Skiurlaub = der Winterurlaub\n- der Strandurlaub = Urlaub am Meer\n- die Kreuzfahrt\n- die Hochzeitsreise = die Flitterwochen\n- die Pilgerreise\n- Urlaub am See\n- die Sprachreise\n\n- mit dem Auto fahren – mit [Dat.objekt] fahren\n- das Flugzeug nehmen – [Akk.objekt] nehmen\n\n### nachdem (Nebensatzkonnektor)\nNachdem ich die Schule abgeschlossen hatte, habe ich eine lange Reise gemacht.\n\n### Tagesablauf – Fragen mit während/bevor/nachdem\n- Sprichst du, während du schläfst?\n- Putzt du die Zähne, bevor du frühstückst oder nachdem du gefrühstückt hast?\n- Was machst du, nachdem du Kaffee getrunken hast?\n- Was machst du, nachdem du geduscht hast?\n- Putzt du deine Wohnung, während du Musik hörst?\n- Was machst du, bevor du ins Bett gehst?\n- Was willst du trinken, nachdem du zu Mittag gegessen hast?\n- Hörst du Musik, während du Sport machst?\n\n- innerhalb der Öffnungszeiten\n- außerhalb der Öffnungszeiten\n\n### Genitiv\n\n| | Nominativ | Genitiv |\n|---|---|---|\n| m. | der | des |\n| n. | das | des |\n| f. | die | der |\n| Pl. | die | der |\n\n- Das ist der Stift von meinem Bruder. (von + Dativ)\n- Das ist der Stift meines Bruders. (Genitiv)\n\n> Achtung: Bei Maskulinum und Neutrum brauchen wir -s oder -es am Ende des Nomens.\n> - der Fluss – des Flusses\n\nÜberqueren Sie die Straße.\n\n## Hausaufgaben (Arbeitsbuch)\n- S. 179/B1–B4\n- S. 182/2, 3+4\n- S. 183/5, 7+9",
+      "exercises": []
+    },
+    {
+      "id": "s9",
+      "nr": 9,
+      "date": "12.5.",
+      "title": "Passiv mit Modalverb, „sollen“ & Vermutungen",
+      "kbLessons": [
+        "L22"
+      ],
+      "contentMd": "## Material: Mitschrift 12.5.\n\n### Eine Reise nach Italien – Passiv mit Modalverb\n\n*Was muss vor der Reise gemacht werden?*\n\n- Die Tickets müssen vor der Reise besorgt werden. (Passiv)\n- Ein Rucksack muss gepackt werden. (Passiv)\n- Der Reisepass muss gefunden werden. (Passiv)\n- Das Hotel muss gebucht werden. (Passiv)\n- Man muss die Tickets besorgen. (Aktiv)\n- Man muss einen Rucksack packen. (Aktiv)\n- Man muss den Reisepass finden. (Aktiv)\n- Wir müssen das Hotel buchen. (Aktiv)\n\n*Was muss (noch) nach der Reise gemacht werden?*\n\n- Der Rucksack muss ausgepackt werden.\n\n### Verben\n\n- erfinden – erfand – hat erfunden\n- finden – fand – hat gefunden\n- bewerten – bewertete – hat bewertet\n\n### Wortschatz\n\n- die Tatsache, Pl.: die Tatsachen → tatsächlich\n\n### „sollen“ für Aussagen aus zweiter Hand\n\n- Laut der Polizei soll es keine anderen Verletzten geben.\n- Es soll wieder wärmer werden.\n- Es soll bald mehr Geld für Schulen geben.\n\n### Vermutungen aufstellen\n\n(die Vermutung, Pl.: die Vermutungen)\n\n*KB S. 177/B3b:*\n\n1. Nummer 1 müsste ein Kreuz sein.\n2. Nummer 2 könnte ein Knödel sein.\n3. Nummer 3 dürfte Getreide sein.\n4. Nummer 4 müsste eine Ente sein.\n5. Nummer 5 müsste eine Fliege sein.\n6. Nummer 6 müsste eine Schlange sein.\n7. Nummer 7 dürfte ein Tuch sein.\n\n### Wortschatz (Lüge / Bildung)\n\n- die Lüge, Pl.: die Lügen / lügen – log – hat gelogen\n- das (Schul)fach, Pl.: die (Schul)fächer (Beispiele: Geschichte, Geografie, Englisch, Musik …)\n- die Bildung\n- das Bildungssystem: Schulen, Universitäten …\n- der Bildungsweg (Kategorie im Lebenslauf)\n\n### Hausaufgaben (alles bis Dienstag!)\n\n- Kursbuch S. 180/Redemittel\n- Arbeitsbuch: S. 171/Rest, S. 174/2+3+6, S. 175/7+10, S. 177/6\n- Nochmal: A2-Verben auf der Liste mit den starken Verben\n\n> Achtung: Am Donnerstag ist Feiertag! Da ist kein Kurs.",
+      "exercises": []
+    },
+    {
+      "id": "s8",
+      "nr": 8,
+      "date": "7.5.",
+      "title": "Starke Verben & Passiv (werden + Partizip II)",
+      "kbLessons": [
+        "L21"
+      ],
+      "contentMd": "## Material: Mitschrift 7.5.\n\n**A2-Verben-Spiel (starke Verben):**\n\n- Ich bat um ihr Verständnis. / Ich habe um ihr Verständnis gebeten.\n- Das Buch lag auf dem Tisch. / Das Buch hat auf dem Tisch gelegen.\n  - liegen → Positionsverb\n  - legen → Richtungsverb\n- Ich vergaß mein Buch zu Hause. / Ich habe mein Buch zu Hause vergessen.\n- Ich wusch mir meine Hände. / Ich habe mir meine Hände gewaschen.\n- Mir gefiel dieses Band. – Mir gefiel diese Band. / Dein Geschenk hat mir gefallen.\n- Ich nannte mein Baby Nil. / Ich habe mein Baby Nil genannt.\n- Ich lief im Olympiapark. / Ich bin im Olympiapark gelaufen.\n- Ich schloss die Tür. / Der Supermarkt hat schon geschlossen.\n- Ich gewann das Spiel. / Ich habe das Spiel gewonnen.\n- **ziehen:** Ich zog meine Schuhe an. / Ich bin letztes Jahr umgezogen.\n- **steigen:** Ich stieg aus dem Zug aus. / Ich bin aus dem Zug ausgestiegen.\n- **rennen:** Ich rannte. / Ich bin gestern im Park gerannt.\n- **verlieren:** Ich verlor mein Handy. / Ich habe meinen Schlüssel verloren.\n- **wachsen:** Ich wuchs schnell. / Ich bin zu spät gewachsen.\n\n**Passiv**\n\nMeine Eltern bauen das Haus.\nPassiv: Das Haus wird von meinen Eltern gebaut.\nBildung: **werden + Partizip II** (am Ende)\n\n*werden:*\n\n- ich werde\n- du wirst\n- er, es, sie wird\n- wir werden\n- ihr werdet\n- sie, Sie werden\n\n**KB S. 174/A1 a:**\n\n- Die Wissenschaftler nehmen Zellen aus dem Rücken eines Rindes.\n- Die Wissenschaftler legen die Zellen im Labor in eine Flüssigkeit.\n- Die Wissenschaftler verbinden die Zellhaufen.\n- Die Wissenschaftler testen die Qualität des fertigen Kunstfleisches.\n\n**KB S. 174 Text – Wortschatz:**\n\n- herstellen + Akk. = produzieren + Akk. → hat hergestellt = hat produziert\n- forschen → hat geforscht / die Forschung\n- eine Person überzeugen\n- roh = nicht gekocht\n- sich an eine Sache gewöhnen\n- das Nahrungsmittel, Pl.: die Nahrungsmittel = das Lebensmittel, Pl.: die Lebensmittel\n- die Fertigpizza, Pl.: die Fertigpizzen\n- das Fertigprodukt, die Fertigprodukte\n- beruhigen + Akk. → hat beruhigt / ruhig\n- retten + Akk. → hat gerettet\n- füttern – hat gefüttert → Ich habe meinen Hund gefüttert.\n- die Täuschung, Pl.: die Täuschungen / täuschen + Akk. → hat getäuscht\n- die Tatsache, Pl.: die Tatsachen\n- das Fleischersatzprodukt, Pl.: die Fleischersatzprodukte\n- der Hunger / für die Menschen, die hungern, …\n\n**Passiv mit Modalverb:**\n\n- Das Fleisch kann auf dem Grill gebraten werden.\n  - (Modalverb auf Position II) – Partizip II – werden im Infinitiv\n- Die Würstchen können auf dem Grill gebraten werden.\n- Nach dem Öffnen muss das Pesto im Kühlschrank aufbewahrt werden.\n\n**Hausaufgaben (Arbeitsbuch):**\n\n- S. 171/Einstiegsseite bis einschließlich A3\n- S. 172/1, 3+4\n- S. 173/6, 8+10",
+      "exercises": []
+    },
+    {
+      "id": "s7",
+      "nr": 7,
+      "date": "5.5.",
+      "title": "Infinitivsätze mit zu & \"um … zu\"",
+      "kbLessons": [
+        "L21"
+      ],
+      "contentMd": "## Material: Mitschrift 5.5.\n\n**Fragen (Infinitivsätze mit zu):**\n\n1. Macht es dir Spaß zu studieren / zu arbeiten?\n2. Versuchst du, gesund zu leben?\n3. Beabsichtigst du, einen B2-Kurs zu besuchen?\n\n**Wortschatz:**\n\n- das Amt = die Behörde\n- das Finanzamt\n- die Ausländerbehörde\n\n**KB S. 167/A2c – „um … zu\":**\n\n- Anton geht in den Hof, um seinen Abfalleimer auszuleeren.\n- Frau Jovic macht eine Homepage, um ihre Firma bekannter zu machen.\n- Selina bäckt eine Torte, um ihrer Tante zum Geburtstag eine Freude zu machen.\n- Anna und Kerstin gehen in die Bibliothek, um ein Referat vorzubereiten.\n- Juana isst in der Mensa, um nicht selbst kochen zu müssen. (Infinitiv – zu – Modalverb)\n- Herr Konrad bringt sein Auto in die Werkstatt, um die Bremsen reparieren zu lassen.\n- Sabine macht Urlaub, um sich auszuruhen.\n- Jakob will in Zukunft auf Fleisch verzichten, um etwas für die Umwelt zu tun.\n\n> Achtung: Das „gedachte\" Subjekt im „um-zu\"-Satz ist gleich wie das Subjekt im Hauptsatz.\n\n**Wortschatz (Fußball / Technik):**\n\n- die Fußball-Weltmeisterschaft / Weltmeister\n- der Sender\n- Der Griff ist sofort kaputt gegangen.\n- Der Sendersuchlauf funktioniert nicht.\n- die Aktion / die Reaktion / reagieren\n\n**KB S. 168/B2:**\n\n1. Alles ist auf Englisch und er sieht nur eine Tabelle.\n2. Herr Neuhold soll den Sendersuchlauf aktivieren.\n3. ein neues Gerät und das Serviceteam soll den alten Apparat abholen\n4. Sie ist entspannt und lösungsorientiert geblieben. Sie lehnt aber den Umtausch ab. Sie macht einen Termin mit dem Serviceteam aus.\n5. heute Nachmittag um 16 Uhr / gegen 16 Uhr\n\n- die Reinigungskraft = die Putzkraft\n\n**Hausaufgaben:**\n\n- A2-Verben lernen\n- Kursbuch S. 172/Redemittel\n- Arbeitsbuch: S. 163/Rest (wir machen die C von der Lektion nicht, deshalb lernt jetzt schon die Vokabeln), S. 165/8+9, S. 166/3, 4+5, S. 167/7",
+      "exercises": []
+    },
+    {
+      "id": "s6",
+      "nr": 6,
+      "date": "30.4.",
+      "title": "Irreale Bedingungssätze & Infinitivsätze",
+      "kbLessons": [
+        "L21"
+      ],
+      "contentMd": "## 1. Material: Mitschrift 30.4.\n\n**Irreale Bedingungssätze (Konjunktiv II):**\n- Wenn ich viel Zeit hätte, würde ich wandern gehen. / wäre ich oft im Schwimmbad.\n- Wenn ich reich wäre, würde ich in die Schweiz umziehen.\n- Wenn ich einen berühmten Star treffen würde, …\n- Was würdest du machen, wenn du viel Zeit hättest? / wenn du reich wärst? / wenn du einen berühmten Star treffen würdest?\n- umarmen\n- Wenn du in irgendeinem Land wohnen könntest, wo würdest du wohnen?\n- Wo würdest du wohnen, wenn du in irgendeinem Land wohnen könntest?\n\n**KB S. 166 – Wortschatz (Konsum):**\n- der Konsum / konsumieren\n- für Second-Hand-Sachen / für gebrauchte Sachen\n- auf Schnäppchenjagd gehen\n- abhängig von … / unabhängig von …\n- spenden / die Spende\n- die Gesellschaft / die Aktiengesellschaft / die Aktie\n- weltweit\n- die Gemeinschaft\n- unter … leiden\n- anprobieren\n- irgendwo / irgendwann / irgendwie / irgendein Mensch / irgendwelche\n- die Beschäftigung / sich mit … beschäftigen\n- kaum = fast kein… (Ich habe kaum Zeit.)\n\n**Infinitivsätze**\n\nKerstin findet es toll, neue Schuhe **anzuprobieren**.\n(Hauptsatz + Infinitivsatz)\n\n> Das „zu\" steht im Infinitivsatz vor dem Infinitiv. Nur bei trennbaren Verben steht das „zu\" im Verb.\n\n*Wann können wir Infinitivsätze benutzen? Nach:*\n1. **Ausdrücken mit „es\"**\n   - Es ist toll, im Raum B005 zu sein. (Engl.: It's nice to be in room B005.)\n   - Es ist toll, ein Student zu sein.\n   - Es ist wichtig, Bitcoins zu kaufen.\n   - Es macht Spaß, im Englischen Garten zu picknicken.\n2. **Ausdrücken mit „haben + Nomen\"**\n   - Ich habe heute Lust, ins Kino zu gehen.\n3. **bestimmten Verben**\n   - Ich plane, ins Kino zu gehen.\n   - Ich habe vor, heute ein Buch zu lesen.\n   - Ich empfehle dir, Tee zu trinken.\n\n> Achtung: Bitte mixt Infinitivsätze nicht mit anderen Grammatikthemen! Bei Modalverben brauchen wir kein „zu\". Bei der Konjunktiv II-würde-Form brauchen wir auch kein „zu\".\n\n> Achtung II: Infinitivsätze sind nicht immer möglich! Das „gedachte\" Subjekt im Infinitivsatz muss gleich wie das Subjekt (oder wie ein Objekt) im Hauptsatz sein. Ausnahme: Bei Ausdrücken mit „es\" ist das „gedachte\" Subjekt im Infinitivsatz nicht „es\", sondern „die Leute\".\n\n- Ich plane, dass mein Kind später Arzt wird. → hier kein Infinitivsatz möglich\n- Ich plane, dass ich Arzt werde. = Ich plane, Arzt zu werden.\n\n**KB S. 167/A2 a:**\n- Kerstin findet es schön, elegante Kleider anzuprobieren.\n- Kerstin findet es aufregend, im Urlaub einkaufen zu gehen.\n- Kerstin findet es gut, den Arbeitsstress zu reduzieren.\n- Alexander findet es schön, alte Dinge wegzuwerfen.\n\n**Hausaufgaben:**\n- Bis Dienstag (Arbeitsbuch): S. 163/Einstiegsseite – einschließlich A2, S. 164/1+2, S. 165/5\n- Bis Donnerstag: A2-Verben auf der Liste mit den starken Verben",
+      "exercises": []
+    },
+    {
+      "id": "s5",
+      "nr": 5,
+      "date": "28.4.",
+      "title": "Konjunktiv II Präsens & irreale Bedingungssätze",
+      "kbLessons": [
+        "L20"
+      ],
+      "contentMd": "## Material: Mitschrift 28.4.\n\n**Dativ / Possessivartikel:**\n\n- Ich gab meinen Freunden ein Geschenk.\n- Das ist mein Freund. / Das ist ein Freund von mir. → normal\n- Das ist meine Freundin. / Das ist eine Freundin von mir. → normal\n- sich mit einer Person treffen: Ich habe mich mit meiner Mutter getroffen.\n- eine Person treffen: Ich habe meine Mutter getroffen.\n- sich treffen: Wollen wir uns morgen treffen?\n\n**Irreale Bedingungssätze – Vergleich mit dem Englischen (hypothetisch):**\n\n- If Jonas was older, she wouldn't have a problem with this relationship. (simple past – conditional)\n- Wenn Jonas älter wäre, hätte sie kein Problem mit dieser Beziehung. (Konjunktiv II Präsens – Konjunktiv II Präsens)\n\n**Konjunktiv II – Verwendung:**\n\n- Träume, Wünsche, Bitten: Ich würde gern eine lange Reise machen. / Ich hätte gern ein Brot.\n- Höfliche Fragen: Könntest du mir helfen?\n- Höfliche Tipps: Du solltest mehr Sport treiben.\n- Irreale Bedingungssätze: Wenn ich reich wäre, würde ich ein Haus kaufen.\n\n**KB S. 161/B2c:**\n\n- Wenn ich mehr Zeit hätte, würde ich öfter Deutsch üben. / würde ich mehr Sport machen.\n- Wenn ich mit meinen Freunden ins Kino gehen würde, würde ich mehr Filme mit ihnen zusammen sehen.\n- Wenn ich mit Johnny Depp in einem Film mitspielen würde, wäre ich unglücklich.\n- Wenn die Kinokarten billiger wären, würde ich öfter ins Kino gehen. / mehr Filme sehen.\n- Wenn Filme nicht so lange dauern würden, würde ich mehr Filme nochmal sehen. / würde ich nie im Kino einschlafen. / würden nicht so viele Menschen im Kino einschlafen.\n\n**Hausaufgaben (bis Donnerstag, Arbeitsbuch):**\n\n- S. 155/Rest (wir machen C nächstes Mal nicht, deshalb lernt bitte gleich den Rest der Vokabeln)\n- S. 158/5+6\n- S. 159/8–12\n\n## Material: Konjunktiv II Präsens (mit Notizen)\n\nFür den Konjunktiv II Präsens benutzen wir bei den meisten Verben die **würde-Form** und bei manchen Verben die **Präteritalform**.\n\n**würde-Form:**\n\n- ich würde\n- du würdest\n- er, es, sie würde &nbsp; (+ Infinitiv)\n- wir würden\n- ihr würdet\n- sie, Sie würden\n\n> Achtung: Satzklammer! — Ich **würde** jetzt gern am Strand **liegen**.\n\n**Präteritalform:**\n\nBei der Präteritalform nimmt man die Präteritumform für den Konjunktiv II Präsens. Bei starken und manchen gemischten Verben werden **a, o und u** im Verbstamm zu **ä, ö und ü**. Bei den starken Verben braucht man außerdem noch die Konjunktiv-Endungen (-e, -est, -e, -en, -et, -en).\n\n*Präteritum:*\n\n| sein | haben | können | dürfen | müssen | mögen | sollen |\n|---|---|---|---|---|---|---|\n| ich war | ich hatte | ich konnte | ich durfte | ich musste | ich mochte | ich sollte |\n| du warst | du hattest | du konntest | du durftest | du musstest | du mochtest | du solltest |\n| er war | er hatte | er konnte | er durfte | er musste | er mochte | er sollte |\n| wir waren | wir hatten | wir konnten | wir durften | wir mussten | wir mochten | wir sollten |\n| ihr wart | ihr hattet | ihr konntet | ihr durftet | ihr musstet | ihr mochtet | ihr solltet |\n| sie waren | sie hatten | sie konnten | sie durften | sie mussten | sie mochten | sie sollten |\n\n(wollen genauso)\n\n*Konjunktiv II Präsens – Präteritalform:*\n\n| sein | haben | können | dürfen | müssen | mögen | sollen |\n|---|---|---|---|---|---|---|\n| ich wäre | ich hätte | ich könnte | ich dürfte | ich müsste | ich möchte | ich sollte |\n| du wärest/wärst | du hättest | du könntest | du dürftest | du müsstest | du möchtest | du solltest |\n| er wäre | er hätte | er könnte | er dürfte | er müsste | er möchte | er sollte |\n| wir wären | wir hätten | wir könnten | wir dürften | wir müssten | wir möchten | wir sollten |\n| ihr wäret/wärt | ihr hättet | ihr könntet | ihr dürftet | ihr müsstet | ihr möchtet | ihr solltet |\n| sie wären | sie hätten | sie könnten | sie dürften | sie müssten | sie möchten | sie sollten |\n\n(wollen genauso)\n\n> Achtung: Wir müssen die Präteritalform nur bei **sein, haben und den Modalverben** benutzen. Aber manchmal hört oder liest man sie auch bei anderen Verben (z. B. bei gehen, finden und wissen).\n\n**Notizen / Beispiele:**\n\n- Markus: Andrea, **ginge** 19 Uhr für dich? Wir **könnten** ins Restaurant gehen. Wie **fändest** du das? Hey, sprich mit mir. Ich **wüsste** gern, was du denkst!\n- Andrea, **würde** 19 Uhr für dich gehen? …Wie **würdest** du das finden? Ich würde gern wissen, …\n- Präsens: Die Uhrzeit geht für mich. Präteritum: Die Uhrzeit ging für mich. Konjunktiv II Präsens Präteritalform: Die Uhrzeit **ginge** für mich. = Die Uhrzeit **würde** für mich gehen.\n- Ich **käme** gern. = Ich würde gern kommen.\n- Ich **ließe** das zu Hause. = Ich würde das zu Hause lassen.\n- Ich **bliebe** gern noch länger. = Ich würde gern noch länger bleiben.\n- Ich **bräuchte** noch Wasser. = Ich würde noch Wasser brauchen.\n\n## Material: indem – Sprechübung\n\nA: **Wie** verbesserst du dein Deutsch?\\\nB: **Indem** ich mit deutschen Leuten spreche. Und du?\\\nA: Indem ich …\n\nA: Wie bleibst du fit?\\\nB: Indem ich … Und du?\\\nA: Indem ich …\n\nA: Wie sparst du Geld?\\\nB: Indem ich … Und du?\\\nA: Indem ich …\n\nA: Wie lernst du neue Leute kennen?\\\nB: Indem ich … Und du?\\\nA: Indem ich …\n\nA: Wie lernst du die neuen Wörter?\\\nB: Indem ich … Und du?\\\nA: Indem ich …",
+      "exercises": [
+        {
+          "t": "ex",
+          "instruction": "Ergänze die Präteritalform des Konjunktiv II (sie hat dieselbe Bedeutung wie die würde-Form).",
+          "example": "Ich **käme** gern. = Ich würde gern kommen.",
+          "items": [
+            {
+              "q": "Ich ___ gern. = Ich würde gern kommen.",
+              "a": "käme",
+              "hint": "kommen, Konjunktiv II Präteritalform"
+            },
+            {
+              "q": "Ich ___ das zu Hause. = Ich würde das zu Hause lassen.",
+              "a": "ließe",
+              "hint": "lassen"
+            },
+            {
+              "q": "Ich ___ gern noch länger. = Ich würde gern noch länger bleiben.",
+              "a": "bliebe",
+              "hint": "bleiben"
+            },
+            {
+              "q": "Ich ___ noch Wasser. = Ich würde noch Wasser brauchen.",
+              "a": "bräuchte",
+              "hint": "brauchen"
+            },
+            {
+              "q": "Die Uhrzeit ___ für mich. = Die Uhrzeit würde für mich gehen.",
+              "a": "ginge",
+              "hint": "gehen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "nr": 4,
+      "date": "23.4.",
+      "title": "Veränderungen, Plusquamperfekt & indem",
+      "kbLessons": [
+        "L20"
+      ],
+      "contentMd": "## Veränderungen im Leben – Wortschatz\n\n- die Geburt\n- erwachsen werden\n- der Lebensabschnitt\n- arbeitslos sein\n- der Abschluss → eine Ausbildung abschließen\n- geschieden → die Scheidung → sich scheiden lassen\n- verheiratet → die Heirat/Hochzeit → heiraten\n- sterben → der Tod\n- ein Kind kriegen\n- schwanger sein\n- sich verlieben\n- eine Affäre haben\n\n## Plusquamperfekt\n\nBildung: haben/sein + Partizip II (im Präteritum)\n\n## Kursbuch S. 158/A1 b – Wortschatz\n\n- der Zuschauer, Pl.: die Zuschauer → Personen, die z. B. einen Film im Kino oder ein Theaterstück anschauen\n- die Handlung = die Geschichte in einem Film/Buch\n- das Jahrzehnt = 10 Jahre\n- entstehen → entstand → ist entstanden\n- verwenden = benutzen\n- der Gegenstand = das Objekt\n- verantwortlich für … sein\n- das Geräusch (der Oberbegriff, alles)\n- die Stimme (Jeder Mensch hat eine Stimme.)\n- der Ton (Musik)\n- Jemand spricht in einem unfreundlichen Ton. (Art und Weise des Sprechens)\n- der Lärm (negativ empfundene Geräusche)\n- KI = Künstliche Intelligenz\n\n## indem – Antwort auf die Frage „Wie?\"\n\n*Beispiele:*\n\n- Wie erledigen sie ihre Arbeit? – Sie erledigen ihre Arbeit, indem sie alte Zeitungen und Kokosnüsse verwenden.\n- Wie bleibst du fit? – Ich bleibe fit, indem ich regelmäßig Sport treibe.\n- Wie lernst du Deutsch? – Ich lerne, indem ich regelmäßig Deutsch spreche und Übungen mache.\n- Indem ich regelmäßig Sport treibe, bleibe ich fit.\n\n> Wichtig: „Indem\" ist ein Nebensatzkonnektor. Meistens benutzen wir „indem\", wenn das Subjekt im Hauptsatz und im Nebensatz gleich ist.\n\n## dass-Nebensatz\n\nIch denke, dass ich morgen Sport mache.\n\n## Wortschatz (Filme/Comedy)\n\n- die Comedy = Comedians auf der Bühne oder auf YouTube\n- die Komödie = ein lustiger Film\n\n## Kursbuch S. 160\n\n- mein Lieblingsschauspieler / meine Lieblingsschauspielerin\n- Es kommt darauf an. / Es kommt auf den Film an. / Es kommt auf meine Stimmung an.\n- erfolglos, arbeitslos, kostenlos … / erfolgreich, vitaminreich …\n- bekannt (alle kennen das) / beliebt = populär (alle lieben das)\n- Hast du Ahnung von diesem Thema? – Sorry, ich habe keine Ahnung davon.\n- das Original = die erste Version von etwas / originell = kreativ\n- Weil ich Horrorfilme mag, möchte ich Film C sehen.\n- Ich möchte diesen Film sehen, weil ich Horrorfilme mag.\n\n## Hausaufgaben (Arbeitsbuch)\n\n- S. 155/Einstiegsseite, A1, A2, A3, B1\n- S. 156/1+2\n- S. 157/8+9\n- S. 158/3+4\n- A1-Verben auf der Liste mit den starken Verben lernen",
+      "exercises": []
+    },
+    {
+      "id": "s3",
+      "nr": 3,
+      "date": "21.4.",
+      "title": "Präteritum, Plusquamperfekt & wenn/als",
+      "kbLessons": [
+        "L19"
+      ],
+      "contentMd": "## Mitschrift 21.4.\n\n- Ich gebe meinen Freunden ein Stück Kuchen.\n\n**Aufgabe:** Schreibt eine kurze Geschichte im Präteritum.\n\n*Mögliche Anfänge:*\n\n1. Es war ein wunderschöner Junimorgen.\n2. Ich war an diesem Tag im Gefängnis.\n\n### Präteritum-Beispiele / Wortschatz\n\n- Die Sonne schien.\n- völlig\n- Er rief an.\n- Ich begann zu kotzen. / Ich begann mich zu übergeben.\n- Wir gingen im Englischen Garten spazieren. / Wir machten im Englischen Garten einen Spaziergang.\n  - spazieren gehen / einen Spaziergang machen\n- Wir schwammen auch.\n\n### Text auf S. 154 im Kursbuch – Wortschatz\n\n- der Einfluss / jmd. beeinflussen = einen „Effekt\" auf jemanden haben\n- das Wissen / Sprachkenntnisse / IT-Kenntnisse\n- etwas in den Griff bekommen = etwas (wieder) kontrollieren\n- Es ist ihm gelungen. = Er hat es geschafft.\n- die Berufsschule\n- ausschließen\n- beschließen = sich entschließen = sich entscheiden\n- sich in einem Bereich auskennen = viel Ahnung von einem Bereich haben\n- die Rechnung / die Adresse / die Rechnungsadresse\n\n### Bildung Plusquamperfekt\n\nhaben/sein + Partizip II (im Präteritum)\n\n> Wir benutzen „haben\" oder „sein\" genauso wie im Perfekt.\n\n### KB S. 155/C1 e\n\n2. Nachdem unser Sohn auf die Welt gekommen war, wurde alles anders.\n3. Nachdem mein Freund mich zu einem Live-Spiel mitgenommen hatte, wurde ich ein richtiger Fußballfan.\n4. Nachdem ich mit meinem Freund Alex gesprochen hatte, hatte ich wieder Hoffnung.\n5. Nachdem ich den Film „Pina\" gesehen hatte, war mein Berufswunsch klar.\n- Nachdem ich nach Hause gegangen war, hatte ich Abendessen.\n\n### Hausaufgaben\n\n- A1-Verben auf der Liste der unregelmäßigen Verben nach Sprachniveau (bis Dienstag nächste Woche)\n- Arbeitsbuch: S. 147/Rest der Vokabeln, S. 152/1+2, S. 152/3+4, S. 153/6+7",
+      "exercises": [
+        {
+          "t": "ex",
+          "instruction": "Ergänze die Nebensätze. Bilde die wenn-/als-Sätze (Verb am Ende).",
+          "example": "Was machst du, **wenn** es drei Tage **regnet**? – Ich lese ein dickes Buch.",
+          "items": [
+            {
+              "q": "Was machst du, ___ die U-Bahn nicht ___? (wenn / kommen)",
+              "a": [
+                "wenn",
+                "kommt"
+              ],
+              "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+            },
+            {
+              "q": "Was machst du, ___ du dein Handy ___? (wenn / verlieren)",
+              "a": [
+                "wenn",
+                "verlierst"
+              ],
+              "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+            },
+            {
+              "q": "Was machst du, ___ du die Grammatik nicht ___? (wenn / verstehen)",
+              "a": [
+                "wenn",
+                "verstehst"
+              ],
+              "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+            },
+            {
+              "q": "Was machst du, ___ dein Nachbar nachts um 1 Uhr ___? (wenn / klingeln)",
+              "a": [
+                "wenn",
+                "klingelt"
+              ],
+              "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+            },
+            {
+              "q": "Wie ging es dir, ___ du zum ersten Mal eine Tomate gegessen ___? (als / essen, Perfekt)",
+              "a": [
+                "als",
+                "hast"
+              ],
+              "hint": "Einmaliges Ereignis in der Vergangenheit: als + Perfekt, Hilfsverb am Ende."
+            },
+            {
+              "q": "Wie hast du dich gefühlt, ___ du den ersten eigenen Computer bekommen ___? (als / bekommen, Perfekt)",
+              "a": [
+                "als",
+                "hast"
+              ],
+              "hint": "Einmaliges Ereignis in der Vergangenheit: als + Perfekt, Hilfsverb am Ende."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

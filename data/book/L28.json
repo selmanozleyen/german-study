@@ -1,0 +1,502 @@
+{
+  "id": "L28",
+  "title": "Hättest du anders gehandelt?",
+  "kursbuch": "Kursbuch S. 221–228",
+  "theme": "Über vergangene Ereignisse spekulieren, diskutieren und argumentieren, ein politisches System beschreiben",
+  "blocks": [
+    {
+      "t": "h",
+      "text": "Hättest du anders gehandelt? — Wo warst du, als …?"
+    },
+    {
+      "t": "note",
+      "label": "Tipp",
+      "md": "**SIE LERNEN**\n- über vergangene Ereignisse spekulieren\n- diskutieren, argumentieren\n- ein politisches System beschreiben\n\n**GRAMMATIK**\n- Adjektivdeklination (4)\n- Konjunktiv II – Vergangenheit (irreale/r Bedingung / Wunsch / Vergleich)\n- *als ob*\n- Partizip I + II als Attribut\n- Nominalisierung Partizipien\n- Wiederholung: Adjektivdeklination; Konjunktiv II; Partizip II\n\n**WORTSCHATZ**\n- politische Systeme"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Wichtige Ereignisse der letzten zehn Jahre. Wie haben Sie davon erfahren? Wo waren Sie da? Was haben Sie gemacht? Machen Sie Notizen.",
+      "md": "- **Politik:** Wahl des …\n- **Sport:** Fußballweltmeisterschaft\n- **Katastrophen:** Flugzeugabsturz, Hochwasser in …\n- **Technik/Naturwissenschaften:** neues Medikament gegen … entwickelt, … gegründet, … erfunden, … entdeckt, …\n- **Kunst/Kultur:** Konzerttournee von …, Ausstellung in … eröffnet"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Lesen Sie. An welche Ereignisse erinnert Saskia sich? Wo war sie damals?"
+    },
+    {
+      "t": "text",
+      "md": "**Saskia:** Ich kann mich noch gut an das Hochwasser in Nordindien erinnern. Meine Schwester musste damals beruflich in diese Region reisen. Wir haben noch am Vorabend miteinander telefoniert und dann haben wir in den Nachrichten von dem Hochwasser gehört. Solange wir von Irene nichts gehört haben, haben wir uns wirklich große Sorgen gemacht. Doch dann hat sie sich gemeldet.\n\nAls meine Lieblingssängerin gestorben ist, war ich gerade auf einem Familienfest. Meine Freundin hat mich angerufen und mir davon erzählt. Statt am nächsten Tag mit der Familie wandern zu gehen, bin ich zu meiner Freundin gefahren. Wir haben den ganzen Abend die CDs meiner Lieblingssängerin gehört."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Schreiben Sie zwei kurze Texte zu Ihren Ideen aus a und sprechen Sie mit Ihrer Partnerin / Ihrem Partner.",
+      "md": "Ich kann mich noch gut an … erinnern. Als … war ich …\n\nIch habe von … aus dem Radio / über das Fernsehen / von … erfahren.\n\nSobald …, habe / bin ich … Statt / Ohne … zu …, habe / bin ich …"
+    },
+    {
+      "t": "h",
+      "text": "A1 — Die Mauer"
+    },
+    {
+      "t": "transform",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Notizen zu den Jahreszahlen.",
+      "items": [
+        {
+          "prompt": "1949:",
+          "solution": "Gründung der DDR und der BRD (zwei deutsche Staaten)"
+        },
+        {
+          "prompt": "1961:",
+          "solution": "Bau der Mauer zwischen Ost- und Westberlin"
+        },
+        {
+          "prompt": "1989:",
+          "solution": "Fall der Berliner Mauer / Wiedervereinigung der beiden deutschen Staaten"
+        }
+      ],
+      "example": "1945:\n\n→ Ende des Zweiten Weltkriegs / Deutschland wird in vier Besatzungszonen geteilt"
+    },
+    {
+      "t": "text",
+      "md": "**Die Berliner Mauer**\n\nNach dem Zweiten Weltkrieg wurde Deutschland 1945 in vier Besatzungszonen geteilt. Berlin lag in der sowjetischen Zone¹. Der Westteil der Stadt wurde von den Amerikanern, Franzosen und Briten verwaltet². 1949 wurden die DDR (Deutsche Demokratische Republik) und die BRD (Bundesrepublik Deutschland) gegründet. Die DDR entstand auf dem Gebiet der sowjetischen Besatzungszone, die anderen Zonen wurden zur BRD. Ab diesem Zeitpunkt gab es also zwei deutsche Staaten. Der Ostteil Berlins gehörte zur DDR, der Westteil zur BRD. Im Jahr 1961 wurde zwischen Ost- und Westberlin eine Mauer gebaut. 1989 fiel die Berliner Mauer und die beiden deutschen Staaten wurden wiedervereinigt.\n\n*¹ Bereich*\n*² hier: das öffentliche Leben organisieren (Verwaltung)*\n\nJahreszahlen: 1945: Ende des Zweiten Weltkriegs · 1949: … · 1961: … · 1989: …"
+    },
+    {
+      "t": "task",
+      "label": "Lesen",
+      "instruction": "Lesen Sie den Text. Was ist an der Beziehung zwischen Elias und Annette besonders?"
+    },
+    {
+      "t": "text",
+      "md": "**Liebe kennt keine Grenzen**\n\nElias ist die Strecke schon so oft gefahren. Doch wenn die U-Bahn an der Station Berlin Friedrichstraße hält, spürt er immer noch die innere Unruhe von damals. 28 Jahre lang war hier sein Berlin zu Ende, begann hier das Berlin von Annette. Er hatte Annette im Jahr 1959 bei einem Kinobesuch kennengelernt. Sie verliebten sich ineinander, die Grundschullehrerin aus der DDR und der Handelsvertreter aus der BRD. Ein Jahr später wurde geheiratet und sie begannen, in Westberlin eine Wohnung zu suchen. Doch dann kam die Katastrophe des 13. August 1961. Als Elias die Grenze überqueren¹ wollte, wurde er aufgehalten. Zuerst hatte er an ein Missverständnis² gedacht, doch über die Radionachrichten erhielt er die Bestätigung³: Er durfte zunächst nicht mehr zu Annette zurück. Hätten sie damals rechtzeitig eine gemeinsame Wohnung in Westberlin gefunden, wären die Behörden⁴ machtlos⁵ gewesen, aber so … Doch vielleicht wäre Annette überhaupt nicht zu ihm nach Westberlin gezogen. Sie liebte ihren Beruf. Sie stammte⁶ aus dem Osten und lebte gern dort. Hätte er sie verstanden? Hätte er ihr Vorwürfe⁷ gemacht?\n\nNatürlich schrieben sie sich, sie telefonierten miteinander und an den Feiertagen durfte Elias sie besuchen. Aber eigentlich warteten sie nur auf den Sommer. Da trafen sie sich heimlich in Ungarn. Annette leitete dort ein Jugendlager. Er erinnert sich noch gut an den Geschmack frischer Kuhmilch am Morgen und den Anblick wilder Pusztapferde. Immer wieder sprachen sie damals über die Möglichkeiten, ein gemeinsames Leben als Ehepaar zu führen. Er hätte eine Einreisegenehmigung in die DDR beantragen können. Aber er hätte dann seinen Beruf einschließlich seiner Geschäftskontakte und Freunde aufgeben müssen, und das wollte er nicht. Eine Flucht⁸ in den Westen wäre für Annette viel schwieriger gewesen. Ihre Ehe war in der DDR nicht illegal⁹, aber man empfahl ihr, sich scheiden zu lassen. Annette weigerte sich. Wie hätte er reagiert, wenn sie sich für die Scheidung entschieden hätte? Er will gar nicht daran denken. Sie haben viel versäumt. Sie hätten Kinder haben können, sie hätten sich um die gemeinsame Erziehung¹⁰ der Kinder kümmern können, sie wären auf Reisen gegangen, doch so … Und dann kam das Jahr 1989. Plötzlich war die Mauer weg, die DDR existierte nicht mehr. Nach 28 Jahren konnten sie endlich zusammen leben. Anfangs mussten sie sich erst wieder aneinander gewöhnen. Doch es war schön, wunderschön sogar. Ihre Liebe hatte doch noch über die politischen Ereignisse gesiegt.\n\n*¹ über etw. (z. B. eine Straße) gehen / fahren / …*\n*² ↔ Verständnis, missverstehen*\n*³ Erklärung, dass etw. richtig ist*\n*⁴ Amt*\n*⁵ man kann etw. nicht beeinflussen, ohne Macht*\n*⁶ kommen aus*\n*⁷ jmdm. sagen, dass sie/er einen Fehler gemacht hat*\n*⁸ wenn jmd. flieht*\n*⁹ verboten, gegen das Gesetz*\n*¹⁰ wie z. B. Eltern ihre Kinder behandeln; (erziehen)*"
+    },
+    {
+      "t": "match",
+      "instruction": "Ordnen Sie die Stichwörter in die richtige zeitliche Reihenfolge (1–5).",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "rows": [
+        {
+          "text": "Heirat und Wohnungssuche",
+          "answer": "2"
+        },
+        {
+          "text": "Bau der Berliner Mauer",
+          "answer": "3"
+        },
+        {
+          "text": "Jugendlager in Ungarn",
+          "answer": "4"
+        },
+        {
+          "text": "Fall der Berliner Mauer 1989",
+          "answer": "5"
+        }
+      ],
+      "example": "Kinobesuch 1959 → **1**"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Partnerarbeit. Schreiben Sie Sätze wie im Beispiel und erzählen Sie von Ihren Erinnerungen. (→ Adjektivdeklination, Lektionen 15 + 17)",
+      "md": "frische • Brötchen · süßer • Kakao · seltene • Gewürze · laute • Kirchenglocken · reife • Aprikosen · fettes • Fleisch · spitze • Akkupunkturnadeln · verrückte • Frisuren · karierte • Taschentücher · warme, lange • Strümpfe · leckere • Salatsoßen · dicke • Romane …\n\nDer Anblick … / Der Geruch … / Der Geschmack … / Der Klang / Das Geräusch … erinnert mich an …\n\n*Beispiel:* Der Geruch frischer Brötchen erinnert mich an die Bäckerei neben unserem Haus."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Adjektivdeklination (4) im Genitiv**\n\n**Hauptregel (HR):** meistens **-en**\n\n> der Geruch frisch**en** Brot**es**, der Anblick einer klein**en** Maus, der Klang ihrer tief**en** Stimmen, …\n\nAber ⚠:\n\n**Singularregel 4 (SR4)** – Genitiv nach Nullartikel\n> der Geschmack frisch**er** • Milch\n\n**Pluralregel 2 (PL2)** – Genitiv nach Nullartikel\n> der Anblick wild**er** • Pusztapferde"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie die Adjektivendungen im Genitiv.",
+      "items": [
+        {
+          "q": "Der Geschmack frisch___ Milch erinnert mich an Ungarn.",
+          "a": "er",
+          "hint": "Nullartikel, feminin Singular (SR4)"
+        },
+        {
+          "q": "Der Anblick wild___ Pusztapferde war beeindruckend.",
+          "a": "er",
+          "hint": "Nullartikel, Plural (PL2)"
+        },
+        {
+          "q": "Der Klang ihr___ tief___ Stimmen gefiel mir.",
+          "a": [
+            "er",
+            "en"
+          ],
+          "hint": "Possessivartikel, Plural"
+        },
+        {
+          "q": "Der Geschmack des süß___ Kakaos erinnert mich an die Kindheit.",
+          "a": "en",
+          "hint": "bestimmter Artikel"
+        }
+      ],
+      "example": "Der Geruch frisch**en** Brotes erinnert mich an die Bäckerei."
+    },
+    {
+      "t": "h",
+      "text": "A2 — Versäumte Chancen"
+    },
+    {
+      "t": "match",
+      "instruction": "Lesen Sie den Satz: „Hätten sie eine gemeinsame Wohnung in Westberlin gefunden, wären die Behörden machtlos gewesen.\" Beantworten Sie die Fragen.",
+      "options": [
+        "ja",
+        "nein"
+      ],
+      "rows": [
+        {
+          "text": "Sind die Behörden machtlos gewesen?",
+          "answer": "nein"
+        }
+      ],
+      "example": "Haben sie eine gemeinsame Wohnung gefunden? → **nein**"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Konjunktiv II der Vergangenheit (irreale Bedingung)**\n\n> Wenn sie eine Wohnung gefunden **hätten**, **wären** die Behörden machtlos **gewesen**.\n>\n> **Hätten** sie eine Wohnung gefunden, **wären** die Behörden machtlos **gewesen**.\n\n**Wunsch**\n\n> **Hätten** wir doch eine Wohnung gefunden!"
+    },
+    {
+      "t": "transform",
+      "instruction": "Was wäre möglich gewesen, wenn es die Mauer nicht gegeben hätte? Schreiben Sie Sätze im Konjunktiv II der Vergangenheit. Beginnen Sie jeweils mit „Wenn es die Mauer nicht gegeben hätte, …\".",
+      "items": [
+        {
+          "prompt": "Sie haben nie gemeinsam Geburtstag gefeiert.",
+          "solution": "Wenn es die Mauer nicht gegeben hätte, hätten sie gemeinsam Geburtstag gefeiert."
+        },
+        {
+          "prompt": "Sie sahen sich nur zwei Wochen im Jahr in Ungarn.",
+          "solution": "Wenn es die Mauer nicht gegeben hätte, hätten sie sich öfter gesehen."
+        },
+        {
+          "prompt": "Sie konnten nicht gemeinsam reisen.",
+          "solution": "Wenn es die Mauer nicht gegeben hätte, hätten sie gemeinsam reisen können."
+        },
+        {
+          "prompt": "Sie sind nie gemeinsam ausgegangen.",
+          "solution": "Wenn es die Mauer nicht gegeben hätte, wären sie gemeinsam ausgegangen."
+        },
+        {
+          "prompt": "Sie mussten sich Briefe schreiben.",
+          "solution": "Wenn es die Mauer nicht gegeben hätte, hätten sie sich keine Briefe schreiben müssen."
+        }
+      ],
+      "example": "Annette und Elias hatten keine Kinder.\n\n→ Wenn es die Mauer nicht gegeben hätte, hätten Annette und Elias Kinder gehabt."
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie hätte oder wäre im Konjunktiv II der Vergangenheit.",
+      "items": [
+        {
+          "q": "Wenn es die Mauer nicht gegeben hätte, ___ Annette und Elias Kinder gehabt.",
+          "a": "hätten"
+        },
+        {
+          "q": "Hätten sie rechtzeitig eine Wohnung gefunden, ___ die Behörden machtlos gewesen.",
+          "a": "wären",
+          "hint": "sein im Konjunktiv II"
+        },
+        {
+          "q": "Wie hätte er reagiert, wenn sie sich für die Scheidung entschieden ___?",
+          "a": "hätte"
+        },
+        {
+          "q": "Eine Flucht in den Westen ___ für Annette viel schwieriger gewesen.",
+          "a": "wäre"
+        },
+        {
+          "q": "___ wir doch eine gemeinsame Wohnung gefunden!",
+          "a": "Hätten",
+          "hint": "irrealer Wunsch"
+        },
+        {
+          "q": "Was ___ geschehen, wenn Annette sich hätte scheiden lassen?",
+          "a": "wäre"
+        },
+        {
+          "q": "Er ___ eine Einreisegenehmigung in die DDR beantragen können.",
+          "a": "hätte",
+          "hint": "Modalverb können"
+        },
+        {
+          "q": "Sie ___ Kinder haben können, aber so …",
+          "a": "hätten"
+        }
+      ],
+      "example": "Wenn sie eine Wohnung gefunden **hätten**, wären die Behörden machtlos gewesen."
+    },
+    {
+      "t": "h",
+      "text": "A3 — Dann wäre alles anders gekommen …"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Denken Sie an fünf Situationen, die wichtige Folgen für Ihr Leben hatten. Schreiben Sie den Anfang von wenn-Sätzen.",
+      "md": "Wenn mein Vater mich nicht zu einem Eishockeyspiel mitgenommen hätte, …\n\nWenn ich nicht zu Alexanders Party gegangen wäre, …"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Lesen Sie die Satzanfänge Ihrer Partnerin / Ihres Partners und versuchen Sie, das Ende der Sätze zu erraten.",
+      "md": "*Beispiel:* Wenn dein Vater dich nicht zu einem Eishockeyspiel mitgenommen hätte, hättest du nie Eishockey gespielt."
+    },
+    {
+      "t": "h",
+      "text": "B1 — Mitbestimmung im Betrieb – Der Betriebsrat"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Was darf ein Betriebsrat, was darf er nicht? Was glauben Sie? Diskutieren Sie und kreuzen Sie an (richtig / falsch).",
+      "md": "§ In Deutschland und Österreich haben Mitarbeiter das Recht, in ihrer Firma einen Betriebsrat zu wählen, der ihre Interessen vertritt und bei bestimmten Entscheidungen in der Firma mitbestimmen darf.\n\n1. Der Betriebsrat muss einverstanden sein, wenn einem Mitarbeiter gekündigt wird.\n2. Der Betriebsrat klärt die Mitarbeiter über gesundheitliche Gefahren am Arbeitsplatz auf.\n3. Der Betriebsrat ist berechtigt, Arbeitsverträge mit den Mitarbeitern abzuschließen.\n4. Der Betriebsrat diskutiert die Dienstpläne und Überstundenregelungen mit der Firmenleitung.\n5. Der Betriebsrat kann darüber abstimmen, ob die Chefin / der Chef entlassen wird.\n6. Die Chefin / Der Chef muss dem Betriebsrat rechtzeitig mitteilen, wenn Änderungen im Betrieb oder in der Produktion notwendig werden.\n7. Der Betriebsrat ist verpflichtet, zum Wohl der Mitarbeiter für saubere Arbeitsplätze zu sorgen.\n8. Der Betriebsrat kann mit Unterstützung der Gewerkschaft die Mitarbeiter zum Streik aufrufen."
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**als ob + Konjunktiv II**\n\n> Es sieht so aus, **als ob** man die Firma verkaufen **würde**. ≈ Ich vermute, dass man die Firma verkauft.\n>\n> Es sieht so aus, **als ob** man die Firma verkauft **hätte**. ≈ Ich vermute, dass man die Firma verkauft hat."
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie den irrealen Vergleich mit als ob im Konjunktiv II.",
+      "items": [
+        {
+          "q": "Zuerst hat es so ausgesehen, als ob man unsere Firma schon verkauft ___.",
+          "a": "hätte",
+          "hint": "Vermutung über die Vergangenheit"
+        },
+        {
+          "q": "Das klingt so, als ob du dem Betriebsrat die Schuld ___ würdest.",
+          "a": "geben"
+        },
+        {
+          "q": "Es sieht so aus, als ob du da einen Plastikbecher in den Papierkorb geworfen ___.",
+          "a": "hättest"
+        }
+      ],
+      "example": "Es sieht so aus, als ob man die Firma verkaufen **würde**."
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Wer kritisiert den Betriebsrat ☹? Wer findet seine Arbeit gut ☺? Kreuzen Sie an. Bernd: ☺ / ☹  —  Marianne: ☺ / ☹"
+    },
+    {
+      "t": "h",
+      "text": "B2 — Mitbestimmung im Ort"
+    },
+    {
+      "t": "transform",
+      "instruction": "Schreiben Sie zu jedem Satz zwei Sätze mit als ob wie im Beispiel: einen mit „würde\" (Gegenwart) und einen mit „hätte\" (Vergangenheit).",
+      "items": [
+        {
+          "prompt": "2. Man verbietet das Autofahren im Stadtzentrum.",
+          "solution": "2a. Es sieht so aus, als ob man das Autofahren im Stadtzentrum verbieten würde. 2b. Es sieht so aus, als ob man das Autofahren im Stadtzentrum verboten hätte."
+        },
+        {
+          "prompt": "3. Es regnet und stürmt am Wochenende.",
+          "solution": "3a. Es sieht so aus, als ob es am Wochenende regnen und stürmen würde. 3b. Es sieht so aus, als ob es am Wochenende geregnet und gestürmt hätte."
+        }
+      ],
+      "example": "1. Man baut im Seepark ein Hotel.\n\n→ 1a. Es sieht so aus, als ob man im Seepark ein Hotel bauen würde. 1b. Es sieht so aus, als ob man im Seepark ein Hotel gebaut hätte."
+    },
+    {
+      "t": "match",
+      "instruction": "Ordnen Sie Ihre Sätze aus a den Schlagzeilen zu. Welche Schlagzeile passt zu welchem Satz? (→ Konjunktiv II, Lektion 13)",
+      "options": [
+        "1a",
+        "1b",
+        "2a",
+        "2b",
+        "3a",
+        "3b"
+      ],
+      "rows": [
+        {
+          "text": "B: Seit gestern Fahrverbot für Autos im Stadtzentrum",
+          "answer": "2b"
+        },
+        {
+          "text": "C: Wohnanlage durch Unwetter beschädigt",
+          "answer": "3b"
+        },
+        {
+          "text": "D: Hotelanlage im Seepark eröffnet",
+          "answer": "1b"
+        },
+        {
+          "text": "E: Bürgerinitiative gegen Fahrverbot im Stadtzentrum",
+          "answer": "2a"
+        },
+        {
+          "text": "F: Schlechtwetter am Wochenende",
+          "answer": "3a"
+        }
+      ],
+      "example": "A: Gemeinderat plant Hotelanlage im Seepark → **1a**"
+    },
+    {
+      "t": "task",
+      "label": "Lesen",
+      "instruction": "Lesen Sie den Zeitungsartikel. Welche Schlagzeile aus b passt?"
+    },
+    {
+      "t": "text",
+      "md": "… „Wir hoffen, dass sich die Zahl der Touristen in den nächsten Jahren um mehr als 20 Prozent erhöht.\" Bürgermeister Hofbauer hatte gute Laune¹. Er nutzte gestern eine Bürgerversammlung², um das Hotelprojekt „Arconda\" der Presse und der Öffentlichkeit vorzustellen. Im Park soll eine Hotelanlage mit mehr als 400 Betten gebaut werden. Die Gegner des Projektes haben sich in einer Bürgerinitiative organisiert. Sie wiesen darauf hin³, dass durch den Bau ein Teil des Naturschutzgebietes zerstört wird, in dem mehrere geschützte Vogelarten leben. Auch andere Bürger warnten davor, den Strandbereich und den Park zu verbauen. „Viele Touristen kommen wegen der Ruhe und der Natur zu uns. Die Nachfrage⁴ nach alternativen Urlaubsangeboten steigt. Wir wollen keine Großbaustelle im Ort, auch nicht für eine begrenzte Zeit\", waren ihre Begründungen. Walter Mohr, Geschäftsführer des größten Hotels in Kleinstein, meinte: „Wir haben schon jetzt Probleme, alle Zimmer zu vermieten. Das neue Hotel ist eine ernste Gefahr für die anderen Hotels in der Stadt.\" Im Gegensatz dazu gab es aber auch viele Stimmen, die die Vorteile des Projektes unterstrichen. „Das Projekt schafft Arbeitsplätze, sowohl in der Bauphase als auch danach.\" In den nächsten Wochen soll das Bauprojekt genehmigt werden. Gegner des Projektes haben Unterschriften gesammelt. Sie planen eine Demonstration und denken daran, den Park zu besetzen⁵. Es scheint, als ob Bürgermeister Hofbauer doch noch mit starkem Gegenwind rechnen müsste.\n\n*¹ Stimmung*\n*² Treffen der Bürger*\n*³ auf etw. aufmerksam machen*\n*⁴ Interesse*\n*⁵ dort bleiben, hier: um die Baustelle zu verhindern*"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Partnerarbeit. Lesen Sie den Zeitungsartikel noch einmal und wählen Sie drei Personen aus der Tabelle. Was könnten die Personen in einer Diskussion sagen? Schreiben Sie wie im Beispiel.",
+      "md": "| Personen für das Projekt | Personen gegen das Projekt |\n|---|---|\n| Eiscafébesitzerin | Hotelmanager eines anderen Hotels |\n| Surflehrerin | Naturschützerin |\n| Bauingenieur | Rentner (Einwohner) |\n\n*Wortschatz:* mehr Eis verkaufen · mehr Lärm · neue Mitarbeiter einstellen · mehr Verkehr · das Café / die Surfschule … vergrößern · neue Baumaschinen kaufen · höhere Steuern zahlen · eine Segelschule eröffnen · mehr Strandunterhaltung bieten · schlechte Luftqualität · der Jugend Chancen bieten · …\n\n*Beispiel (Surflehrerin):* Das Projekt schafft Arbeitsplätze. Wenn mehr Touristen kommen, kann meine Surfschule im Sommer noch einen Surflehrer anstellen."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Lesen Sie einige wichtige Argumente für die einzelnen Personen vor."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Was meinen Sie? Wer hat recht? Diskutieren Sie im Kurs.",
+      "md": "Ich finde, … hat recht. Es ist wichtig, dass …\n\nDa muss ich widersprechen. Ich finde, dass …\n\nIch stimme … zu. Sie / Er sagt, dass …\n\nJa, aber … hat auch recht."
+    },
+    {
+      "t": "h",
+      "text": "C1 — Wie wird man Deutscher, Österreicher oder Schweizer?"
+    },
+    {
+      "t": "task",
+      "label": "Lesen",
+      "instruction": "Lesen Sie die Texte. Wer sagt, dass ein Staatsbürgerschaftstest auch Fragen zur Geschichte enthalten sollte?"
+    },
+    {
+      "t": "text",
+      "md": "**HEUTE IM FORUM: WAS MÜSSEN ZUKÜNFTIGE STAATSBÜRGER WISSEN?**\n\nUm Deutscher, Österreicher oder Schweizer zu werden, muss man auch einen Test zur Geschichte und Politik des Landes bestehen. Heute wollen wir von euch wissen, welche Fragen ihr dabei stellen würdet.\n\n**sabi:** Ich weiß selbst nicht viel über Politik und Geschichte. Aber was in Österreich zwischen 1938 und 1945 passiert ist, das sollte man schon wissen. Ich finde allerdings nicht wichtig, wann die so ewig lang regierenden¹ Habsburger² ihre Kriege geführt haben. Viel wichtiger ist es, dass man im alltäglichen Leben zurechtkommt. Man sollte die wichtigsten Behörden, Ämter und Vereine³ kennen und wissen, wo man sich erkundigen⁴ kann, wenn man Fragen oder Probleme hat. Die Namen der Regierenden muss man nicht unbedingt wissen.\n\n**urs:** Man muss wissen, welche Rechte und Pflichten man als Staatsbürger hat. Denn nur als informierter Bürger kann man bei den regelmäßig stattfindenden Volksabstimmungen im Kanton mitmachen und einen Beitrag für die Demokratie⁵ leisten⁶. Es ist nicht so wichtig, dass man alle Einzelheiten zur Geschichte der Schweiz kennt. Aber man sollte wissen, wer die gewählten Volksvertreter im Bundesrat⁷ sind, und wie unser Verhältnis zur Europäischen Union (EU) geregelt wird. Ein gelungener Test sollte das abfragen.\n\n**cato:** Man sollte die in der Verfassung⁸ beschriebenen Grundrechte kennen, zum Beispiel das Recht auf Meinungsfreiheit. Man sollte auch wissen, wie in Deutschland gewählt wird. Aber es ist nicht so wichtig, welche konkurrierenden Parteien und Politiker es gibt. Das muss in einem Test nicht unbedingt vorkommen.\n\n*¹ ein Land führen*\n*² Kaiser- (= Königs-) Familie in Österreich*\n*³ Organisation für Leute mit gleichen Hobbys, Interessen oder Zielen*\n*⁴ fragen*\n*⁵ Staatsform, in der die Bürger die Regierung wählen*\n*⁶ mitarbeiten*\n*⁷ die Regierung in der Schweiz*\n*⁸ Gesetzestext mit den wichtigsten Gesetzen eines Staates*"
+    },
+    {
+      "t": "task",
+      "label": "Schreiben",
+      "instruction": "Lesen Sie noch einmal. Welche Fragen finden die Personen wichtig / nicht wichtig? Schreiben Sie.",
+      "md": "| | wichtig | nicht wichtig |\n|---|---|---|\n| sabi | Was ist in Österreich zwischen 1938 und 1945 geschehen? | Wann haben die Habsburger regiert? |\n| urs | | |\n| cato | | |"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Partizipien als Attribute**\n\n- **Partizip I:** regieren → regierend — die regier**ende** Partei = die Partei, die regiert / regiert hat\n- **Partizip II:** gewinnen → gewonnen — die gewonn**ene** Wahl = die Wahl, die gewonnen wurde\n- **Partizip II:** steigen → gestiegen — das gestieg**ene** Interesse = das Interesse, das gestiegen ist / war\n\n**Partizipien als Nomen**\n\n- Regierende = Personen, die regieren\n- Regierte = Personen, die regiert werden"
+    },
+    {
+      "t": "ex",
+      "instruction": "Ergänzen Sie die Nomen und bilden Sie die Partizipien (Attribut bzw. Nomen).",
+      "items": [
+        {
+          "q": "die Volksabstimmungen, die regelmäßig stattfinden = die regelmäßig ___ Volksabstimmungen",
+          "a": "stattfindenden",
+          "hint": "Partizip I, stattfinden"
+        },
+        {
+          "q": "die Volksvertreter, die gewählt wurden = die ___ Volksvertreter",
+          "a": "gewählten",
+          "hint": "Partizip II, wählen"
+        },
+        {
+          "q": "ein Test, der gelungen ist = ein ___ Test",
+          "a": "gelungener",
+          "hint": "Partizip II, gelingen"
+        },
+        {
+          "q": "die Grundrechte, die in der Verfassung beschrieben werden = die in der Verfassung ___ Grundrechte",
+          "a": "beschriebenen",
+          "hint": "Partizip II, beschreiben"
+        },
+        {
+          "q": "Personen, die regieren = die ___",
+          "a": "Regierenden|Regierende",
+          "hint": "Partizip I als Nomen"
+        },
+        {
+          "q": "Personen, die regiert werden = die ___",
+          "a": "Regierten|Regierte",
+          "hint": "Partizip II als Nomen"
+        },
+        {
+          "q": "Die in der Regierung nicht ___ Parteien bilden die Opposition.",
+          "a": "vertretenen",
+          "hint": "Partizip II, vertreten"
+        }
+      ],
+      "example": "die Habsburger, die ewig lang regiert haben = die ewig lang **regierenden** Habsburger"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Welche Fragen würden Sie in einem Einbürgerungstest für Ihr Heimatland stellen, welche nicht? Sammeln Sie wichtige und unwichtige Fragen."
+    },
+    {
+      "t": "h",
+      "text": "C2 — Geschichte und Politik in den deutschsprachigen Ländern"
+    },
+    {
+      "t": "task",
+      "label": "Lesen",
+      "instruction": "Lesen Sie die Texte. Welche Fragen aus 1b können Sie nach dem Lesen beantworten?"
+    },
+    {
+      "t": "text",
+      "md": "**Geschichte**\n\nIn Deutschland und Österreich herrschten¹ mehrere Jahrhunderte lang ausschließlich Könige, Kaiserinnen und Kaiser. Erst im Jahr 1918 wurden beide Staaten demokratisch. 26 Jahre später kam in Deutschland Adolf Hitler an die Macht. Von 1934 bis 1945 war Deutschland eine Diktatur. Österreich war von 1938 bis 1945 ein Teil des Deutschen Reiches. Die nach dem Zweiten Weltkrieg eingeführte Regierungsform ist bis heute gültig. Heute sind beide Länder Demokratien. Die Schweiz ist schon seit 1848 eine Demokratie.\n\n**Grundrechte und Verfassung**\n\nIn allen drei Ländern stehen wichtige Werte und Grundrechte in der Verfassung. Zu den durch die Verfassung geschützten Grundrechten gehören unter anderen das Recht auf freie Meinungsäußerung, das Recht auf Religionsfreiheit und das Recht auf Familie. Auch Minderheitenrechte² sind durch die Verfassung geschützt.\n\n**Bundesländer und Kantone**\n\nDeutschland, Österreich und die Schweiz bestehen aus mehreren politischen Einheiten mit einer eigenen Verwaltung. Die in den Bundesländern (Deutschland und Österreich) und Kantonen (Schweiz) regierenden regionalen Parlamente können zu bestimmten Themen selbstständig Gesetze beschließen.\n\n**Politische Parteien und Wahlen**\n\nIn den deutschsprachigen Ländern gibt es linke, rechte, konservative³, liberale⁴ und nationale Parteien, die gewählt werden können. In der Schweiz gibt es neben den Wahlen auch regelmäßig stattfindende Volksabstimmungen über den Inhalt von Gesetzen. An den Wahlen und Abstimmungen können alle erwachsenen Frauen und Männer gleichberechtigt⁵ teilnehmen.\n\n**Die Regierung**\n\nRegierungen sollen politische Entscheidungen treffen, Reformen durchführen und das Land regieren. Die in der Regierung nicht vertretenen Parteien bilden die Opposition. In Deutschland und Österreich führt eine Bundeskanzlerin oder ein Bundeskanzler die Regierung. Ministerinnen und Minister unterstützen ihn oder sie dabei. In der Schweiz regieren sechs Bundesräte oder -rätinnen. Bundespräsidentinnen oder -präsidenten, die das Land nach außen vertreten, gibt es in Deutschland und Österreich. Die deutschen und österreichischen Regierungsmitglieder vertreten ihre Länder auch im Ministerrat der EU. Als Nichtmitglied schließt die Schweiz mit der EU besondere Verträge ab.\n\n*¹ regieren*\n*² die Rechte des kleineren Teils der Bevölkerung; ↔ Mehrheit*\n*³ traditionelle Werte und Meinungen sind wichtig*\n*⁴ die Freiheit des Einzelnen ist wichtig*\n*⁵ die gleichen Rechte haben*"
+    },
+    {
+      "t": "task",
+      "label": "Aufgabe",
+      "instruction": "Markieren Sie in jedem Text ein Partizipialattribut und unterstreichen Sie die Artikel und Nomen in a wie im Beispiel."
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Machen Sie ein Partnerquiz. A stellt Fragen zu den ersten drei Textabschnitten, B stellt Fragen zu den letzten beiden Abschnitten.",
+      "md": "*Beispiel:* Wer regierte in Deutschland und Österreich vor 1918? — Könige, Kaiserinnen und Kaiser."
+    },
+    {
+      "t": "h",
+      "text": "C3 — Und jetzt Sie!"
+    },
+    {
+      "t": "task",
+      "label": "Sprechen",
+      "instruction": "Partnerarbeit. Welche Fragen interessieren Sie? Sprechen Sie darüber.",
+      "md": "1. Wie sieht das politische System in Ihrem Heimatland aus?\n2. Wie wichtig ist Politik in Ihrem Leben?\n3. Sind Sie in irgendeiner Form (politisch) aktiv? (Partei, Verein, freiwillige Sozialarbeit, Kirche usw.)\n4. Was würden Sie in Ihrem politischen System verändern?\n\n*Redemittel:* In meinem Heimatland gibt es … Bundesländer / Provinzen … Es gibt … Parteien. Wir wählen … Momentan regiert … Wir haben … Bundeskanzler / Präsidenten … … dürfen wählen / abstimmen."
+    },
+    {
+      "t": "h",
+      "text": "GRAMMATIK"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Nomen — Adjektivdeklination Genitiv – Regeln (4)**\n\n| Regeln | Beispiele |\n|---|---|\n| **Hauptregel (HR):** meistens -en | |\n| – bestimmter Artikel: Sg. -en, Pl. -en | der Geschmack des süß**en** Kakaos, … |\n| – unbestimmter Artikel: Sg. -en | der Anblick einer klein**en** Maus, … |\n| – Possessivartikel: Sg. -en, Pl. -en | der Klang ihrer tief**en** Stimmen, … |\n| – Nullartikel: Sg. -en | der Geruch frisch**en** Brotes, … |\n| **Singularregel 4 (SR4):** – Nullartikel: Sg. -er | der Geschmack frisch**er** Milch |\n| **Pluralregel 2 (PL2):** – Nullartikel: Pl. -er | der Anblick wild**er** Pferde |\n\n**Adjektivdeklination – Genitiv**\n\n| Singular | best. Artikel | unbest. Artikel | Possessivartikel | Nullartikel |\n|---|---|---|---|---|\n| maskulin | des frischen Apfels | eines frischen Apfels | meines frischen Apfels | frischen Apfels |\n| neutral | des frischen Brotes | eines frischen Brotes | meines frischen Brotes | frischen Brotes |\n| feminin | der frischen Milch | einer frischen Milch | meiner frischen Milch | frisch**er** Milch |\n| **Plural** | der frischen Brötchen | frisch**er** Brötchen | meiner frischen Brötchen | frisch**er** Brötchen |\n\n**Adjektiv – Partizipien (als Attribute)**\n\n| | |\n|---|---|\n| Partizip I: regieren – regierend | der regierende Kanzler |\n| Partizip II: regieren – regiert | der regierte Kanton |\n| Partizip II: steigen – gestiegen | der gestiegene Preis |\n\n**Wortbildung – nominalisierte Partizipien**\n\n- Partizip I: regierend → der / das / die Regierende\n- Partizip II: regiert → der / das / die Regierte"
+    },
+    {
+      "t": "note",
+      "label": "GRAMMATIK",
+      "md": "**Verb — Konjunktiv II – Vergangenheit**\n\n| | hätt- | Partizip II |\n|---|---|---|\n| ich | hätte | aufgegeben / … |\n| du | hättest | |\n\n| | wär- | Partizip II |\n|---|---|---|\n| ich | wäre | gezogen / … |\n| du | wär(e)st | |\n\nwie Perfekt, aber *haben / sein* im Konjunktiv II\n\n**Satz**\n\n*Konjunktiv II (Vergangenheit) – irreale Bedingung*\n> Wenn sie eine … gefunden hätten, wären die Behörden machtlos gewesen.\n\n*Konjunktiv II (Vergangenheit) – irrealer Wunsch*\n> Hätten wir doch eine gemeinsame Wohnung gefunden!\n\n*Konjunktiv II (Vergangenheit) – irrealer Vergleich mit als ob*\n\n| | Konjunktion | | Satzende |\n|---|---|---|---|\n| Es sieht so aus, | als ob | man die Firma verkaufen | würde. |\n| Es sieht so aus, | als ob | man die Firma verkauft | hätte. |"
+    },
+    {
+      "t": "h",
+      "text": "REDEMITTEL"
+    },
+    {
+      "t": "note",
+      "label": "REDEMITTEL",
+      "md": "**über Erinnerungen sprechen**\n- Der Geruch / Der Geschmack / Der Anblick frischer Brötchen / … erinnert mich an …\n- Der Klang von / Das Geräusch von …\n\n**über vergangene Ereignisse spekulieren**\n- Was wäre geschehen, wenn Annette sich hätte scheiden lassen?\n- Was hätten sie gemacht, wenn …?\n- Wenn es die Mauer nicht gegeben hätte, hätten / wären …\n\n**vergleichen**\n- Es sieht so aus, als ob … gebaut würde / gebaut worden wäre.\n\n**argumentieren**\n- Ich finde, … hat recht. Es ist wichtig, dass …\n- Da muss ich widersprechen. Ich finde, dass …\n- Ich stimme … zu. Sie / Er sagt, dass …\n- Ja, aber … hat auch recht.\n\n**ein politisches System beschreiben**\n- In meinem Heimatland gibt es … Bundesländer / Provinzen / …\n- Es gibt … Parteien. Wir wählen … Momentan regiert …\n- Wir haben … Bundeskanzler / Präsidenten / …\n- … dürfen wählen / abstimmen."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "s3",
+  "nr": 3,
+  "date": "21.4.",
+  "title": "Präteritum, Plusquamperfekt & wenn/als",
+  "kbLessons": [
+    "L19"
+  ],
+  "contentMd": "## Mitschrift 21.4.\n\n- Ich gebe meinen Freunden ein Stück Kuchen.\n\n**Aufgabe:** Schreibt eine kurze Geschichte im Präteritum.\n\n*Mögliche Anfänge:*\n\n1. Es war ein wunderschöner Junimorgen.\n2. Ich war an diesem Tag im Gefängnis.\n\n### Präteritum-Beispiele / Wortschatz\n\n- Die Sonne schien.\n- völlig\n- Er rief an.\n- Ich begann zu kotzen. / Ich begann mich zu übergeben.\n- Wir gingen im Englischen Garten spazieren. / Wir machten im Englischen Garten einen Spaziergang.\n  - spazieren gehen / einen Spaziergang machen\n- Wir schwammen auch.\n\n### Text auf S. 154 im Kursbuch – Wortschatz\n\n- der Einfluss / jmd. beeinflussen = einen „Effekt\" auf jemanden haben\n- das Wissen / Sprachkenntnisse / IT-Kenntnisse\n- etwas in den Griff bekommen = etwas (wieder) kontrollieren\n- Es ist ihm gelungen. = Er hat es geschafft.\n- die Berufsschule\n- ausschließen\n- beschließen = sich entschließen = sich entscheiden\n- sich in einem Bereich auskennen = viel Ahnung von einem Bereich haben\n- die Rechnung / die Adresse / die Rechnungsadresse\n\n### Bildung Plusquamperfekt\n\nhaben/sein + Partizip II (im Präteritum)\n\n> Wir benutzen „haben\" oder „sein\" genauso wie im Perfekt.\n\n### KB S. 155/C1 e\n\n2. Nachdem unser Sohn auf die Welt gekommen war, wurde alles anders.\n3. Nachdem mein Freund mich zu einem Live-Spiel mitgenommen hatte, wurde ich ein richtiger Fußballfan.\n4. Nachdem ich mit meinem Freund Alex gesprochen hatte, hatte ich wieder Hoffnung.\n5. Nachdem ich den Film „Pina\" gesehen hatte, war mein Berufswunsch klar.\n- Nachdem ich nach Hause gegangen war, hatte ich Abendessen.\n\n### Hausaufgaben\n\n- A1-Verben auf der Liste der unregelmäßigen Verben nach Sprachniveau (bis Dienstag nächste Woche)\n- Arbeitsbuch: S. 147/Rest der Vokabeln, S. 152/1+2, S. 152/3+4, S. 153/6+7",
+  "exercises": [
+    {
+      "t": "ex",
+      "instruction": "Ergänze die Nebensätze. Bilde die wenn-/als-Sätze (Verb am Ende).",
+      "example": "Was machst du, **wenn** es drei Tage **regnet**? – Ich lese ein dickes Buch.",
+      "items": [
+        {
+          "q": "Was machst du, ___ die U-Bahn nicht ___? (wenn / kommen)",
+          "a": [
+            "wenn",
+            "kommt"
+          ],
+          "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+        },
+        {
+          "q": "Was machst du, ___ du dein Handy ___? (wenn / verlieren)",
+          "a": [
+            "wenn",
+            "verlierst"
+          ],
+          "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+        },
+        {
+          "q": "Was machst du, ___ du die Grammatik nicht ___? (wenn / verstehen)",
+          "a": [
+            "wenn",
+            "verstehst"
+          ],
+          "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+        },
+        {
+          "q": "Was machst du, ___ dein Nachbar nachts um 1 Uhr ___? (wenn / klingeln)",
+          "a": [
+            "wenn",
+            "klingelt"
+          ],
+          "hint": "Nebensatz mit wenn: Verb am Ende, Präsens."
+        },
+        {
+          "q": "Wie ging es dir, ___ du zum ersten Mal eine Tomate gegessen ___? (als / essen, Perfekt)",
+          "a": [
+            "als",
+            "hast"
+          ],
+          "hint": "Einmaliges Ereignis in der Vergangenheit: als + Perfekt, Hilfsverb am Ende."
+        },
+        {
+          "q": "Wie hast du dich gefühlt, ___ du den ersten eigenen Computer bekommen ___? (als / bekommen, Perfekt)",
+          "a": [
+            "als",
+            "hast"
+          ],
+          "hint": "Einmaliges Ereignis in der Vergangenheit: als + Perfekt, Hilfsverb am Ende."
+        }
+      ]
+    }
+  ]
+}

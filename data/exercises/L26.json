@@ -1,0 +1,65 @@
+{
+  "id": "L26",
+  "title": "Wer war der Täter?",
+  "kursbuch": "Kursbuch S. 205–212",
+  "intro": "Zweiteilige Konjunktionen, Perfekt mit Modalverb, wegen + Genitiv, Wortbildung -heit/-keit und Konjunktionaladverbien.",
+  "sections": [
+    {
+      "heading": "Zweiteilige Konjunktionen",
+      "items": [
+        { "prompt": "Es ist ___ richtig, dass Frau G. zum Haus ihrer Chefin ging, ___ es ist falsch, dass sie sie getötet hat.", "answer": ["zwar", "aber"], "hint": "das eine, aber auch das andere" },
+        { "prompt": "Sie hatten ___ ihre Dokumente noch, ___ ihre Geldbörsen waren weg.", "answer": ["zwar", "aber"] },
+        { "prompt": "Die Nachbarin hatte ___ den Schuss gehört, ___ auch den Ehemann gesehen.", "answer": ["nicht nur", "sondern"], "hint": "das eine und auch das andere" },
+        { "prompt": "Das Opfer hat den Täter ___ in der Disco ___ auf dem Weg nach Hause getroffen.", "answer": ["entweder", "oder"] },
+        { "prompt": "Sie hatte ihn ___ angesprochen ___ beleidigt, trotzdem schlug er zu.", "answer": ["weder", "noch"] }
+      ]
+    },
+    {
+      "heading": "Perfekt mit Modalverb",
+      "items": [
+        { "prompt": "Ich habe an dem Hund vorbeilaufen ___.", "answer": "müssen", "hint": "= Ich musste vorbeilaufen." },
+        { "prompt": "Wir ___ einen Krankenwagen rufen müssen.", "answer": "haben", "hint": "haben + 2x Infinitiv" },
+        { "prompt": "Die Frau wollte zwar sofort aufstehen, aber sie hat nicht einmal sitzen ___.", "answer": "können" },
+        { "prompt": "Ich habe dir leider nicht aufmachen ___, der Krimi war gerade so spannend.", "answer": "können" },
+        { "prompt": "Wir ___ es gar nicht suchen können, wir mussten ja in die Notaufnahme fahren.", "answer": "haben" }
+      ]
+    },
+    {
+      "heading": "Präposition wegen + Genitiv",
+      "items": [
+        { "prompt": "Warum sind die Tatortkrimis so erfolgreich? ___ der vielen Hauptdarsteller und Spielorte.", "answer": "Wegen" },
+        { "prompt": "Die Sendung ist wegen ___ Flexibilität zur erfolgreichsten Krimisendung geworden.", "answer": "ihrer", "hint": "feminin: wegen ihrer Arbeitsweise" },
+        { "prompt": "Es kommt wegen ___ Themas manchmal zu Protesten.", "answer": "des", "hint": "neutral: wegen des Themas" },
+        { "prompt": "Die Kommissare wurden wegen ___ Hauptdarstellers geschätzt.", "answer": "des", "hint": "maskulin Singular" },
+        { "prompt": "Wegen ___ klugen Arbeitsweise ≈ weil sie klug arbeiten.", "answer": "ihrer", "hint": "feminin" }
+      ]
+    },
+    {
+      "heading": "Wortbildung: Nomen mit -heit / -keit",
+      "items": [
+        { "prompt": "das Kind → die ___", "answer": "Kindheit" },
+        { "prompt": "freundlich → die ___", "answer": "Freundlichkeit" },
+        { "prompt": "frei → die ___", "answer": "Freiheit" },
+        { "prompt": "sicher → die ___", "answer": "Sicherheit" },
+        { "prompt": "flexibel → die ___", "answer": "Flexibilität|Flexibilitaet" }
+      ]
+    },
+    {
+      "heading": "Konjunktionaladverbien: deshalb, daher, darum, nämlich",
+      "items": [
+        { "prompt": "Er brauchte Geld, ___ hat Tims Halbbruder das Geld gestohlen.", "answer": "deshalb|deswegen|daher|darum", "hint": "Position 2 folgt das Verb" },
+        { "prompt": "Tims Halbbruder hat das Geld gestohlen, er brauchte ___ Geld.", "answer": "nämlich", "hint": "steht nie am Satzanfang" },
+        { "prompt": "Sie hasst Papierkram, ___ hinterlässt sie meist ein Chaos.", "answer": "deswegen|deshalb|daher|darum" },
+        { "prompt": "Er brauchte Geld, ___ glaube ich, dass er es war.", "answer": "daher|deshalb|deswegen|darum" }
+      ]
+    },
+    {
+      "heading": "Nebensatz mit da (≈ weil)",
+      "items": [
+        { "prompt": "Tims Halbbruder hat Geld gestohlen, ___ er Geld brauchte.", "answer": "da", "hint": "Verb am Satzende" },
+        { "prompt": "Seine Frau hatte die Scheidung verlangt, ___ er sie betrogen hatte.", "answer": "da" },
+        { "prompt": "Der wirkliche Täter hat die Brieftasche dorthin gelegt, ___ er wollte, dass die Polizei den Halbbruder verhaftet.", "answer": "denn", "hint": "Hauptsatz-Konjunktion, steht am Satzanfang" }
+      ]
+    }
+  ]
+}
