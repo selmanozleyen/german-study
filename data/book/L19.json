@@ -110,10 +110,66 @@
       "md": "- Wer hat elektronische Geräte gebastelt?\n- Nadjas Vater, das steht in Text 4."
     },
     {
-      "t": "task",
-      "label": "Aufgabe",
-      "instruction": "f) Unterstreichen Sie in den Texten in c alle Perfekt-Formen und ordnen Sie zu. (→ Perfekt, Lektionen 7 + 8)",
-      "md": "| regelmäßige Verben und Mischverben (Partizip II …*-t*) | unregelmäßige Verben (Partizip II …*-en*) | Infinitiv |\n|---|---|---|\n| hat gearbeitet | – | arbeiten |\n| – | hat gefallen | … |"
+      "t": "ex",
+      "instruction": "Schreibe den Infinitiv zu jeder Perfekt-Form aus den Texten in c. (Partizip II auf -t = regelmäßig/Mischverb; auf -en = unregelmäßig.)",
+      "example": "hat gearbeitet → **arbeiten** *(regelmäßig)*  ·  hat gefallen → **gefallen** *(unregelmäßig)*",
+      "items": [
+        {
+          "q": "hat begeistert → ___",
+          "a": "begeistern",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "hat gespielt → ___",
+          "a": "spielen",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "hat gebastelt → ___",
+          "a": "basteln",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "hat sich beschäftigt → ___",
+          "a": "sich beschäftigen|beschäftigen",
+          "hint": "regelmäßig, reflexiv"
+        },
+        {
+          "q": "hat sich beteiligt → ___",
+          "a": "sich beteiligen|beteiligen",
+          "hint": "regelmäßig, reflexiv"
+        },
+        {
+          "q": "hat mitgemacht → ___",
+          "a": "mitmachen",
+          "hint": "regelmäßig, trennbar"
+        },
+        {
+          "q": "ist begegnet → ___",
+          "a": "begegnen",
+          "hint": "unregelmäßig (mit sein)"
+        },
+        {
+          "q": "hat aufgehoben → ___",
+          "a": "aufheben",
+          "hint": "unregelmäßig, trennbar"
+        },
+        {
+          "q": "hat aufgenommen → ___",
+          "a": "aufnehmen",
+          "hint": "unregelmäßig, trennbar"
+        },
+        {
+          "q": "hat getroffen → ___",
+          "a": "treffen",
+          "hint": "unregelmäßig"
+        },
+        {
+          "q": "hat bekommen → ___",
+          "a": "bekommen",
+          "hint": "unregelmäßig"
+        }
+      ]
     },
     {
       "t": "h",
@@ -196,10 +252,76 @@
       "example": "1879, verbrachte die Kindheit und Jugend in München. → **Einstein**"
     },
     {
-      "t": "task",
-      "label": "Aufgabe",
-      "instruction": "b) Ordnen Sie die Präteritum-Formen aus a zu und schreiben Sie die Infinitive.",
-      "md": "| regelmäßige Verben und Mischverben (Präteritum mit *-t-*) | unregelmäßige Verben | Infinitiv |\n|---|---|---|\n| verbrachte | – | verbringen |\n| – | wurde | werden |\n| … | … | … |"
+      "t": "ex",
+      "instruction": "Schreibe den Infinitiv zu jeder Präteritum-Form aus Aufgabe a. (regelmäßig = Präteritum mit -t-; unregelmäßig = Vokalwechsel.)",
+      "example": "verbrachte → **verbringen** *(unregelmäßig)*  ·  wurde → **werden** *(unregelmäßig)*",
+      "items": [
+        {
+          "q": "besuchte → ___",
+          "a": "besuchen",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "entwickelte → ___",
+          "a": "entwickeln",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "unterrichtete → ___",
+          "a": "unterrichten",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "feierte → ___",
+          "a": "feiern",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "unterstützte → ___",
+          "a": "unterstützen",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "protestierte → ___",
+          "a": "protestieren",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "präsentierte → ___",
+          "a": "präsentieren",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "veröffentlichte → ___",
+          "a": "veröffentlichen",
+          "hint": "regelmäßig"
+        },
+        {
+          "q": "weigerte sich → ___",
+          "a": "sich weigern|weigern",
+          "hint": "regelmäßig, reflexiv"
+        },
+        {
+          "q": "erhielt → ___",
+          "a": "erhalten",
+          "hint": "unregelmäßig"
+        },
+        {
+          "q": "trat … auf → ___",
+          "a": "auftreten",
+          "hint": "unregelmäßig, trennbar"
+        },
+        {
+          "q": "nahm … an → ___",
+          "a": "annehmen",
+          "hint": "unregelmäßig, trennbar"
+        },
+        {
+          "q": "starb → ___",
+          "a": "sterben",
+          "hint": "unregelmäßig"
+        }
+      ]
     },
     {
       "t": "ex",
